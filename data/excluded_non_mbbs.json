@@ -1,0 +1,54 @@
+[
+  {
+    "question": "The number of permanent teeth in an adult human is:",
+    "options": [
+      "20",
+      "28",
+      "32",
+      "36"
+    ],
+    "sourceExam": "Filter Demo (these MUST end up in data/excluded_non_mbbs.json, never in the bank)",
+    "origin": "D:\\LogiKaal\\ALL projects\\bcs-mock-test\\raw_questions\\seed\\zz_filter_demo.txt",
+    "reason": "Dental/BDS-only topic (not in Assistant Surgeon MBBS syllabus)",
+    "detectedSection": "__DENTAL__"
+  },
+  {
+    "question": "Which impression material is most commonly used for complete denture final impressions?",
+    "options": [
+      "Zinc oxide eugenol",
+      "Plaster of Paris",
+      "Alginate",
+      "Agar"
+    ],
+    "sourceExam": "Filter Demo (these MUST end up in data/excluded_non_mbbs.json, never in the bank)",
+    "origin": "D:\\LogiKaal\\ALL projects\\bcs-mock-test\\raw_questions\\seed\\zz_filter_demo.txt",
+    "reason": "Dental/BDS-only topic (not in Assistant Surgeon MBBS syllabus)",
+    "detectedSection": "__DENTAL__"
+  },
+  {
+    "question": "The chemical formula of common salt is:",
+    "options": [
+      "NaCl",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "sourceExam": "Filter Demo (these MUST end up in data/excluded_non_mbbs.json, never in the bank)",
+    "origin": "D:\\LogiKaal\\ALL projects\\bcs-mock-test\\raw_questions\\seed\\zz_filter_demo.txt",
+    "reason": "Outside 51st Special BCS 7-area distribution (General Science / ICT / Ethics / Geography)",
+    "detectedSection": "__OUT_OF_SYLLABUS__"
+  },
+  {
+    "question": "RAM stands for:",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Action Memory",
+      "Run Access Memory"
+    ],
+    "sourceExam": "Filter Demo (these MUST end up in data/excluded_non_mbbs.json, never in the bank)",
+    "origin": "D:\\LogiKaal\\ALL projects\\bcs-mock-test\\raw_questions\\seed\\zz_filter_demo.txt",
+    "reason": "Outside 51st Special BCS 7-area distribution (General Science / ICT / Ethics / Geography)",
+    "detectedSection": "__OUT_OF_SYLLABUS__"
+  }
+]

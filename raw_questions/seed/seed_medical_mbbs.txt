@@ -1,0 +1,974 @@
+Source: Practice Seed — Medical (original practice MCQs)
+
+Medicine
+1. In acute hyperkalaemia with ECG changes, which drug is given FIRST to stabilise the myocardium?
+a) Insulin with dextrose
+b) Calcium gluconate
+c) Salbutamol nebulisation
+d) Sodium bicarbonate
+Answer: b
+Explanation: IV 10% calcium gluconate antagonises the membrane effect of potassium within minutes but does not lower serum K+; insulin-dextrose and salbutamol shift K+ into cells.
+
+2. The most common cause of community-acquired pneumonia is:
+a) Staphylococcus aureus
+b) Klebsiella pneumoniae
+c) Streptococcus pneumoniae
+d) Mycoplasma pneumoniae
+Answer: c
+Explanation: Pneumococcus remains the commonest bacterial cause of community-acquired pneumonia in all age groups.
+
+3. Kussmaul breathing is characteristically seen in:
+a) Diabetic ketoacidosis
+b) Opioid overdose
+c) Bronchial asthma
+d) Congestive cardiac failure
+Answer: a
+Explanation: Deep, sighing respiration is a respiratory compensation for metabolic acidosis such as DKA.
+
+4. HbA1c reflects the average blood glucose level over the previous:
+a) 1–2 weeks
+b) 3–4 weeks
+c) 2–3 months
+d) 6 months
+Answer: c
+Explanation: Glycated haemoglobin reflects glycaemia over the lifespan of red cells, roughly 8–12 weeks.
+
+5. The commonest site of hypertensive intracerebral haemorrhage is the:
+a) Cerebellum
+b) Putamen
+c) Pons
+d) Thalamus
+Answer: b
+Explanation: Rupture of lenticulostriate (Charcot–Bouchard) microaneurysms makes the putamen/basal ganglia the most common site.
+
+6. The earliest ECG change in hyperkalaemia is:
+a) Prolonged PR interval
+b) U wave
+c) Tall peaked T waves
+d) ST depression
+Answer: c
+Explanation: Tall tented T waves appear first, followed by PR prolongation, loss of P waves and QRS widening.
+
+7. The investigation of choice to diagnose pulmonary embolism is:
+a) CT pulmonary angiography
+b) Chest X-ray
+c) D-dimer
+d) ECG
+Answer: a
+Explanation: CTPA is the standard confirmatory test; D-dimer is useful only to exclude PE in low-probability patients.
+
+8. Kayser–Fleischer ring is characteristic of:
+a) Haemochromatosis
+b) Wilson disease
+c) Primary biliary cholangitis
+d) Alpha-1 antitrypsin deficiency
+Answer: b
+Explanation: Copper deposition in Descemet's membrane of the cornea produces the KF ring in Wilson disease.
+
+9. The first-line treatment of anaphylaxis is:
+a) IV hydrocortisone
+b) Oral antihistamine
+c) IM adrenaline 0.5 mg (1:1000)
+d) Nebulised salbutamol
+Answer: c
+Explanation: Intramuscular adrenaline into the anterolateral thigh is life-saving and must not be delayed; steroids and antihistamines are adjuncts.
+
+10. The most common cause of upper gastrointestinal bleeding is:
+a) Oesophageal varices
+b) Mallory–Weiss tear
+c) Gastric carcinoma
+d) Peptic ulcer disease
+Answer: d
+Explanation: Peptic ulcer (duodenal and gastric) is the leading cause of acute upper GI haemorrhage.
+
+Surgery
+11. The most common type of hernia in both sexes is:
+a) Indirect inguinal hernia
+b) Femoral hernia
+c) Direct inguinal hernia
+d) Umbilical hernia
+Answer: a
+Explanation: Indirect inguinal hernia is the commonest hernia overall, including in females; femoral hernia is relatively more common in women.
+
+12. Charcot's triad (fever with rigors, jaundice and right upper quadrant pain) indicates:
+a) Acute pancreatitis
+b) Acute cholecystitis
+c) Ascending cholangitis
+d) Liver abscess
+Answer: c
+Explanation: Adding hypotension and confusion gives Reynolds' pentad (suppurative cholangitis).
+
+13. According to the Parkland formula, fluid for the first 24 hours after a burn is:
+a) 2 mL × body weight (kg) × %TBSA
+b) 4 mL × body weight (kg) × %TBSA
+c) 6 mL × body weight (kg) × %TBSA
+d) 1 mL × body weight (kg) × %TBSA
+Answer: b
+Explanation: Half of the Ringer's lactate volume is given in the first 8 hours from the time of burn and the rest over the next 16 hours.
+
+14. McBurney's point lies at the junction of the lateral one-third and medial two-thirds of a line joining:
+a) Umbilicus and pubic symphysis
+b) ASIS and pubic tubercle
+c) Umbilicus and right ASIS
+d) Xiphisternum and umbilicus
+Answer: c
+Explanation: It marks the surface position of the base of the appendix.
+
+15. The most common type of thyroid carcinoma is:
+a) Follicular carcinoma
+b) Medullary carcinoma
+c) Anaplastic carcinoma
+d) Papillary carcinoma
+Answer: d
+Explanation: Papillary carcinoma accounts for about 80% of thyroid cancers and spreads mainly via lymphatics.
+
+16. The minimum possible score on the Glasgow Coma Scale is:
+a) 0
+b) 3
+c) 5
+d) 8
+Answer: b
+Explanation: GCS ranges from 3 (deep coma) to 15 (fully conscious); ≤8 usually indicates need for airway protection.
+
+17. Colles' fracture is a fracture of the distal radius with:
+a) Volar displacement of the distal fragment
+b) Dorsal displacement of the distal fragment
+c) Dislocation of the radial head
+d) Fracture of the ulnar shaft
+Answer: b
+Explanation: Produced by a fall on the outstretched hand, giving the classic "dinner fork" deformity; Smith's fracture has volar displacement.
+
+18. A positive Murphy's sign is characteristic of:
+a) Acute appendicitis
+b) Acute cholecystitis
+c) Perforated duodenal ulcer
+d) Acute pancreatitis
+Answer: b
+Explanation: Inspiratory arrest on palpation of the right subcostal region indicates an inflamed gallbladder.
+
+19. The investigation of choice for gallstones is:
+a) Ultrasonography
+b) Plain X-ray abdomen
+c) Oral cholecystography
+d) HIDA scan
+Answer: a
+Explanation: Only about 10–15% of gallstones are radio-opaque; ultrasound is cheap, non-invasive and highly sensitive.
+
+20. Haemorrhagic shock with an estimated blood loss of 30–40% belongs to:
+a) Class I
+b) Class II
+c) Class III
+d) Class IV
+Answer: c
+Explanation: ATLS classes: I <15%, II 15–30%, III 30–40%, IV >40% of blood volume.
+
+Gynaecology & Obstetrics
+21. The average duration of human pregnancy counted from the first day of the last menstrual period is:
+a) 250 days
+b) 266 days
+c) 280 days
+d) 300 days
+Answer: c
+Explanation: 280 days (40 weeks) from LMP, or about 266 days from ovulation/conception.
+
+22. The drug of choice for controlling convulsions in eclampsia is:
+a) Diazepam
+b) Phenytoin
+c) Magnesium sulphate
+d) Phenobarbitone
+Answer: c
+Explanation: MgSO4 (Pritchard or Zuspan regimen) is superior to diazepam and phenytoin in preventing recurrent fits.
+
+23. The most common site of ectopic pregnancy is:
+a) Ampulla of the fallopian tube
+b) Isthmus of the fallopian tube
+c) Ovary
+d) Cervix
+Answer: a
+Explanation: About 70–80% of tubal pregnancies occur in the ampulla.
+
+24. Naegele's rule for calculating the expected date of delivery is:
+a) LMP + 9 months + 7 days
+b) LMP + 9 months − 7 days
+c) LMP + 10 months + 7 days
+d) LMP + 8 months + 7 days
+Answer: a
+Explanation: It assumes a regular 28-day cycle; the equivalent is LMP − 3 months + 7 days (+1 year).
+
+25. The most common cause of primary postpartum haemorrhage is:
+a) Genital tract trauma
+b) Retained placenta
+c) Coagulation disorder
+d) Uterine atony
+Answer: d
+Explanation: Atonic uterus accounts for the majority of PPH cases ("Tone, Trauma, Tissue, Thrombin").
+
+26. The most widely used screening test for carcinoma cervix is:
+a) Colposcopy
+b) Pap smear
+c) Cone biopsy
+d) Serum CA-125
+Answer: b
+Explanation: Cervical cytology (Pap smear) detects pre-invasive lesions; VIA is used for mass screening in low-resource settings such as Bangladesh.
+
+27. The hormone detected by a standard urine pregnancy test is:
+a) Human placental lactogen
+b) Progesterone
+c) Human chorionic gonadotropin (hCG)
+d) Oestriol
+Answer: c
+Explanation: The beta subunit of hCG secreted by syncytiotrophoblast is detected by immunoassay.
+
+28. "Snowstorm appearance" on ultrasonography is characteristic of:
+a) Hydatidiform mole
+b) Twin pregnancy
+c) Hydramnios
+d) Placenta praevia
+Answer: a
+Explanation: Complete mole shows a vesicular "snowstorm" pattern without a fetus.
+
+29. The most common fetal presentation at term is:
+a) Breech
+b) Brow
+c) Face
+d) Cephalic (vertex)
+Answer: d
+Explanation: About 96% of fetuses present by the vertex at term.
+
+30. Physiological anaemia of pregnancy is mainly due to:
+a) Iron deficiency
+b) Folate deficiency
+c) Greater increase in plasma volume than red cell mass
+d) Haemolysis
+Answer: c
+Explanation: Plasma volume rises by ~40–50% whereas red cell mass rises by ~20–30%, producing haemodilution.
+
+Anatomy
+31. The deltoid muscle is supplied by the:
+a) Radial nerve
+b) Axillary nerve
+c) Musculocutaneous nerve
+d) Suprascapular nerve
+Answer: b
+Explanation: The axillary nerve (C5, C6) may be injured in fracture of the surgical neck of the humerus or shoulder dislocation.
+
+32. Wrist drop results from injury to the:
+a) Median nerve
+b) Ulnar nerve
+c) Radial nerve
+d) Musculocutaneous nerve
+Answer: c
+Explanation: Radial nerve injury in the spiral groove paralyses the wrist and finger extensors.
+
+33. The largest cranial nerve is the:
+a) Vagus
+b) Facial
+c) Optic
+d) Trigeminal
+Answer: d
+Explanation: The trigeminal (5th) nerve is the largest; the vagus has the longest course and the trochlear is the thinnest.
+
+34. The only cranial nerve that emerges from the dorsal aspect of the brainstem is the:
+a) Trochlear nerve
+b) Abducent nerve
+c) Oculomotor nerve
+d) Hypoglossal nerve
+Answer: a
+Explanation: The 4th cranial nerve emerges dorsally below the inferior colliculus and decussates completely.
+
+35. Foot drop is caused by injury to the:
+a) Tibial nerve
+b) Femoral nerve
+c) Common peroneal (fibular) nerve
+d) Obturator nerve
+Answer: c
+Explanation: The common peroneal nerve winds around the neck of the fibula where it is easily injured.
+
+36. The most commonly fractured carpal bone is the:
+a) Lunate
+b) Scaphoid
+c) Hamate
+d) Trapezium
+Answer: b
+Explanation: Scaphoid fracture may lead to avascular necrosis of the proximal fragment because of retrograde blood supply.
+
+37. In most individuals the sinoatrial (SA) node is supplied by the:
+a) Right coronary artery
+b) Left anterior descending artery
+c) Left circumflex artery
+d) Posterior interventricular artery only
+Answer: a
+Explanation: The SA nodal artery arises from the right coronary artery in about 60% of people.
+
+38. The thoracic duct usually drains into the:
+a) Right brachiocephalic vein
+b) Superior vena cava
+c) Azygos vein
+d) Junction of the left subclavian and left internal jugular veins
+Answer: d
+Explanation: The thoracic duct begins at the cisterna chyli and terminates at the left venous angle.
+
+39. The muscle of mastication that opens the mouth (depresses the mandible) is the:
+a) Masseter
+b) Temporalis
+c) Lateral pterygoid
+d) Medial pterygoid
+Answer: c
+Explanation: The lateral pterygoid protrudes and depresses the mandible; the others elevate it.
+
+40. In adults the spinal cord usually ends at the level of the:
+a) Lower border of T12
+b) Lower border of L1
+c) Lower border of L3
+d) S2 vertebra
+Answer: b
+Explanation: The conus medullaris ends at L1/L2; in newborns it reaches about L3, hence lumbar puncture is done at L3/L4 or L4/L5.
+
+Physiology
+41. The normal glomerular filtration rate in a healthy adult is about:
+a) 25 mL/min
+b) 60 mL/min
+c) 125 mL/min
+d) 650 mL/min
+Answer: c
+Explanation: Approximately 125 mL/min or 180 L/day; 650 mL/min is the approximate renal plasma flow.
+
+42. The natural pacemaker of the heart is the:
+a) AV node
+b) SA node
+c) Bundle of His
+d) Purkinje fibres
+Answer: b
+Explanation: The SA node has the fastest rate of spontaneous diastolic depolarisation.
+
+43. Pulmonary surfactant is secreted by:
+a) Type I pneumocytes
+b) Alveolar macrophages
+c) Type II pneumocytes
+d) Clara cells only
+Answer: c
+Explanation: Dipalmitoyl phosphatidylcholine produced by type II pneumocytes lowers alveolar surface tension.
+
+44. The normal lifespan of a red blood cell is about:
+a) 30 days
+b) 60 days
+c) 90 days
+d) 120 days
+Answer: d
+Explanation: Aged RBCs are removed mainly by macrophages of the spleen.
+
+45. Water reabsorption in the collecting duct is mainly increased by:
+a) Aldosterone
+b) Antidiuretic hormone (ADH)
+c) Atrial natriuretic peptide
+d) Parathormone
+Answer: b
+Explanation: ADH inserts aquaporin-2 channels into the luminal membrane of principal cells.
+
+46. The oxygen–haemoglobin dissociation curve shifts to the RIGHT with:
+a) Increased 2,3-BPG
+b) Decreased temperature
+c) Increased pH
+d) Fetal haemoglobin
+Answer: a
+Explanation: Raised 2,3-BPG, CO2, H+ (low pH) and temperature reduce Hb affinity for O2, favouring tissue delivery.
+
+47. The resting membrane potential of a typical neuron is approximately:
+a) +30 mV
+b) −20 mV
+c) −70 mV
+d) −120 mV
+Answer: c
+Explanation: It is determined mainly by K+ efflux through leak channels and maintained by the Na+/K+ ATPase.
+
+48. The normal resting cardiac output of an adult is about:
+a) 2 L/min
+b) 5 L/min
+c) 10 L/min
+d) 15 L/min
+Answer: b
+Explanation: Cardiac output = stroke volume (~70 mL) × heart rate (~72/min) ≈ 5 L/min.
+
+49. Intrinsic factor is secreted by the:
+a) Chief cells
+b) G cells
+c) Mucous neck cells
+d) Parietal cells
+Answer: d
+Explanation: Parietal (oxyntic) cells secrete HCl and intrinsic factor required for vitamin B12 absorption in the terminal ileum.
+
+50. Vitamin K-dependent clotting factors are:
+a) I, V, VIII, XIII
+b) II, VII, IX, X
+c) III, IV, XI, XII
+d) V, VIII, IX, XI
+Answer: b
+Explanation: Vitamin K is needed for gamma-carboxylation of factors II, VII, IX and X (and proteins C and S).
+
+Biochemistry
+51. The rate-limiting enzyme of cholesterol biosynthesis is:
+a) HMG-CoA synthase
+b) HMG-CoA reductase
+c) Squalene synthase
+d) Mevalonate kinase
+Answer: b
+Explanation: HMG-CoA reductase is the target of statin drugs.
+
+52. The rate-limiting enzyme of glycolysis is:
+a) Hexokinase
+b) Pyruvate kinase
+c) Phosphofructokinase-1
+d) Aldolase
+Answer: c
+Explanation: PFK-1 is the main regulatory step, activated by fructose-2,6-bisphosphate and AMP and inhibited by ATP and citrate.
+
+53. Scurvy is caused by deficiency of:
+a) Vitamin A
+b) Vitamin C
+c) Vitamin D
+d) Vitamin B12
+Answer: b
+Explanation: Ascorbic acid is required for hydroxylation of proline and lysine in collagen synthesis.
+
+54. Wernicke's encephalopathy is due to deficiency of:
+a) Riboflavin
+b) Niacin
+c) Pyridoxine
+d) Thiamine
+Answer: d
+Explanation: Thiamine (B1) deficiency, typically in chronic alcoholics, causes ophthalmoplegia, ataxia and confusion.
+
+55. The urea cycle takes place mainly in the:
+a) Liver
+b) Kidney
+c) Muscle
+d) Brain
+Answer: a
+Explanation: Its first two steps occur in hepatocyte mitochondria and the rest in the cytosol.
+
+56. Net ATP gained per molecule of glucose in anaerobic glycolysis is:
+a) 2
+b) 4
+c) 8
+d) 36
+Answer: a
+Explanation: 4 ATP are produced but 2 are consumed in the preparatory phase, giving a net gain of 2 ATP.
+
+57. Phenylketonuria results from deficiency of:
+a) Tyrosinase
+b) Homogentisate oxidase
+c) Phenylalanine hydroxylase
+d) Fumarylacetoacetate hydrolase
+Answer: c
+Explanation: Accumulated phenylalanine causes mental retardation and a mousy odour; tyrosinase deficiency causes albinism.
+
+58. The lipoprotein often called "good cholesterol" is:
+a) LDL
+b) VLDL
+c) Chylomicron
+d) HDL
+Answer: d
+Explanation: HDL mediates reverse cholesterol transport from tissues to the liver.
+
+59. Pellagra (dermatitis, diarrhoea, dementia) is caused by deficiency of:
+a) Niacin
+b) Folic acid
+c) Biotin
+d) Pantothenic acid
+Answer: a
+Explanation: Niacin (vitamin B3) deficiency; it can also occur in Hartnup disease and carcinoid syndrome.
+
+60. The end product of purine catabolism in humans is:
+a) Urea
+b) Allantoin
+c) Uric acid
+d) Beta-alanine
+Answer: c
+Explanation: Humans lack uricase; excess uric acid causes gout.
+
+Pathology
+61. The earliest and most common change of reversible cell injury is:
+a) Nuclear pyknosis
+b) Cellular swelling
+c) Karyorrhexis
+d) Calcification
+Answer: b
+Explanation: Failure of membrane ion pumps leads to hydropic change (cellular swelling); nuclear changes indicate irreversible injury.
+
+62. Caseous necrosis is characteristic of:
+a) Myocardial infarction
+b) Acute pancreatitis
+c) Tuberculosis
+d) Brain infarction
+Answer: c
+Explanation: Cheese-like necrosis surrounded by granulomatous inflammation is typical of tuberculosis.
+
+63. Reed–Sternberg cells are characteristic of:
+a) Hodgkin lymphoma
+b) Burkitt lymphoma
+c) Multiple myeloma
+d) Chronic lymphocytic leukaemia
+Answer: a
+Explanation: Large binucleate "owl-eye" cells (CD15+, CD30+) are diagnostic of classical Hodgkin lymphoma.
+
+64. The type of necrosis seen in myocardial infarction is:
+a) Liquefactive necrosis
+b) Fat necrosis
+c) Caseous necrosis
+d) Coagulative necrosis
+Answer: d
+Explanation: Hypoxic death in solid organs (except brain) produces coagulative necrosis with preserved architecture.
+
+65. Barrett's oesophagus is an example of:
+a) Hyperplasia
+b) Metaplasia
+c) Atrophy
+d) Anaplasia
+Answer: b
+Explanation: Squamous epithelium is replaced by intestinal-type columnar epithelium due to chronic acid reflux.
+
+66. The Philadelphia chromosome t(9;22) is characteristic of:
+a) Chronic myeloid leukaemia
+b) Acute promyelocytic leukaemia
+c) Hairy cell leukaemia
+d) Burkitt lymphoma
+Answer: a
+Explanation: The BCR-ABL fusion gene encodes a constitutively active tyrosine kinase, the target of imatinib.
+
+67. Which of the following is NOT a component of Virchow's triad?
+a) Endothelial injury
+b) Stasis of blood flow
+c) Hypercoagulability
+d) Thrombocytopenia
+Answer: d
+Explanation: Virchow's triad of thrombosis = endothelial injury, abnormal blood flow and hypercoagulability.
+
+68. The most common cause of microcytic hypochromic anaemia is:
+a) Thalassaemia
+b) Iron deficiency
+c) Sideroblastic anaemia
+d) Anaemia of chronic disease
+Answer: b
+Explanation: Iron deficiency is the commonest anaemia worldwide; low serum ferritin confirms it.
+
+69. Psammoma bodies are typically found in:
+a) Follicular carcinoma of thyroid
+b) Medullary carcinoma of thyroid
+c) Papillary carcinoma of thyroid
+d) Hepatocellular carcinoma
+Answer: c
+Explanation: Concentric laminated calcifications occur in papillary thyroid carcinoma, serous ovarian tumours and meningioma.
+
+70. Liquefactive necrosis characteristically occurs after infarction of the:
+a) Heart
+b) Kidney
+c) Spleen
+d) Brain
+Answer: d
+Explanation: Hypoxic death in the CNS produces liquefactive necrosis.
+
+Pharmacology
+71. The antidote for paracetamol poisoning is:
+a) N-acetylcysteine
+b) Naloxone
+c) Flumazenil
+d) Desferrioxamine
+Answer: a
+Explanation: NAC replenishes glutathione and detoxifies NAPQI; it is most effective within 8–10 hours of ingestion.
+
+72. The specific antidote used for organophosphorus poisoning along with oximes is:
+a) Physostigmine
+b) Atropine
+c) Neostigmine
+d) Adrenaline
+Answer: b
+Explanation: Atropine blocks muscarinic effects; pralidoxime reactivates cholinesterase if given early.
+
+73. The drug of choice for absence (petit mal) seizures among the following is:
+a) Phenytoin
+b) Carbamazepine
+c) Ethosuximide
+d) Phenobarbitone
+Answer: c
+Explanation: Ethosuximide (or valproate) blocks T-type calcium channels; carbamazepine and phenytoin may worsen absence seizures.
+
+74. Aspirin produces its antiplatelet effect by:
+a) Reversible inhibition of COX
+b) ADP receptor blockade
+c) Irreversible inhibition of cyclo-oxygenase
+d) Glycoprotein IIb/IIIa blockade
+Answer: c
+Explanation: Aspirin acetylates COX-1, reducing thromboxane A2 for the life of the platelet (7–10 days).
+
+75. "Red man syndrome" is associated with rapid infusion of:
+a) Vancomycin
+b) Rifampicin
+c) Ceftriaxone
+d) Gentamicin
+Answer: a
+Explanation: It is a histamine-mediated flushing reaction; slowing the infusion prevents it.
+
+76. "Grey baby syndrome" is caused by:
+a) Tetracycline
+b) Chloramphenicol
+c) Streptomycin
+d) Sulphonamides
+Answer: b
+Explanation: Neonates lack adequate glucuronyl transferase to conjugate chloramphenicol.
+
+77. The most serious (though rare) adverse effect of metformin is:
+a) Hypoglycaemia
+b) Weight gain
+c) Lactic acidosis
+d) Hepatotoxicity
+Answer: c
+Explanation: The risk is higher in renal failure, hypoxia and alcoholism; metformin alone rarely causes hypoglycaemia.
+
+78. The antidote for heparin overdose is:
+a) Vitamin K
+b) Protamine sulphate
+c) Tranexamic acid
+d) Fresh frozen plasma only
+Answer: b
+Explanation: Positively charged protamine neutralises negatively charged heparin; vitamin K reverses warfarin.
+
+79. Ototoxicity and nephrotoxicity are characteristic adverse effects of:
+a) Gentamicin
+b) Amoxicillin
+c) Azithromycin
+d) Ciprofloxacin
+Answer: a
+Explanation: Aminoglycosides accumulate in the perilymph and renal tubular cells.
+
+80. The initial drug of choice to terminate status epilepticus is:
+a) Oral phenytoin
+b) Carbamazepine
+c) Ethosuximide
+d) IV lorazepam
+Answer: d
+Explanation: An IV benzodiazepine (lorazepam/diazepam, or buccal/IM midazolam) is first line, followed by phenytoin/levetiracetam if seizures continue.
+
+Microbiology
+81. Typhoid fever is caused by:
+a) Salmonella Typhi
+b) Shigella dysenteriae
+c) Escherichia coli
+d) Vibrio cholerae
+Answer: a
+Explanation: Blood culture is positive in the first week; Widal test becomes positive later.
+
+82. Ziehl–Neelsen staining is mainly used to detect:
+a) Staphylococcus aureus
+b) Mycobacterium tuberculosis
+c) Candida albicans
+d) Treponema pallidum
+Answer: b
+Explanation: Mycolic acid in the cell wall makes mycobacteria acid-fast.
+
+83. Kala-azar is caused by:
+a) Trypanosoma cruzi
+b) Plasmodium vivax
+c) Leishmania donovani
+d) Toxoplasma gondii
+Answer: c
+Explanation: Visceral leishmaniasis is transmitted by the sandfly (Phlebotomus argentipes) and is endemic in parts of Bangladesh.
+
+84. The principal vector of dengue is:
+a) Anopheles mosquito
+b) Culex mosquito
+c) Sandfly
+d) Aedes aegypti
+Answer: d
+Explanation: Aedes is a day-biting mosquito that breeds in stored clean water.
+
+85. The medium used for rapid culture of Corynebacterium diphtheriae is:
+a) Loeffler's serum slope
+b) MacConkey agar
+c) TCBS agar
+d) Lowenstein–Jensen medium
+Answer: a
+Explanation: Growth appears within 6–8 hours on Loeffler's serum slope; potassium tellurite agar is a selective medium.
+
+86. TCBS agar is the selective medium for:
+a) Salmonella
+b) Vibrio cholerae
+c) Shigella
+d) Pseudomonas
+Answer: b
+Explanation: Thiosulphate citrate bile salt sucrose agar gives yellow colonies of V. cholerae.
+
+87. Negri bodies are diagnostic of:
+a) Measles
+b) Rabies
+c) Herpes simplex
+d) Cytomegalovirus
+Answer: b
+Explanation: Eosinophilic intracytoplasmic inclusions in neurons (e.g. Purkinje cells, hippocampus) are seen in rabies.
+
+88. HIV belongs to the family:
+a) Herpesviridae
+b) Paramyxoviridae
+c) Retroviridae
+d) Flaviviridae
+Answer: c
+Explanation: HIV is a lentivirus using reverse transcriptase to make DNA from its RNA genome.
+
+89. Malignant tertian malaria is caused by:
+a) Plasmodium vivax
+b) Plasmodium ovale
+c) Plasmodium malariae
+d) Plasmodium falciparum
+Answer: d
+Explanation: P. falciparum causes cerebral malaria and other severe complications.
+
+90. Gram-positive cocci arranged in grape-like clusters are:
+a) Streptococci
+b) Staphylococci
+c) Neisseria
+d) Pneumococci
+Answer: b
+Explanation: Streptococci form chains; Neisseria are gram-negative diplococci.
+
+Forensic Medicine
+91. Among voluntary muscles, rigor mortis first appears in the:
+a) Eyelids
+b) Lower limbs
+c) Fingers
+d) Toes
+Answer: a
+Explanation: Following Nysten's rule it begins in the eyelids, then face and neck, progressing downwards; it appears first in the myocardium overall.
+
+92. The ligature mark in typical hanging is:
+a) Horizontal and continuous, below the thyroid cartilage
+b) Oblique and non-continuous, above the thyroid cartilage
+c) Absent in all cases
+d) Circular around the chest
+Answer: b
+Explanation: A horizontal continuous mark low on the neck suggests ligature strangulation.
+
+93. Cherry-red postmortem lividity is characteristic of poisoning by:
+a) Carbon monoxide
+b) Opium
+c) Arsenic
+d) Phosphorus
+Answer: a
+Explanation: Carboxyhaemoglobin imparts a cherry-red colour; cyanide may give a bright red colour too.
+
+94. A dying declaration is admissible under which section of the Evidence Act, 1872?
+a) Section 24
+b) Section 32
+c) Section 45
+d) Section 60
+Answer: b
+Explanation: Section 32(1) makes statements of a deceased person about the cause of death relevant.
+
+95. "Pugilistic attitude" of a dead body is seen in death due to:
+a) Drowning
+b) Hanging
+c) Burns
+d) Electrocution
+Answer: c
+Explanation: Heat coagulation of muscle proteins flexes the limbs into a boxer-like posture; it does not indicate ante-mortem burning.
+
+96. The smell of bitter almonds is characteristic of poisoning by:
+a) Kerosene
+b) Cyanide
+c) Organophosphate
+d) Alcohol
+Answer: b
+Explanation: Hydrocyanic acid smells of bitter almonds, though not everyone can detect it.
+
+97. The most reliable method of personal identification among the following is:
+a) Anthropometry
+b) Tattoo marks
+c) Clothing
+d) Dactylography
+Answer: d
+Explanation: Fingerprint patterns are unique and permanent (apart from DNA profiling).
+
+98. "Washerwoman's hands" are seen in a body after:
+a) Prolonged immersion in water
+b) Burns
+c) Electrocution
+d) Hanging
+Answer: a
+Explanation: Bleached, wrinkled, sodden skin of palms and soles appears after prolonged immersion; it is not proof of drowning.
+
+99. Police inquest in Bangladesh is conducted under which section of the Code of Criminal Procedure?
+a) Section 154
+b) Section 161
+c) Section 174
+d) Section 176
+Answer: c
+Explanation: CrPC section 174 deals with police inquest; section 176 covers magistrate's inquest.
+
+100. Adipocere formation is favoured by:
+a) Dry, cold environment
+b) Warm, moist environment
+c) Hot, dry sand
+d) Freezing temperatures
+Answer: b
+Explanation: Hydrolysis and hydrogenation of body fat occurs in warm, moist, anaerobic conditions; dry heat favours mummification.
+
+Community Medicine
+101. Incidence of a disease refers to:
+a) All existing cases at a point in time
+b) Number of new cases occurring in a defined population during a specified period
+c) Number of deaths due to the disease
+d) Total cases in a lifetime
+Answer: b
+Explanation: Prevalence counts both new and old (existing) cases; prevalence ≈ incidence × duration.
+
+102. After chlorination of drinking water, the recommended free residual chlorine after one hour of contact is:
+a) 0.05 mg/L
+b) 0.5 mg/L
+c) 5 mg/L
+d) 50 mg/L
+Answer: b
+Explanation: A free residual chlorine of 0.5 mg/L after a contact period of one hour ensures safe water.
+
+103. BCG vaccine is administered by which route?
+a) Intramuscular
+b) Subcutaneous
+c) Intradermal
+d) Oral
+Answer: c
+Explanation: 0.05 mL is given intradermally over the left deltoid in newborns under EPI.
+
+104. Herd immunity does NOT protect against:
+a) Measles
+b) Diphtheria
+c) Polio
+d) Tetanus
+Answer: d
+Explanation: Tetanus is not transmitted from person to person, so individual immunisation is required.
+
+105. The positive predictive value of a screening test depends mostly on the:
+a) Prevalence of the disease
+b) Sensitivity alone
+c) Number of observers
+d) Cost of the test
+Answer: a
+Explanation: With constant sensitivity and specificity, PPV rises as disease prevalence increases.
+
+106. Which measure of central tendency is most affected by extreme values?
+a) Median
+b) Mode
+c) Mean
+d) Mid-range is never affected
+Answer: c
+Explanation: The arithmetic mean is pulled by outliers; the median is preferred for skewed data.
+
+107. The most important consequence of iodine deficiency worldwide is:
+a) Goitre only
+b) Preventable brain damage and mental retardation
+c) Hypertension
+d) Dental caries
+Answer: b
+Explanation: Iodine deficiency is the world's leading cause of preventable intellectual impairment.
+
+108. Under the national programme, children aged 12–59 months receive vitamin A as:
+a) 50,000 IU once only
+b) 100,000 IU daily
+c) 200,000 IU every 6 months
+d) 500,000 IU yearly
+Answer: c
+Explanation: Infants 6–11 months receive 100,000 IU; children 12–59 months receive 200,000 IU every six months.
+
+109. Most vaccines in the cold chain should be stored at:
+a) +2°C to +8°C
+b) −40°C to −20°C
+c) +10°C to +15°C
+d) Room temperature
+Answer: a
+Explanation: Freeze-sensitive vaccines (e.g. pentavalent, TT/Td, hepatitis B) must never be frozen.
+
+110. A study that starts with people who have the disease and looks back for past exposure is:
+a) Cohort study
+b) Case-control study
+c) Randomised controlled trial
+d) Cross-sectional study
+Answer: b
+Explanation: Case-control studies proceed from effect to cause and estimate risk by the odds ratio.
+
+Pediatrics
+111. Which of the following is NOT a component of the APGAR score?
+a) Heart rate
+b) Respiratory effort
+c) Blood pressure
+d) Muscle tone
+Answer: c
+Explanation: APGAR = Appearance (colour), Pulse, Grimace (reflex irritability), Activity (tone) and Respiration.
+
+112. A normal child can sit without support at about:
+a) 3 months
+b) 6–8 months
+c) 12 months
+d) 18 months
+Answer: b
+Explanation: Sitting with support occurs at ~6 months and steady sitting without support by ~8 months.
+
+113. WHO recommends exclusive breastfeeding for the first:
+a) 2 months
+b) 4 months
+c) 6 months
+d) 12 months
+Answer: c
+Explanation: Complementary feeding begins at 6 months while breastfeeding continues up to 2 years or beyond.
+
+114. The feature that distinguishes kwashiorkor from marasmus is:
+a) Growth failure
+b) Muscle wasting
+c) Oedema
+d) Anaemia
+Answer: c
+Explanation: Bilateral pitting oedema is the hallmark of kwashiorkor; marasmus shows severe wasting without oedema.
+
+115. The most common cause of jaundice in a healthy term neonate in the first week is:
+a) Physiological jaundice
+b) Biliary atresia
+c) Rh incompatibility
+d) Neonatal hepatitis
+Answer: a
+Explanation: It appears after 24 hours, peaks on days 3–5 and resolves by about 2 weeks in term babies.
+
+116. Which of the following is a MAJOR Jones criterion for acute rheumatic fever?
+a) Fever
+b) Arthralgia
+c) Carditis
+d) Raised ESR
+Answer: c
+Explanation: Major criteria: carditis, polyarthritis, chorea, erythema marginatum and subcutaneous nodules.
+
+117. Low birth weight is defined as a birth weight of less than:
+a) 1500 g
+b) 2000 g
+c) 2500 g
+d) 3000 g
+Answer: c
+Explanation: <1500 g is very low birth weight and <1000 g is extremely low birth weight.
+
+118. The osmolarity of the WHO reduced-osmolarity ORS is:
+a) 200 mOsm/L
+b) 245 mOsm/L
+c) 311 mOsm/L
+d) 350 mOsm/L
+Answer: b
+Explanation: The 245 mOsm/L formulation reduces stool output and vomiting compared with the older 311 mOsm/L ORS.
+
+119. Koplik's spots are pathognomonic of:
+a) Rubella
+b) Measles
+c) Chickenpox
+d) Mumps
+Answer: b
+Explanation: Small white spots on the buccal mucosa opposite the lower molars appear in the prodromal stage of measles.
+
+120. The most common cause of severe dehydrating diarrhoea in infants and young children worldwide is:
+a) Rotavirus
+b) Shigella
+c) Giardia
+d) Entamoeba histolytica
+Answer: a
+Explanation: Rotavirus vaccination has substantially reduced severe diarrhoea in young children.
+

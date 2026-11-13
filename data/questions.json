@@ -1,0 +1,5079 @@
+[
+  {
+    "id": "q_17e75780d16a",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of community-acquired pneumonia is:",
+    "options": [
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pneumococcus remains the commonest bacterial cause of community-acquired pneumonia in all age groups."
+  },
+  {
+    "id": "q_22966851fc03",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "HbA1c reflects the average blood glucose level over the previous:",
+    "options": [
+      "1–2 weeks",
+      "3–4 weeks",
+      "2–3 months",
+      "6 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "Glycated haemoglobin reflects glycaemia over the lifespan of red cells, roughly 8–12 weeks."
+  },
+  {
+    "id": "q_5ff1d9f3332e",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The earliest ECG change in hyperkalaemia is:",
+    "options": [
+      "Prolonged PR interval",
+      "U wave",
+      "Tall peaked T waves",
+      "ST depression"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tall tented T waves appear first, followed by PR prolongation, loss of P waves and QRS widening."
+  },
+  {
+    "id": "q_67580b807fab",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of upper gastrointestinal bleeding is:",
+    "options": [
+      "Oesophageal varices",
+      "Mallory–Weiss tear",
+      "Gastric carcinoma",
+      "Peptic ulcer disease"
+    ],
+    "correctIndex": 3,
+    "explanation": "Peptic ulcer (duodenal and gastric) is the leading cause of acute upper GI haemorrhage."
+  },
+  {
+    "id": "q_79dffcfe816c",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The investigation of choice to diagnose pulmonary embolism is:",
+    "options": [
+      "CT pulmonary angiography",
+      "Chest X-ray",
+      "D-dimer",
+      "ECG"
+    ],
+    "correctIndex": 0,
+    "explanation": "CTPA is the standard confirmatory test; D-dimer is useful only to exclude PE in low-probability patients."
+  },
+  {
+    "id": "q_c5e4cd545f8b",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Kussmaul breathing is characteristically seen in:",
+    "options": [
+      "Diabetic ketoacidosis",
+      "Opioid overdose",
+      "Bronchial asthma",
+      "Congestive cardiac failure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Deep, sighing respiration is a respiratory compensation for metabolic acidosis such as DKA."
+  },
+  {
+    "id": "q_c9c27c6cd3cc",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The first-line treatment of anaphylaxis is:",
+    "options": [
+      "IV hydrocortisone",
+      "Oral antihistamine",
+      "IM adrenaline 0.5 mg (1:1000)",
+      "Nebulised salbutamol"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intramuscular adrenaline into the anterolateral thigh is life-saving and must not be delayed; steroids and antihistamines are adjuncts."
+  },
+  {
+    "id": "q_e3db2ef14881",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Kayser–Fleischer ring is characteristic of:",
+    "options": [
+      "Haemochromatosis",
+      "Wilson disease",
+      "Primary biliary cholangitis",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Copper deposition in Descemet's membrane of the cornea produces the KF ring in Wilson disease."
+  },
+  {
+    "id": "q_f51a6b0aef21",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "In acute hyperkalaemia with ECG changes, which drug is given FIRST to stabilise the myocardium?",
+    "options": [
+      "Insulin with dextrose",
+      "Calcium gluconate",
+      "Salbutamol nebulisation",
+      "Sodium bicarbonate"
+    ],
+    "correctIndex": 1,
+    "explanation": "IV 10% calcium gluconate antagonises the membrane effect of potassium within minutes but does not lower serum K+; insulin-dextrose and salbutamol shift K+ into cells."
+  },
+  {
+    "id": "q_fd01c9ad8623",
+    "part": "Medical",
+    "subject": "Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The commonest site of hypertensive intracerebral haemorrhage is the:",
+    "options": [
+      "Cerebellum",
+      "Putamen",
+      "Pons",
+      "Thalamus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rupture of lenticulostriate (Charcot–Bouchard) microaneurysms makes the putamen/basal ganglia the most common site."
+  },
+  {
+    "id": "q_06f73afa212f",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "According to the Parkland formula, fluid for the first 24 hours after a burn is:",
+    "options": [
+      "2 mL × body weight (kg) × %TBSA",
+      "4 mL × body weight (kg) × %TBSA",
+      "6 mL × body weight (kg) × %TBSA",
+      "1 mL × body weight (kg) × %TBSA"
+    ],
+    "correctIndex": 1,
+    "explanation": "Half of the Ringer's lactate volume is given in the first 8 hours from the time of burn and the rest over the next 16 hours."
+  },
+  {
+    "id": "q_118e8b05aef0",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The minimum possible score on the Glasgow Coma Scale is:",
+    "options": [
+      "0",
+      "3",
+      "5",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "GCS ranges from 3 (deep coma) to 15 (fully conscious); ≤8 usually indicates need for airway protection."
+  },
+  {
+    "id": "q_220f74bc4724",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "McBurney's point lies at the junction of the lateral one-third and medial two-thirds of a line joining:",
+    "options": [
+      "Umbilicus and pubic symphysis",
+      "ASIS and pubic tubercle",
+      "Umbilicus and right ASIS",
+      "Xiphisternum and umbilicus"
+    ],
+    "correctIndex": 2,
+    "explanation": "It marks the surface position of the base of the appendix."
+  },
+  {
+    "id": "q_2c5f9c5fb0aa",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The investigation of choice for gallstones is:",
+    "options": [
+      "Ultrasonography",
+      "Plain X-ray abdomen",
+      "Oral cholecystography",
+      "HIDA scan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Only about 10–15% of gallstones are radio-opaque; ultrasound is cheap, non-invasive and highly sensitive."
+  },
+  {
+    "id": "q_32f5831ffab5",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Charcot's triad (fever with rigors, jaundice and right upper quadrant pain) indicates:",
+    "options": [
+      "Acute pancreatitis",
+      "Acute cholecystitis",
+      "Ascending cholangitis",
+      "Liver abscess"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adding hypotension and confusion gives Reynolds' pentad (suppurative cholangitis)."
+  },
+  {
+    "id": "q_3fb2a903b527",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Colles' fracture is a fracture of the distal radius with:",
+    "options": [
+      "Volar displacement of the distal fragment",
+      "Dorsal displacement of the distal fragment",
+      "Dislocation of the radial head",
+      "Fracture of the ulnar shaft"
+    ],
+    "correctIndex": 1,
+    "explanation": "Produced by a fall on the outstretched hand, giving the classic \"dinner fork\" deformity; Smith's fracture has volar displacement."
+  },
+  {
+    "id": "q_4de42706b7f8",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common type of hernia in both sexes is:",
+    "options": [
+      "Indirect inguinal hernia",
+      "Femoral hernia",
+      "Direct inguinal hernia",
+      "Umbilical hernia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indirect inguinal hernia is the commonest hernia overall, including in females; femoral hernia is relatively more common in women."
+  },
+  {
+    "id": "q_6ae3b2fbdb1d",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "A positive Murphy's sign is characteristic of:",
+    "options": [
+      "Acute appendicitis",
+      "Acute cholecystitis",
+      "Perforated duodenal ulcer",
+      "Acute pancreatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inspiratory arrest on palpation of the right subcostal region indicates an inflamed gallbladder."
+  },
+  {
+    "id": "q_819cb537e76f",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Haemorrhagic shock with an estimated blood loss of 30–40% belongs to:",
+    "options": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "correctIndex": 2,
+    "explanation": "ATLS classes: I <15%, II 15–30%, III 30–40%, IV >40% of blood volume."
+  },
+  {
+    "id": "q_e697ac1fd15f",
+    "part": "Medical",
+    "subject": "Surgery",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common type of thyroid carcinoma is:",
+    "options": [
+      "Follicular carcinoma",
+      "Medullary carcinoma",
+      "Anaplastic carcinoma",
+      "Papillary carcinoma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Papillary carcinoma accounts for about 80% of thyroid cancers and spreads mainly via lymphatics."
+  },
+  {
+    "id": "q_307004711828",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Naegele's rule for calculating the expected date of delivery is:",
+    "options": [
+      "LMP + 9 months + 7 days",
+      "LMP + 9 months − 7 days",
+      "LMP + 10 months + 7 days",
+      "LMP + 8 months + 7 days"
+    ],
+    "correctIndex": 0,
+    "explanation": "It assumes a regular 28-day cycle; the equivalent is LMP − 3 months + 7 days (+1 year)."
+  },
+  {
+    "id": "q_3e59fed19fe3",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of primary postpartum haemorrhage is:",
+    "options": [
+      "Genital tract trauma",
+      "Retained placenta",
+      "Coagulation disorder",
+      "Uterine atony"
+    ],
+    "correctIndex": 3,
+    "explanation": "Atonic uterus accounts for the majority of PPH cases (\"Tone, Trauma, Tissue, Thrombin\")."
+  },
+  {
+    "id": "q_6c462e4e5d87",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most widely used screening test for carcinoma cervix is:",
+    "options": [
+      "Colposcopy",
+      "Pap smear",
+      "Cone biopsy",
+      "Serum CA-125"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cervical cytology (Pap smear) detects pre-invasive lesions; VIA is used for mass screening in low-resource settings such as Bangladesh."
+  },
+  {
+    "id": "q_73241aa4c95f",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "\"Snowstorm appearance\" on ultrasonography is characteristic of:",
+    "options": [
+      "Hydatidiform mole",
+      "Twin pregnancy",
+      "Hydramnios",
+      "Placenta praevia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Complete mole shows a vesicular \"snowstorm\" pattern without a fetus."
+  },
+  {
+    "id": "q_86d48f8feec5",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The drug of choice for controlling convulsions in eclampsia is:",
+    "options": [
+      "Diazepam",
+      "Phenytoin",
+      "Magnesium sulphate",
+      "Phenobarbitone"
+    ],
+    "correctIndex": 2,
+    "explanation": "MgSO4 (Pritchard or Zuspan regimen) is superior to diazepam and phenytoin in preventing recurrent fits."
+  },
+  {
+    "id": "q_aa66bf36f9d0",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The average duration of human pregnancy counted from the first day of the last menstrual period is:",
+    "options": [
+      "250 days",
+      "266 days",
+      "280 days",
+      "300 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "280 days (40 weeks) from LMP, or about 266 days from ovulation/conception."
+  },
+  {
+    "id": "q_af963ec2d97a",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Physiological anaemia of pregnancy is mainly due to:",
+    "options": [
+      "Iron deficiency",
+      "Folate deficiency",
+      "Greater increase in plasma volume than red cell mass",
+      "Haemolysis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plasma volume rises by ~40–50% whereas red cell mass rises by ~20–30%, producing haemodilution."
+  },
+  {
+    "id": "q_cbe172eed7b7",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common site of ectopic pregnancy is:",
+    "options": [
+      "Ampulla of the fallopian tube",
+      "Isthmus of the fallopian tube",
+      "Ovary",
+      "Cervix"
+    ],
+    "correctIndex": 0,
+    "explanation": "About 70–80% of tubal pregnancies occur in the ampulla."
+  },
+  {
+    "id": "q_d8d7ac310d68",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common fetal presentation at term is:",
+    "options": [
+      "Breech",
+      "Brow",
+      "Face",
+      "Cephalic (vertex)"
+    ],
+    "correctIndex": 3,
+    "explanation": "About 96% of fetuses present by the vertex at term."
+  },
+  {
+    "id": "q_e4beea2f5ffd",
+    "part": "Medical",
+    "subject": "Gynaecology & Obstetrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The hormone detected by a standard urine pregnancy test is:",
+    "options": [
+      "Human placental lactogen",
+      "Progesterone",
+      "Human chorionic gonadotropin (hCG)",
+      "Oestriol"
+    ],
+    "correctIndex": 2,
+    "explanation": "The beta subunit of hCG secreted by syncytiotrophoblast is detected by immunoassay."
+  },
+  {
+    "id": "q_01b5260c8800",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The thoracic duct usually drains into the:",
+    "options": [
+      "Right brachiocephalic vein",
+      "Superior vena cava",
+      "Azygos vein",
+      "Junction of the left subclavian and left internal jugular veins"
+    ],
+    "correctIndex": 3,
+    "explanation": "The thoracic duct begins at the cisterna chyli and terminates at the left venous angle."
+  },
+  {
+    "id": "q_0bba8b27f971",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "In adults the spinal cord usually ends at the level of the:",
+    "options": [
+      "Lower border of T12",
+      "Lower border of L1",
+      "Lower border of L3",
+      "S2 vertebra"
+    ],
+    "correctIndex": 1,
+    "explanation": "The conus medullaris ends at L1/L2; in newborns it reaches about L3, hence lumbar puncture is done at L3/L4 or L4/L5."
+  },
+  {
+    "id": "q_11701e3efcba",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The muscle of mastication that opens the mouth (depresses the mandible) is the:",
+    "options": [
+      "Masseter",
+      "Temporalis",
+      "Lateral pterygoid",
+      "Medial pterygoid"
+    ],
+    "correctIndex": 2,
+    "explanation": "The lateral pterygoid protrudes and depresses the mandible; the others elevate it."
+  },
+  {
+    "id": "q_158f7023a464",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "In most individuals the sinoatrial (SA) node is supplied by the:",
+    "options": [
+      "Right coronary artery",
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Posterior interventricular artery only"
+    ],
+    "correctIndex": 0,
+    "explanation": "The SA nodal artery arises from the right coronary artery in about 60% of people."
+  },
+  {
+    "id": "q_2de41e168491",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The deltoid muscle is supplied by the:",
+    "options": [
+      "Radial nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve",
+      "Suprascapular nerve"
+    ],
+    "correctIndex": 1,
+    "explanation": "The axillary nerve (C5, C6) may be injured in fracture of the surgical neck of the humerus or shoulder dislocation."
+  },
+  {
+    "id": "q_857cf41e1dc0",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Wrist drop results from injury to the:",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Radial nerve injury in the spiral groove paralyses the wrist and finger extensors."
+  },
+  {
+    "id": "q_b8fedf4ed0f3",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The only cranial nerve that emerges from the dorsal aspect of the brainstem is the:",
+    "options": [
+      "Trochlear nerve",
+      "Abducent nerve",
+      "Oculomotor nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 4th cranial nerve emerges dorsally below the inferior colliculus and decussates completely."
+  },
+  {
+    "id": "q_c2b2b476ecc6",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Foot drop is caused by injury to the:",
+    "options": [
+      "Tibial nerve",
+      "Femoral nerve",
+      "Common peroneal (fibular) nerve",
+      "Obturator nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "The common peroneal nerve winds around the neck of the fibula where it is easily injured."
+  },
+  {
+    "id": "q_ebc20e5717a7",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The largest cranial nerve is the:",
+    "options": [
+      "Vagus",
+      "Facial",
+      "Optic",
+      "Trigeminal"
+    ],
+    "correctIndex": 3,
+    "explanation": "The trigeminal (5th) nerve is the largest; the vagus has the longest course and the trochlear is the thinnest."
+  },
+  {
+    "id": "q_f34ff585c26d",
+    "part": "Medical",
+    "subject": "Anatomy",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most commonly fractured carpal bone is the:",
+    "options": [
+      "Lunate",
+      "Scaphoid",
+      "Hamate",
+      "Trapezium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scaphoid fracture may lead to avascular necrosis of the proximal fragment because of retrograde blood supply."
+  },
+  {
+    "id": "q_5f692b6e0e9d",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The oxygen–haemoglobin dissociation curve shifts to the RIGHT with:",
+    "options": [
+      "Increased 2,3-BPG",
+      "Decreased temperature",
+      "Increased pH",
+      "Fetal haemoglobin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Raised 2,3-BPG, CO2, H+ (low pH) and temperature reduce Hb affinity for O2, favouring tissue delivery."
+  },
+  {
+    "id": "q_6878df3c5a60",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Intrinsic factor is secreted by the:",
+    "options": [
+      "Chief cells",
+      "G cells",
+      "Mucous neck cells",
+      "Parietal cells"
+    ],
+    "correctIndex": 3,
+    "explanation": "Parietal (oxyntic) cells secrete HCl and intrinsic factor required for vitamin B12 absorption in the terminal ileum."
+  },
+  {
+    "id": "q_71dc9a821b45",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The normal lifespan of a red blood cell is about:",
+    "options": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aged RBCs are removed mainly by macrophages of the spleen."
+  },
+  {
+    "id": "q_7c9f9056bfa1",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The normal glomerular filtration rate in a healthy adult is about:",
+    "options": [
+      "25 mL/min",
+      "60 mL/min",
+      "125 mL/min",
+      "650 mL/min"
+    ],
+    "correctIndex": 2,
+    "explanation": "Approximately 125 mL/min or 180 L/day; 650 mL/min is the approximate renal plasma flow."
+  },
+  {
+    "id": "q_82e7d5189e66",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The natural pacemaker of the heart is the:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibres"
+    ],
+    "correctIndex": 1,
+    "explanation": "The SA node has the fastest rate of spontaneous diastolic depolarisation."
+  },
+  {
+    "id": "q_97246f3b9b95",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Vitamin K-dependent clotting factors are:",
+    "options": [
+      "I, V, VIII, XIII",
+      "II, VII, IX, X",
+      "III, IV, XI, XII",
+      "V, VIII, IX, XI"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vitamin K is needed for gamma-carboxylation of factors II, VII, IX and X (and proteins C and S)."
+  },
+  {
+    "id": "q_bc2d44283dc9",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Pulmonary surfactant is secreted by:",
+    "options": [
+      "Type I pneumocytes",
+      "Alveolar macrophages",
+      "Type II pneumocytes",
+      "Clara cells only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dipalmitoyl phosphatidylcholine produced by type II pneumocytes lowers alveolar surface tension."
+  },
+  {
+    "id": "q_d4688ddf323a",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The normal resting cardiac output of an adult is about:",
+    "options": [
+      "2 L/min",
+      "5 L/min",
+      "10 L/min",
+      "15 L/min"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cardiac output = stroke volume (~70 mL) × heart rate (~72/min) ≈ 5 L/min."
+  },
+  {
+    "id": "q_d79080719404",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The resting membrane potential of a typical neuron is approximately:",
+    "options": [
+      "+30 mV",
+      "−20 mV",
+      "−70 mV",
+      "−120 mV"
+    ],
+    "correctIndex": 2,
+    "explanation": "It is determined mainly by K+ efflux through leak channels and maintained by the Na+/K+ ATPase."
+  },
+  {
+    "id": "q_f7629b611728",
+    "part": "Medical",
+    "subject": "Physiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Water reabsorption in the collecting duct is mainly increased by:",
+    "options": [
+      "Aldosterone",
+      "Antidiuretic hormone (ADH)",
+      "Atrial natriuretic peptide",
+      "Parathormone"
+    ],
+    "correctIndex": 1,
+    "explanation": "ADH inserts aquaporin-2 channels into the luminal membrane of principal cells."
+  },
+  {
+    "id": "q_18cf35a69b8a",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The lipoprotein often called \"good cholesterol\" is:",
+    "options": [
+      "LDL",
+      "VLDL",
+      "Chylomicron",
+      "HDL"
+    ],
+    "correctIndex": 3,
+    "explanation": "HDL mediates reverse cholesterol transport from tissues to the liver."
+  },
+  {
+    "id": "q_240bcab1bd87",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The end product of purine catabolism in humans is:",
+    "options": [
+      "Urea",
+      "Allantoin",
+      "Uric acid",
+      "Beta-alanine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Humans lack uricase; excess uric acid causes gout."
+  },
+  {
+    "id": "q_27631354ade9",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The rate-limiting enzyme of glycolysis is:",
+    "options": [
+      "Hexokinase",
+      "Pyruvate kinase",
+      "Phosphofructokinase-1",
+      "Aldolase"
+    ],
+    "correctIndex": 2,
+    "explanation": "PFK-1 is the main regulatory step, activated by fructose-2,6-bisphosphate and AMP and inhibited by ATP and citrate."
+  },
+  {
+    "id": "q_4652d8a53c45",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Pellagra (dermatitis, diarrhoea, dementia) is caused by deficiency of:",
+    "options": [
+      "Niacin",
+      "Folic acid",
+      "Biotin",
+      "Pantothenic acid"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niacin (vitamin B3) deficiency; it can also occur in Hartnup disease and carcinoid syndrome."
+  },
+  {
+    "id": "q_52c3d27cb77b",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The rate-limiting enzyme of cholesterol biosynthesis is:",
+    "options": [
+      "HMG-CoA synthase",
+      "HMG-CoA reductase",
+      "Squalene synthase",
+      "Mevalonate kinase"
+    ],
+    "correctIndex": 1,
+    "explanation": "HMG-CoA reductase is the target of statin drugs."
+  },
+  {
+    "id": "q_87069a63a7f3",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The urea cycle takes place mainly in the:",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Muscle",
+      "Brain"
+    ],
+    "correctIndex": 0,
+    "explanation": "Its first two steps occur in hepatocyte mitochondria and the rest in the cytosol."
+  },
+  {
+    "id": "q_b8545747dc19",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Scurvy is caused by deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ascorbic acid is required for hydroxylation of proline and lysine in collagen synthesis."
+  },
+  {
+    "id": "q_ca0fbc7ba503",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Wernicke's encephalopathy is due to deficiency of:",
+    "options": [
+      "Riboflavin",
+      "Niacin",
+      "Pyridoxine",
+      "Thiamine"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thiamine (B1) deficiency, typically in chronic alcoholics, causes ophthalmoplegia, ataxia and confusion."
+  },
+  {
+    "id": "q_d04959cc79a2",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Net ATP gained per molecule of glucose in anaerobic glycolysis is:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "36"
+    ],
+    "correctIndex": 0,
+    "explanation": "4 ATP are produced but 2 are consumed in the preparatory phase, giving a net gain of 2 ATP."
+  },
+  {
+    "id": "q_ddef93a83775",
+    "part": "Medical",
+    "subject": "Biochemistry",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Phenylketonuria results from deficiency of:",
+    "options": [
+      "Tyrosinase",
+      "Homogentisate oxidase",
+      "Phenylalanine hydroxylase",
+      "Fumarylacetoacetate hydrolase"
+    ],
+    "correctIndex": 2,
+    "explanation": "Accumulated phenylalanine causes mental retardation and a mousy odour; tyrosinase deficiency causes albinism."
+  },
+  {
+    "id": "q_088f0eddf086",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Caseous necrosis is characteristic of:",
+    "options": [
+      "Myocardial infarction",
+      "Acute pancreatitis",
+      "Tuberculosis",
+      "Brain infarction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cheese-like necrosis surrounded by granulomatous inflammation is typical of tuberculosis."
+  },
+  {
+    "id": "q_178564447356",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Liquefactive necrosis characteristically occurs after infarction of the:",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Spleen",
+      "Brain"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hypoxic death in the CNS produces liquefactive necrosis."
+  },
+  {
+    "id": "q_3f5c2f76a842",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Psammoma bodies are typically found in:",
+    "options": [
+      "Follicular carcinoma of thyroid",
+      "Medullary carcinoma of thyroid",
+      "Papillary carcinoma of thyroid",
+      "Hepatocellular carcinoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Concentric laminated calcifications occur in papillary thyroid carcinoma, serous ovarian tumours and meningioma."
+  },
+  {
+    "id": "q_73af61082f7a",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Which of the following is NOT a component of Virchow's triad?",
+    "options": [
+      "Endothelial injury",
+      "Stasis of blood flow",
+      "Hypercoagulability",
+      "Thrombocytopenia"
+    ],
+    "correctIndex": 3,
+    "explanation": "Virchow's triad of thrombosis = endothelial injury, abnormal blood flow and hypercoagulability."
+  },
+  {
+    "id": "q_801877020963",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Barrett's oesophagus is an example of:",
+    "options": [
+      "Hyperplasia",
+      "Metaplasia",
+      "Atrophy",
+      "Anaplasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Squamous epithelium is replaced by intestinal-type columnar epithelium due to chronic acid reflux."
+  },
+  {
+    "id": "q_8041509a1492",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The type of necrosis seen in myocardial infarction is:",
+    "options": [
+      "Liquefactive necrosis",
+      "Fat necrosis",
+      "Caseous necrosis",
+      "Coagulative necrosis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hypoxic death in solid organs (except brain) produces coagulative necrosis with preserved architecture."
+  },
+  {
+    "id": "q_9b3e6055b64b",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The Philadelphia chromosome t(9;22) is characteristic of:",
+    "options": [
+      "Chronic myeloid leukaemia",
+      "Acute promyelocytic leukaemia",
+      "Hairy cell leukaemia",
+      "Burkitt lymphoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "The BCR-ABL fusion gene encodes a constitutively active tyrosine kinase, the target of imatinib."
+  },
+  {
+    "id": "q_a810779a1269",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The earliest and most common change of reversible cell injury is:",
+    "options": [
+      "Nuclear pyknosis",
+      "Cellular swelling",
+      "Karyorrhexis",
+      "Calcification"
+    ],
+    "correctIndex": 1,
+    "explanation": "Failure of membrane ion pumps leads to hydropic change (cellular swelling); nuclear changes indicate irreversible injury."
+  },
+  {
+    "id": "q_aab02461beb9",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of microcytic hypochromic anaemia is:",
+    "options": [
+      "Thalassaemia",
+      "Iron deficiency",
+      "Sideroblastic anaemia",
+      "Anaemia of chronic disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iron deficiency is the commonest anaemia worldwide; low serum ferritin confirms it."
+  },
+  {
+    "id": "q_ccf6631fd0f9",
+    "part": "Medical",
+    "subject": "Pathology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Reed–Sternberg cells are characteristic of:",
+    "options": [
+      "Hodgkin lymphoma",
+      "Burkitt lymphoma",
+      "Multiple myeloma",
+      "Chronic lymphocytic leukaemia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Large binucleate \"owl-eye\" cells (CD15+, CD30+) are diagnostic of classical Hodgkin lymphoma."
+  },
+  {
+    "id": "q_36cea2a2dca0",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The specific antidote used for organophosphorus poisoning along with oximes is:",
+    "options": [
+      "Physostigmine",
+      "Atropine",
+      "Neostigmine",
+      "Adrenaline"
+    ],
+    "correctIndex": 1,
+    "explanation": "Atropine blocks muscarinic effects; pralidoxime reactivates cholinesterase if given early."
+  },
+  {
+    "id": "q_3e851159ea4f",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Ototoxicity and nephrotoxicity are characteristic adverse effects of:",
+    "options": [
+      "Gentamicin",
+      "Amoxicillin",
+      "Azithromycin",
+      "Ciprofloxacin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aminoglycosides accumulate in the perilymph and renal tubular cells."
+  },
+  {
+    "id": "q_5e19d00a71eb",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The antidote for paracetamol poisoning is:",
+    "options": [
+      "N-acetylcysteine",
+      "Naloxone",
+      "Flumazenil",
+      "Desferrioxamine"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAC replenishes glutathione and detoxifies NAPQI; it is most effective within 8–10 hours of ingestion."
+  },
+  {
+    "id": "q_60a23d41bf1d",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The antidote for heparin overdose is:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulphate",
+      "Tranexamic acid",
+      "Fresh frozen plasma only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Positively charged protamine neutralises negatively charged heparin; vitamin K reverses warfarin."
+  },
+  {
+    "id": "q_75796df2338a",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Aspirin produces its antiplatelet effect by:",
+    "options": [
+      "Reversible inhibition of COX",
+      "ADP receptor blockade",
+      "Irreversible inhibition of cyclo-oxygenase",
+      "Glycoprotein IIb/IIIa blockade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aspirin acetylates COX-1, reducing thromboxane A2 for the life of the platelet (7–10 days)."
+  },
+  {
+    "id": "q_86597635a97b",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "\"Grey baby syndrome\" is caused by:",
+    "options": [
+      "Tetracycline",
+      "Chloramphenicol",
+      "Streptomycin",
+      "Sulphonamides"
+    ],
+    "correctIndex": 1,
+    "explanation": "Neonates lack adequate glucuronyl transferase to conjugate chloramphenicol."
+  },
+  {
+    "id": "q_867922536c51",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most serious (though rare) adverse effect of metformin is:",
+    "options": [
+      "Hypoglycaemia",
+      "Weight gain",
+      "Lactic acidosis",
+      "Hepatotoxicity"
+    ],
+    "correctIndex": 2,
+    "explanation": "The risk is higher in renal failure, hypoxia and alcoholism; metformin alone rarely causes hypoglycaemia."
+  },
+  {
+    "id": "q_b08284a3ffd7",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "\"Red man syndrome\" is associated with rapid infusion of:",
+    "options": [
+      "Vancomycin",
+      "Rifampicin",
+      "Ceftriaxone",
+      "Gentamicin"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is a histamine-mediated flushing reaction; slowing the infusion prevents it."
+  },
+  {
+    "id": "q_ce66b0ac00b0",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The drug of choice for absence (petit mal) seizures among the following is:",
+    "options": [
+      "Phenytoin",
+      "Carbamazepine",
+      "Ethosuximide",
+      "Phenobarbitone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ethosuximide (or valproate) blocks T-type calcium channels; carbamazepine and phenytoin may worsen absence seizures."
+  },
+  {
+    "id": "q_fb0b68226925",
+    "part": "Medical",
+    "subject": "Pharmacology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The initial drug of choice to terminate status epilepticus is:",
+    "options": [
+      "Oral phenytoin",
+      "Carbamazepine",
+      "Ethosuximide",
+      "IV lorazepam"
+    ],
+    "correctIndex": 3,
+    "explanation": "An IV benzodiazepine (lorazepam/diazepam, or buccal/IM midazolam) is first line, followed by phenytoin/levetiracetam if seizures continue."
+  },
+  {
+    "id": "q_00da0c05d701",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The principal vector of dengue is:",
+    "options": [
+      "Anopheles mosquito",
+      "Culex mosquito",
+      "Sandfly",
+      "Aedes aegypti"
+    ],
+    "correctIndex": 3,
+    "explanation": "Aedes is a day-biting mosquito that breeds in stored clean water."
+  },
+  {
+    "id": "q_40ccdb549191",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Negri bodies are diagnostic of:",
+    "options": [
+      "Measles",
+      "Rabies",
+      "Herpes simplex",
+      "Cytomegalovirus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eosinophilic intracytoplasmic inclusions in neurons (e.g. Purkinje cells, hippocampus) are seen in rabies."
+  },
+  {
+    "id": "q_58a5e1a28829",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Ziehl–Neelsen staining is mainly used to detect:",
+    "options": [
+      "Staphylococcus aureus",
+      "Mycobacterium tuberculosis",
+      "Candida albicans",
+      "Treponema pallidum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mycolic acid in the cell wall makes mycobacteria acid-fast."
+  },
+  {
+    "id": "q_5afe112a65c8",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Typhoid fever is caused by:",
+    "options": [
+      "Salmonella Typhi",
+      "Shigella dysenteriae",
+      "Escherichia coli",
+      "Vibrio cholerae"
+    ],
+    "correctIndex": 0,
+    "explanation": "Blood culture is positive in the first week; Widal test becomes positive later."
+  },
+  {
+    "id": "q_9d1000317057",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Malignant tertian malaria is caused by:",
+    "options": [
+      "Plasmodium vivax",
+      "Plasmodium ovale",
+      "Plasmodium malariae",
+      "Plasmodium falciparum"
+    ],
+    "correctIndex": 3,
+    "explanation": "P. falciparum causes cerebral malaria and other severe complications."
+  },
+  {
+    "id": "q_cc07025a39de",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "HIV belongs to the family:",
+    "options": [
+      "Herpesviridae",
+      "Paramyxoviridae",
+      "Retroviridae",
+      "Flaviviridae"
+    ],
+    "correctIndex": 2,
+    "explanation": "HIV is a lentivirus using reverse transcriptase to make DNA from its RNA genome."
+  },
+  {
+    "id": "q_db3db7374ccb",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "TCBS agar is the selective medium for:",
+    "options": [
+      "Salmonella",
+      "Vibrio cholerae",
+      "Shigella",
+      "Pseudomonas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thiosulphate citrate bile salt sucrose agar gives yellow colonies of V. cholerae."
+  },
+  {
+    "id": "q_e34a597788b7",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Gram-positive cocci arranged in grape-like clusters are:",
+    "options": [
+      "Streptococci",
+      "Staphylococci",
+      "Neisseria",
+      "Pneumococci"
+    ],
+    "correctIndex": 1,
+    "explanation": "Streptococci form chains; Neisseria are gram-negative diplococci."
+  },
+  {
+    "id": "q_e95e2e458969",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The medium used for rapid culture of Corynebacterium diphtheriae is:",
+    "options": [
+      "Loeffler's serum slope",
+      "MacConkey agar",
+      "TCBS agar",
+      "Lowenstein–Jensen medium"
+    ],
+    "correctIndex": 0,
+    "explanation": "Growth appears within 6–8 hours on Loeffler's serum slope; potassium tellurite agar is a selective medium."
+  },
+  {
+    "id": "q_f714fdd18d28",
+    "part": "Medical",
+    "subject": "Microbiology",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Kala-azar is caused by:",
+    "options": [
+      "Trypanosoma cruzi",
+      "Plasmodium vivax",
+      "Leishmania donovani",
+      "Toxoplasma gondii"
+    ],
+    "correctIndex": 2,
+    "explanation": "Visceral leishmaniasis is transmitted by the sandfly (Phlebotomus argentipes) and is endemic in parts of Bangladesh."
+  },
+  {
+    "id": "q_0a247f0771be",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The smell of bitter almonds is characteristic of poisoning by:",
+    "options": [
+      "Kerosene",
+      "Cyanide",
+      "Organophosphate",
+      "Alcohol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hydrocyanic acid smells of bitter almonds, though not everyone can detect it."
+  },
+  {
+    "id": "q_31021b7b2e47",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Police inquest in Bangladesh is conducted under which section of the Code of Criminal Procedure?",
+    "options": [
+      "Section 154",
+      "Section 161",
+      "Section 174",
+      "Section 176"
+    ],
+    "correctIndex": 2,
+    "explanation": "CrPC section 174 deals with police inquest; section 176 covers magistrate's inquest."
+  },
+  {
+    "id": "q_393dd39d7135",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Cherry-red postmortem lividity is characteristic of poisoning by:",
+    "options": [
+      "Carbon monoxide",
+      "Opium",
+      "Arsenic",
+      "Phosphorus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carboxyhaemoglobin imparts a cherry-red colour; cyanide may give a bright red colour too."
+  },
+  {
+    "id": "q_5313fef7d754",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most reliable method of personal identification among the following is:",
+    "options": [
+      "Anthropometry",
+      "Tattoo marks",
+      "Clothing",
+      "Dactylography"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fingerprint patterns are unique and permanent (apart from DNA profiling)."
+  },
+  {
+    "id": "q_683baf0a2a7d",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Adipocere formation is favoured by:",
+    "options": [
+      "Dry, cold environment",
+      "Warm, moist environment",
+      "Hot, dry sand",
+      "Freezing temperatures"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hydrolysis and hydrogenation of body fat occurs in warm, moist, anaerobic conditions; dry heat favours mummification."
+  },
+  {
+    "id": "q_849a5ed2e9c3",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "\"Pugilistic attitude\" of a dead body is seen in death due to:",
+    "options": [
+      "Drowning",
+      "Hanging",
+      "Burns",
+      "Electrocution"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heat coagulation of muscle proteins flexes the limbs into a boxer-like posture; it does not indicate ante-mortem burning."
+  },
+  {
+    "id": "q_a5819a0b2c56",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The ligature mark in typical hanging is:",
+    "options": [
+      "Horizontal and continuous, below the thyroid cartilage",
+      "Oblique and non-continuous, above the thyroid cartilage",
+      "Absent in all cases",
+      "Circular around the chest"
+    ],
+    "correctIndex": 1,
+    "explanation": "A horizontal continuous mark low on the neck suggests ligature strangulation."
+  },
+  {
+    "id": "q_de3e395d7b7a",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "\"Washerwoman's hands\" are seen in a body after:",
+    "options": [
+      "Prolonged immersion in water",
+      "Burns",
+      "Electrocution",
+      "Hanging"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bleached, wrinkled, sodden skin of palms and soles appears after prolonged immersion; it is not proof of drowning."
+  },
+  {
+    "id": "q_ee1ea752f061",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Among voluntary muscles, rigor mortis first appears in the:",
+    "options": [
+      "Eyelids",
+      "Lower limbs",
+      "Fingers",
+      "Toes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Following Nysten's rule it begins in the eyelids, then face and neck, progressing downwards; it appears first in the myocardium overall."
+  },
+  {
+    "id": "q_f1d50b15b246",
+    "part": "Medical",
+    "subject": "Forensic Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "A dying declaration is admissible under which section of the Evidence Act, 1872?",
+    "options": [
+      "Section 24",
+      "Section 32",
+      "Section 45",
+      "Section 60"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 32(1) makes statements of a deceased person about the cause of death relevant."
+  },
+  {
+    "id": "q_348e3f84ca1a",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Which measure of central tendency is most affected by extreme values?",
+    "options": [
+      "Median",
+      "Mode",
+      "Mean",
+      "Mid-range is never affected"
+    ],
+    "correctIndex": 2,
+    "explanation": "The arithmetic mean is pulled by outliers; the median is preferred for skewed data."
+  },
+  {
+    "id": "q_3b7d7de3f659",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Most vaccines in the cold chain should be stored at:",
+    "options": [
+      "+2°C to +8°C",
+      "−40°C to −20°C",
+      "+10°C to +15°C",
+      "Room temperature"
+    ],
+    "correctIndex": 0,
+    "explanation": "Freeze-sensitive vaccines (e.g. pentavalent, TT/Td, hepatitis B) must never be frozen."
+  },
+  {
+    "id": "q_3f3fe76e0234",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "A study that starts with people who have the disease and looks back for past exposure is:",
+    "options": [
+      "Cohort study",
+      "Case-control study",
+      "Randomised controlled trial",
+      "Cross-sectional study"
+    ],
+    "correctIndex": 1,
+    "explanation": "Case-control studies proceed from effect to cause and estimate risk by the odds ratio."
+  },
+  {
+    "id": "q_48fdb9b5c970",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "After chlorination of drinking water, the recommended free residual chlorine after one hour of contact is:",
+    "options": [
+      "0.05 mg/L",
+      "0.5 mg/L",
+      "5 mg/L",
+      "50 mg/L"
+    ],
+    "correctIndex": 1,
+    "explanation": "A free residual chlorine of 0.5 mg/L after a contact period of one hour ensures safe water."
+  },
+  {
+    "id": "q_5f137cc434c6",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Incidence of a disease refers to:",
+    "options": [
+      "All existing cases at a point in time",
+      "Number of new cases occurring in a defined population during a specified period",
+      "Number of deaths due to the disease",
+      "Total cases in a lifetime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prevalence counts both new and old (existing) cases; prevalence ≈ incidence × duration."
+  },
+  {
+    "id": "q_6ce77431839b",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Under the national programme, children aged 12–59 months receive vitamin A as:",
+    "options": [
+      "50,000 IU once only",
+      "100,000 IU daily",
+      "200,000 IU every 6 months",
+      "500,000 IU yearly"
+    ],
+    "correctIndex": 2,
+    "explanation": "Infants 6–11 months receive 100,000 IU; children 12–59 months receive 200,000 IU every six months."
+  },
+  {
+    "id": "q_6e9b51f798c4",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Herd immunity does NOT protect against:",
+    "options": [
+      "Measles",
+      "Diphtheria",
+      "Polio",
+      "Tetanus"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tetanus is not transmitted from person to person, so individual immunisation is required."
+  },
+  {
+    "id": "q_798c987127f7",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The positive predictive value of a screening test depends mostly on the:",
+    "options": [
+      "Prevalence of the disease",
+      "Sensitivity alone",
+      "Number of observers",
+      "Cost of the test"
+    ],
+    "correctIndex": 0,
+    "explanation": "With constant sensitivity and specificity, PPV rises as disease prevalence increases."
+  },
+  {
+    "id": "q_cfe3b0841672",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "BCG vaccine is administered by which route?",
+    "options": [
+      "Intramuscular",
+      "Subcutaneous",
+      "Intradermal",
+      "Oral"
+    ],
+    "correctIndex": 2,
+    "explanation": "0.05 mL is given intradermally over the left deltoid in newborns under EPI."
+  },
+  {
+    "id": "q_f8135274938c",
+    "part": "Medical",
+    "subject": "Community Medicine",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most important consequence of iodine deficiency worldwide is:",
+    "options": [
+      "Goitre only",
+      "Preventable brain damage and mental retardation",
+      "Hypertension",
+      "Dental caries"
+    ],
+    "correctIndex": 1,
+    "explanation": "Iodine deficiency is the world's leading cause of preventable intellectual impairment."
+  },
+  {
+    "id": "q_1b7f2a9d41d6",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "WHO recommends exclusive breastfeeding for the first:",
+    "options": [
+      "2 months",
+      "4 months",
+      "6 months",
+      "12 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "Complementary feeding begins at 6 months while breastfeeding continues up to 2 years or beyond."
+  },
+  {
+    "id": "q_492f7ce22781",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Which of the following is a MAJOR Jones criterion for acute rheumatic fever?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Carditis",
+      "Raised ESR"
+    ],
+    "correctIndex": 2,
+    "explanation": "Major criteria: carditis, polyarthritis, chorea, erythema marginatum and subcutaneous nodules."
+  },
+  {
+    "id": "q_52093acbc0eb",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Low birth weight is defined as a birth weight of less than:",
+    "options": [
+      "1500 g",
+      "2000 g",
+      "2500 g",
+      "3000 g"
+    ],
+    "correctIndex": 2,
+    "explanation": "<1500 g is very low birth weight and <1000 g is extremely low birth weight."
+  },
+  {
+    "id": "q_54b5781b9fcb",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The feature that distinguishes kwashiorkor from marasmus is:",
+    "options": [
+      "Growth failure",
+      "Muscle wasting",
+      "Oedema",
+      "Anaemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bilateral pitting oedema is the hallmark of kwashiorkor; marasmus shows severe wasting without oedema."
+  },
+  {
+    "id": "q_638f0f56cd0e",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of severe dehydrating diarrhoea in infants and young children worldwide is:",
+    "options": [
+      "Rotavirus",
+      "Shigella",
+      "Giardia",
+      "Entamoeba histolytica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rotavirus vaccination has substantially reduced severe diarrhoea in young children."
+  },
+  {
+    "id": "q_6895053e4474",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "A normal child can sit without support at about:",
+    "options": [
+      "3 months",
+      "6–8 months",
+      "12 months",
+      "18 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sitting with support occurs at ~6 months and steady sitting without support by ~8 months."
+  },
+  {
+    "id": "q_b15c3b2a4cc9",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The osmolarity of the WHO reduced-osmolarity ORS is:",
+    "options": [
+      "200 mOsm/L",
+      "245 mOsm/L",
+      "311 mOsm/L",
+      "350 mOsm/L"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 245 mOsm/L formulation reduces stool output and vomiting compared with the older 311 mOsm/L ORS."
+  },
+  {
+    "id": "q_b2cd73e66b42",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Koplik's spots are pathognomonic of:",
+    "options": [
+      "Rubella",
+      "Measles",
+      "Chickenpox",
+      "Mumps"
+    ],
+    "correctIndex": 1,
+    "explanation": "Small white spots on the buccal mucosa opposite the lower molars appear in the prodromal stage of measles."
+  },
+  {
+    "id": "q_cd5af1018692",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "Which of the following is NOT a component of the APGAR score?",
+    "options": [
+      "Heart rate",
+      "Respiratory effort",
+      "Blood pressure",
+      "Muscle tone"
+    ],
+    "correctIndex": 2,
+    "explanation": "APGAR = Appearance (colour), Pulse, Grimace (reflex irritability), Activity (tone) and Respiration."
+  },
+  {
+    "id": "q_f6b8ea4fd0aa",
+    "part": "Medical",
+    "subject": "Pediatrics",
+    "sourceExam": "Practice Seed — Medical (original practice MCQs)",
+    "question": "The most common cause of jaundice in a healthy term neonate in the first week is:",
+    "options": [
+      "Physiological jaundice",
+      "Biliary atresia",
+      "Rh incompatibility",
+      "Neonatal hepatitis"
+    ],
+    "correctIndex": 0,
+    "explanation": "It appears after 24 hours, peaks on days 3–5 and resolves by about 2 weeks in term babies."
+  },
+  {
+    "id": "q_13022691c67b",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'মেঘনাদবধ কাব্য' এর রচয়িতা কে?",
+    "options": [
+      "মাইকেল মধুসূদন দত্ত",
+      "হেমচন্দ্র বন্দ্যোপাধ্যায়",
+      "নবীনচন্দ্র সেন",
+      "কায়কোবাদ"
+    ],
+    "correctIndex": 0,
+    "explanation": "অমিত্রাক্ষর ছন্দে রচিত এই মহাকাব্য ১৮৬১ সালে প্রকাশিত হয়।"
+  },
+  {
+    "id": "q_561c4811f119",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "বাংলা কাব্যে অমিত্রাক্ষর ছন্দের প্রবর্তক কে?",
+    "options": [
+      "রবীন্দ্রনাথ ঠাকুর",
+      "মাইকেল মধুসূদন দত্ত",
+      "ঈশ্বরচন্দ্র গুপ্ত",
+      "সত্যেন্দ্রনাথ দত্ত"
+    ],
+    "correctIndex": 1,
+    "explanation": "'তিলোত্তমাসম্ভব কাব্য' (১৮৬০)-এ মধুসূদন প্রথম অমিত্রাক্ষর ছন্দ ব্যবহার করেন।"
+  },
+  {
+    "id": "q_66168469beda",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'অগ্নিবীণা' কাব্যগ্রন্থের রচয়িতা কে?",
+    "options": [
+      "রবীন্দ্রনাথ ঠাকুর",
+      "কাজী নজরুল ইসলাম",
+      "জীবনানন্দ দাশ",
+      "সুকান্ত ভট্টাচার্য"
+    ],
+    "correctIndex": 1,
+    "explanation": "'অগ্নিবীণা' (১৯২২) নজরুলের প্রথম কাব্যগ্রন্থ; 'বিদ্রোহী' কবিতা এতে সংকলিত।"
+  },
+  {
+    "id": "q_6cb164c3dea2",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'যে বিষয়ে কোনো বিতর্ক নেই' — এক কথায় কী হবে?",
+    "options": [
+      "অবিসংবাদিত",
+      "অনস্বীকার্য",
+      "অপ্রতিরোধ্য",
+      "অনিবার্য"
+    ],
+    "correctIndex": 0,
+    "explanation": "বিসংবাদ (বিরোধ) নেই যাতে — অবিসংবাদিত।"
+  },
+  {
+    "id": "q_7781e3e93e8d",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "চর্যাপদ আবিষ্কার করেন কে?",
+    "options": [
+      "হরপ্রসাদ শাস্ত্রী",
+      "ড. মুহম্মদ শহীদুল্লাহ",
+      "সুনীতিকুমার চট্টোপাধ্যায়",
+      "দীনেশচন্দ্র সেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯০৭ সালে নেপালের রাজদরবারের গ্রন্থাগার থেকে হরপ্রসাদ শাস্ত্রী চর্যাপদ আবিষ্কার করেন।"
+  },
+  {
+    "id": "q_7a2297f17cb6",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'চাঁদ' শব্দের সমার্থক শব্দ কোনটি?",
+    "options": [
+      "তপন",
+      "শশী",
+      "অনল",
+      "সমীর"
+    ],
+    "correctIndex": 1,
+    "explanation": "তপন = সূর্য, অনল = আগুন, সমীর = বাতাস।"
+  },
+  {
+    "id": "q_7f6b51ecec9a",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'কবর' নাটকের রচয়িতা কে?",
+    "options": [
+      "সেলিম আল দীন",
+      "মুনীর চৌধুরী",
+      "নুরুল মোমেন",
+      "আসকার ইবনে শাইখ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ভাষা আন্দোলনের পটভূমিতে মুনীর চৌধুরী কারাগারে বসে ১৯৫৩ সালে 'কবর' রচনা করেন।"
+  },
+  {
+    "id": "q_8188e5fad93f",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'আবির্ভাব' শব্দের বিপরীত শব্দ কোনটি?",
+    "options": [
+      "অনুভব",
+      "প্রাদুর্ভাব",
+      "তিরোভাব",
+      "অভাব"
+    ],
+    "correctIndex": 2,
+    "explanation": "আবির্ভাব (প্রকাশ) — তিরোভাব (অন্তর্ধান)।"
+  },
+  {
+    "id": "q_81c2be04d9ea",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "বাংলা সাহিত্যের প্রাচীনতম নিদর্শন কোনটি?",
+    "options": [
+      "শ্রীকৃষ্ণকীর্তন",
+      "মঙ্গলকাব্য",
+      "চর্যাপদ",
+      "বৈষ্ণব পদাবলি"
+    ],
+    "correctIndex": 2,
+    "explanation": "চর্যাপদ বাংলা ভাষা ও সাহিত্যের প্রাচীনতম লিখিত নিদর্শন।"
+  },
+  {
+    "id": "q_8858aec80363",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "বাংলা সাহিত্যের প্রথম সার্থক উপন্যাস কোনটি?",
+    "options": [
+      "আলালের ঘরের দুলাল",
+      "দুর্গেশনন্দিনী",
+      "কপালকুণ্ডলা",
+      "বিষবৃক্ষ"
+    ],
+    "correctIndex": 1,
+    "explanation": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের 'দুর্গেশনন্দিনী' (১৮৬৫) প্রথম সার্থক বাংলা উপন্যাস।"
+  },
+  {
+    "id": "q_9def54195dd3",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "বাংলা ভাষায় মৌলিক স্বরধ্বনি কয়টি?",
+    "options": [
+      "৫টি",
+      "৬টি",
+      "৭টি",
+      "১১টি"
+    ],
+    "correctIndex": 2,
+    "explanation": "অ, আ, ই, উ, এ, ও, অ্যা — এই সাতটি মৌলিক স্বরধ্বনি।"
+  },
+  {
+    "id": "q_ac3f31d591aa",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'নমস্কার' শব্দের সন্ধি-বিচ্ছেদ কোনটি?",
+    "options": [
+      "নম + স্কার",
+      "নমঃ + কার",
+      "নমস + কার",
+      "নম + কার"
+    ],
+    "correctIndex": 1,
+    "explanation": "এটি বিসর্গ সন্ধির উদাহরণ (নমঃ + কার = নমস্কার)।"
+  },
+  {
+    "id": "q_ac4fada3376a",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'লালসালু' উপন্যাসের রচয়িতা কে?",
+    "options": [
+      "শওকত ওসমান",
+      "সৈয়দ ওয়ালীউল্লাহ",
+      "আবু ইসহাক",
+      "শহীদুল্লা কায়সার"
+    ],
+    "correctIndex": 1,
+    "explanation": "'লালসালু' (১৯৪৮) সৈয়দ ওয়ালীউল্লাহর প্রথম উপন্যাস।"
+  },
+  {
+    "id": "q_b45a2a00fd4e",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'শ্রীকৃষ্ণকীর্তন' কাব্যের রচয়িতা কে?",
+    "options": [
+      "বড়ু চণ্ডীদাস",
+      "বিদ্যাপতি",
+      "জ্ঞানদাস",
+      "গোবিন্দদাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯০৯ সালে বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ বাঁকুড়া থেকে এর পুঁথি আবিষ্কার করেন।"
+  },
+  {
+    "id": "q_c2984217401f",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'পদ্মাবতী' কাব্যের রচয়িতা কে?",
+    "options": [
+      "দৌলত কাজী",
+      "আলাওল",
+      "শাহ মুহম্মদ সগীর",
+      "সৈয়দ সুলতান"
+    ],
+    "correctIndex": 1,
+    "explanation": "মধ্যযুগের কবি আলাওল আরাকান রাজসভায় 'পদ্মাবতী' রচনা করেন।"
+  },
+  {
+    "id": "q_c3fa8c0214d1",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'নীলপদ্ম' কোন সমাসের উদাহরণ?",
+    "options": [
+      "দ্বন্দ্ব সমাস",
+      "কর্মধারয় সমাস",
+      "বহুব্রীহি সমাস",
+      "দ্বিগু সমাস"
+    ],
+    "correctIndex": 1,
+    "explanation": "নীল যে পদ্ম — বিশেষণ ও বিশেষ্যের মিলনে কর্মধারয় সমাস।"
+  },
+  {
+    "id": "q_dab017bf4e17",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'দেবদাস' উপন্যাসের রচয়িতা কে?",
+    "options": [
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+      "শরৎচন্দ্র চট্টোপাধ্যায়",
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "correctIndex": 2,
+    "explanation": "শরৎচন্দ্র চট্টোপাধ্যায়ের 'দেবদাস' ১৯১৭ সালে প্রকাশিত হয়।"
+  },
+  {
+    "id": "q_e3d298cfdff8",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "রবীন্দ্রনাথ ঠাকুর কত সালে সাহিত্যে নোবেল পুরস্কার লাভ করেন?",
+    "options": [
+      "১৯১০",
+      "১৯১১",
+      "১৯১৩",
+      "১৯২১"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Song Offerings' (গীতাঞ্জলির ইংরেজি অনুবাদ)-এর জন্য ১৯১৩ সালে তিনি নোবেল পান।"
+  },
+  {
+    "id": "q_e9ca598b9851",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'যা পূর্বে কখনো ঘটেনি' — এক কথায় কী হবে?",
+    "options": [
+      "অভূতপূর্ব",
+      "অদৃষ্টপূর্ব",
+      "অশ্রুতপূর্ব",
+      "অপূর্ব"
+    ],
+    "correctIndex": 0,
+    "explanation": "যা পূর্বে কখনো হয়নি — অভূতপূর্ব; যা আগে দেখা যায়নি — অদৃষ্টপূর্ব।"
+  },
+  {
+    "id": "q_ef10228a46f4",
+    "part": "General",
+    "subject": "Bangla",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "'পল্লীকবি' হিসেবে পরিচিত কে?",
+    "options": [
+      "জসীমউদ্দীন",
+      "বন্দে আলী মিয়া",
+      "গোলাম মোস্তফা",
+      "আল মাহমুদ"
+    ],
+    "correctIndex": 0,
+    "explanation": "'নকশী কাঁথার মাঠ', 'সোজন বাদিয়ার ঘাট' তাঁর বিখ্যাত কাব্য।"
+  },
+  {
+    "id": "q_076cc9b878df",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Which spelling is correct?",
+    "options": [
+      "Acommodation",
+      "Accomodation",
+      "Accommodation",
+      "Acomodation"
+    ],
+    "correctIndex": 2,
+    "explanation": "\"Accommodation\" has double c and double m."
+  },
+  {
+    "id": "q_112b31fcb6d1",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Ode to the West Wind\" was written by:",
+    "options": [
+      "John Keats",
+      "William Wordsworth",
+      "P. B. Shelley",
+      "Lord Byron"
+    ],
+    "correctIndex": 2,
+    "explanation": "Shelley wrote it in 1819 near Florence."
+  },
+  {
+    "id": "q_119468489d8c",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Paradise Lost\" is an epic by:",
+    "options": [
+      "John Milton",
+      "Edmund Spenser",
+      "John Dryden",
+      "Alexander Pope"
+    ],
+    "correctIndex": 0,
+    "explanation": "Milton's blank-verse epic was first published in 1667."
+  },
+  {
+    "id": "q_2275f996f58c",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Choose the correct synonym of \"Abandon\":",
+    "options": [
+      "Desert",
+      "Keep",
+      "Cherish",
+      "Adopt"
+    ],
+    "correctIndex": 0,
+    "explanation": "To abandon is to leave or desert completely."
+  },
+  {
+    "id": "q_36075b271c8f",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Pride and Prejudice\" was written by:",
+    "options": [
+      "Charlotte Brontë",
+      "George Eliot",
+      "Jane Austen",
+      "Virginia Woolf"
+    ],
+    "correctIndex": 2,
+    "explanation": "Published in 1813, it features Elizabeth Bennet and Mr Darcy."
+  },
+  {
+    "id": "q_360a87d320ef",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The passive form of \"They are building a bridge\" is:",
+    "options": [
+      "A bridge is built by them.",
+      "A bridge was being built by them.",
+      "A bridge is being built by them.",
+      "A bridge has been built by them."
+    ],
+    "correctIndex": 2,
+    "explanation": "Present continuous passive = am/is/are + being + past participle."
+  },
+  {
+    "id": "q_4e0e245fe9db",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The idiom \"a piece of cake\" means:",
+    "options": [
+      "Something very easy",
+      "A small reward",
+      "A sweet dish",
+      "A difficult task"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "q_4f410fc002ae",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "In the sentence \"He ran quickly\", the word \"quickly\" is a/an:",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctIndex": 1,
+    "explanation": "It modifies the verb \"ran\", describing the manner of the action."
+  },
+  {
+    "id": "q_558ccc1fb75a",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Fill in the blank: He is senior ___ me.",
+    "options": [
+      "than",
+      "to",
+      "from",
+      "over"
+    ],
+    "correctIndex": 1,
+    "explanation": "Latin comparatives such as senior, junior, superior and prior take \"to\", not \"than\"."
+  },
+  {
+    "id": "q_72ff7a92c857",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Lyrical Ballads\" (1798) was jointly published by:",
+    "options": [
+      "Keats and Shelley",
+      "Wordsworth and Coleridge",
+      "Byron and Shelley",
+      "Tennyson and Browning"
+    ],
+    "correctIndex": 1,
+    "explanation": "Its publication is regarded as the beginning of the Romantic Age in English literature."
+  },
+  {
+    "id": "q_876daac70619",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The synonym of \"Lucid\" is:",
+    "options": [
+      "Vague",
+      "Clear",
+      "Dark",
+      "Lucky"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lucid explanation is clear and easy to understand."
+  },
+  {
+    "id": "q_92e60abfa357",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"The Old Man and the Sea\" was written by:",
+    "options": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain",
+      "F. Scott Fitzgerald"
+    ],
+    "correctIndex": 0,
+    "explanation": "The novella (1952) helped Hemingway win the Nobel Prize in Literature in 1954."
+  },
+  {
+    "id": "q_b413fc563df7",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Neither of the boys were present.",
+      "Neither of the boys was present.",
+      "Neither of the boy was present.",
+      "Neither of boys were present."
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Neither of\" + plural noun takes a singular verb in formal English."
+  },
+  {
+    "id": "q_c271ca643d47",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The idiom \"to call a spade a spade\" means:",
+    "options": [
+      "To speak plainly and frankly",
+      "To work in a garden",
+      "To insult someone",
+      "To tell a lie"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "q_c89238e765d3",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "A person who does not believe in the existence of God is called a/an:",
+    "options": [
+      "Theist",
+      "Atheist",
+      "Agnostic",
+      "Pagan"
+    ],
+    "correctIndex": 1,
+    "explanation": "An agnostic believes that the existence of God cannot be known."
+  },
+  {
+    "id": "q_c8e195c01dbb",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Fill in the blank: I wish I ___ a bird.",
+    "options": [
+      "am",
+      "was being",
+      "were",
+      "will be"
+    ],
+    "correctIndex": 2,
+    "explanation": "The subjunctive \"were\" is used for unreal wishes in the present."
+  },
+  {
+    "id": "q_cbfece671992",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The antonym of \"Benevolent\" is:",
+    "options": [
+      "Kind",
+      "Generous",
+      "Malevolent",
+      "Charitable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Benevolent means well-meaning; malevolent means wishing harm to others."
+  },
+  {
+    "id": "q_d6480a5b965b",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Who is known as the \"Father of English Poetry\"?",
+    "options": [
+      "William Langland",
+      "John Gower",
+      "Geoffrey Chaucer",
+      "Edmund Spenser"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chaucer, author of The Canterbury Tales, is traditionally called the Father of English Poetry."
+  },
+  {
+    "id": "q_d7f2a8a14b1f",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Hamlet\" was written by:",
+    "options": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hamlet (c. 1600) is one of Shakespeare's four great tragedies."
+  },
+  {
+    "id": "q_dfbf15807110",
+    "part": "General",
+    "subject": "English",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The plural of \"phenomenon\" is:",
+    "options": [
+      "Phenomenons",
+      "Phenomena",
+      "Phenomenas",
+      "Phenomenon"
+    ],
+    "correctIndex": 1,
+    "explanation": "Greek-origin nouns ending in -on often form plurals in -a (criterion → criteria)."
+  },
+  {
+    "id": "q_003e05cc48ed",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Which of the following is a Ramsar site of Bangladesh?",
+    "options": [
+      "Chalan Beel",
+      "Tanguar Haor",
+      "Bhawal National Park",
+      "Foy's Lake"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bangladesh's Ramsar sites are the Sundarbans (1992) and Tanguar Haor (2000)."
+  },
+  {
+    "id": "q_0776b565c11b",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The only coral island of Bangladesh is:",
+    "options": [
+      "Bhola",
+      "Sandwip",
+      "St. Martin's Island",
+      "Hatiya"
+    ],
+    "correctIndex": 2,
+    "explanation": "St. Martin's Island (Narikel Jinjira) lies in the Bay of Bengal off Teknaf."
+  },
+  {
+    "id": "q_1b5213ea56bb",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Mujibnagar Government took oath on:",
+    "options": [
+      "26 March 1971",
+      "10 April 1971",
+      "17 April 1971",
+      "16 December 1971"
+    ],
+    "correctIndex": 2,
+    "explanation": "It was formed on 10 April 1971 and sworn in at Baidyanathtala, Meherpur, on 17 April 1971."
+  },
+  {
+    "id": "q_27085bb0734f",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The length of the Padma Multipurpose Bridge is:",
+    "options": [
+      "4.8 km",
+      "5.5 km",
+      "6.15 km",
+      "7.2 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 6.15 km road-rail bridge was opened to traffic in June 2022."
+  },
+  {
+    "id": "q_367160232cf7",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Bangladesh shares land borders with how many countries?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "India and Myanmar."
+  },
+  {
+    "id": "q_464f8a9362dc",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "\"Operation Searchlight\" was launched by the Pakistan army on the night of:",
+    "options": [
+      "7 March 1971",
+      "25 March 1971",
+      "17 April 1971",
+      "14 December 1971"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "q_49601dc81c9a",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "During the Liberation War of 1971, Bangladesh was divided into how many sectors?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 10th sector was reserved for naval commandos and had no fixed geographic area."
+  },
+  {
+    "id": "q_5677450982ad",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Sundarbans was declared a UNESCO World Heritage Site in:",
+    "options": [
+      "1985",
+      "1992",
+      "1997",
+      "2001"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Bangladesh part of the world's largest mangrove forest was inscribed in 1997."
+  },
+  {
+    "id": "q_5a5259dc87a1",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Rooppur Nuclear Power Plant is located in:",
+    "options": [
+      "Ishwardi, Pabna",
+      "Paksey, Kushtia",
+      "Rajshahi",
+      "Bheramara"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "q_66e1edc12b2f",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Bangladesh became a member of the United Nations on:",
+    "options": [
+      "17 September 1974",
+      "16 December 1972",
+      "24 October 1973",
+      "8 August 1975"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bangladesh became the 136th member state of the UN."
+  },
+  {
+    "id": "q_674e9fb0028e",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Central Shaheed Minar was designed by:",
+    "options": [
+      "Zainul Abedin",
+      "Hamidur Rahman",
+      "Syed Mainul Hossain",
+      "Mazharul Islam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hamidur Rahman designed it with sculptor Novera Ahmed."
+  },
+  {
+    "id": "q_6b152b10afc3",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "UNESCO proclaimed 21 February as International Mother Language Day on:",
+    "options": [
+      "17 November 1999",
+      "21 February 2000",
+      "16 December 1998",
+      "26 March 2001"
+    ],
+    "correctIndex": 0,
+    "explanation": "The day has been observed worldwide since 21 February 2000."
+  },
+  {
+    "id": "q_8ea12b97779e",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The first Prime Minister of Bangladesh (Mujibnagar Government) was:",
+    "options": [
+      "Syed Nazrul Islam",
+      "Tajuddin Ahmad",
+      "M. Mansur Ali",
+      "A. H. M. Qamaruzzaman"
+    ],
+    "correctIndex": 1,
+    "explanation": "Syed Nazrul Islam was the Acting President of the Mujibnagar Government."
+  },
+  {
+    "id": "q_967dd6560342",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The National Parliament House (Jatiya Sangsad Bhaban) was designed by:",
+    "options": [
+      "Le Corbusier",
+      "Louis I. Kahn",
+      "Frank Lloyd Wright",
+      "Fazlur Rahman Khan"
+    ],
+    "correctIndex": 1,
+    "explanation": "American architect Louis Kahn designed the complex at Sher-e-Bangla Nagar."
+  },
+  {
+    "id": "q_a91dc4ad99cd",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "How many articles are there in the Constitution of Bangladesh?",
+    "options": [
+      "143",
+      "150",
+      "153",
+      "163"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Constitution has 153 articles arranged in 11 parts, plus schedules."
+  },
+  {
+    "id": "q_dd0ee4a6dbeb",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The maritime boundary dispute between Bangladesh and Myanmar was settled by ITLOS in:",
+    "options": [
+      "2010",
+      "2012",
+      "2014",
+      "2016"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dispute with India was settled by the Permanent Court of Arbitration in 2014."
+  },
+  {
+    "id": "q_ead411cded4d",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The National Memorial (Jatiyo Smriti Soudho) is located at:",
+    "options": [
+      "Savar",
+      "Gazipur",
+      "Mujibnagar",
+      "Tongi"
+    ],
+    "correctIndex": 0,
+    "explanation": "It was designed by architect Syed Mainul Hossain."
+  },
+  {
+    "id": "q_ed5d0602a4f6",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Constitution of the People's Republic of Bangladesh came into effect on:",
+    "options": [
+      "4 November 1972",
+      "16 December 1972",
+      "26 March 1972",
+      "10 April 1972"
+    ],
+    "correctIndex": 1,
+    "explanation": "It was adopted by the Constituent Assembly on 4 November 1972 and came into effect on 16 December 1972."
+  },
+  {
+    "id": "q_eedb0be69a13",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The historic Six-Point Programme was first placed in:",
+    "options": [
+      "1962",
+      "1966",
+      "1969",
+      "1970"
+    ],
+    "correctIndex": 1,
+    "explanation": "It was presented at Lahore in February 1966 as the charter of autonomy for East Pakistan."
+  },
+  {
+    "id": "q_f45e9864f741",
+    "part": "General",
+    "subject": "Bangladesh Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The national fruit of Bangladesh is:",
+    "options": [
+      "Mango",
+      "Jackfruit",
+      "Litchi",
+      "Banana"
+    ],
+    "correctIndex": 1,
+    "explanation": "The jackfruit is the national fruit; the mango tree is the national tree."
+  },
+  {
+    "id": "q_02f582c0028a",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "কিউবায় অবস্থিত কোন মার্কিন সামরিক ঘাঁটিতে যুক্তরাষ্ট্র ‘ক্যাম্প এক্সরে’ ও ‘ক্যাম্প ডেল্টা’ নামে কারাগার স্থাপন করেছে?",
+    "options": [
+      "সুবিক বে",
+      "গুয়ান্তানামো বে",
+      "পার্ল হারবার",
+      "দিয়াগো গার্সিয়া"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯০৩ সাল থেকে কিউবার গুয়ান্তানামো বে-তে মার্কিন সামরিক ঘাঁটি রয়েছে, যেখানে ক্যাম্প এক্সরে ও ক্যাম্প ডেল্টা কারাগার স্থাপন করা হয়েছে।",
+    "topic": "সামরিক ঘাঁটি",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_033d56ac93e4",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "তুরস্কের দক্ষিণ-পূর্বাঞ্চলে কুর্দি রাষ্ট্র প্রতিষ্ঠায় সংগ্রামরত ‘কুর্দিস্তান ওয়ার্কার্স পার্টি’ (PKK) কে এবং কত সালে প্রতিষ্ঠা করেন?",
+    "options": [
+      "শেখ আহমেদ ইয়াসিন, ১৯৮৭ সালে",
+      "আবদুল্লাহ ওচালান, ১৯৭৮ সালে",
+      "মোল্লা ওমর, ১৯৯৪ সালে",
+      "অনুপ চেটিয়া, ১৯৭৯ সালে"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৭৮ সালে আবদুল্লাহ ওচালান তুর্কি কুর্দিদের রাজনৈতিক ও মিলিশিয়া সংগঠন PKK প্রতিষ্ঠা করেন।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_06048d2bc2ec",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৬৭ সালের তৃতীয় আরব-ইসরাইল যুদ্ধে ইসরাইল সিরিয়ার কোন মালভূমি দখল করে নেয়?",
+    "options": [
+      "গোলান মালভূমি",
+      "সিনাই উপদ্বীপ",
+      "ডোকলাম মালভূমি",
+      "আনাতোলিয়া মালভূমি"
+    ],
+    "correctIndex": 0,
+    "explanation": "তৃতীয় আরব-ইসরাইল যুদ্ধের সময় ১৯৬৭ সালে ইসরাইল সিরিয়ার গোলান মালভূমি দখল করে নেয়।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_08b736d7829a",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "V-E Day (Victory Over Europe Day) পালিত হয় কোন তারিখে?",
+    "options": [
+      "৬ জুন ১৯৪৪",
+      "১৪ আগস্ট ১৯৪৫",
+      "২ সেপ্টেম্বর ১৯৪৫",
+      "৮ মে ১৯৪৫"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৯৪৫ সালের ৮ মে জার্মানির নাৎসি বাহিনী মিত্রবাহিনীর নিকট আত্মসমর্পণ করে। এই দিনটিকে V-E Day বলা হয়।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_0c407d816b04",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "পারমাণবিক অস্ত্রের বিস্তার রোধ সংক্রান্ত চুক্তি NPT কবে স্বাক্ষরিত ও কার্যকর হয় এবং কোন দেশ ২০০৩ সালে নিজেকে প্রত্যাহার করে নেয়?",
+    "options": [
+      "স্বাক্ষর ২৪ অক্টোবর ১৯৯৬, কার্যকর ২০০০; প্রত্যাহারকারী ইরান",
+      "স্বাক্ষর ২৬ মে ১৯৭২, কার্যকর ১৯৭৫; প্রত্যাহারকারী ভারত",
+      "স্বাক্ষর ৩১ জুলাই ১৯৯১, কার্যকর ১৯৯৩; প্রত্যাহারকারী পাকিস্তান",
+      "স্বাক্ষর ১ জুলাই ১৯৬৮, কার্যকর ৫ মার্চ ১৯৭০; প্রত্যাহারকারী উত্তর কোরিয়া"
+    ],
+    "correctIndex": 3,
+    "explanation": "NPT (Treaty on Non-Proliferation of Nuclear Weapons) ১ জুলাই ১৯৬৮ স্বাক্ষরিত এবং ৫ মার্চ ১৯৭০ কার্যকর হয়। ইসরাইল, ভারত, পাকিস্তান ও দক্ষিণ সুদান এতে স্বাক্ষর করেনি এবং উত্তর কোরিয়া ২০০৩ সালে প্রত্যাহার করে।",
+    "topic": "অস্ত্র নিয়ন্ত্রণ ও নিরস্ত্রীকরণ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_0cea756bc493",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "আফ্রিকা মহাদেশের কোন দেশে লোহিত সাগরের তীরে চীন তার প্রথম সামরিক ঘাঁটি স্থাপন করেছে?",
+    "options": [
+      "সোমালিয়া",
+      "ইরিত্রিয়া",
+      "জিবুতি",
+      "সুদান"
+    ],
+    "correctIndex": 2,
+    "explanation": "লোহিত সাগরের তীরে জিবুতিতে আফ্রিকা মহাদেশে চীনের প্রথম সামরিক ঘাঁটি অবস্থিত।",
+    "topic": "সামরিক ঘাঁটি",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_1121c4ac7c83",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "যুদ্ধবন্দিদের প্রতি আচরণ এবং যুদ্ধকালীন সময়ে বেসামরিক লোকদের রক্ষাকবচ যথাক্রমে কোন জেনেভা কনভেনশনের আলোচ্য বিষয়?",
+    "options": [
+      "তৃতীয় জেনেভা কনভেনশন (১৯২৯) ও চতুর্থ জেনেভা কনভেনশন (১৯৪৯)",
+      "প্রথম জেনেভা কনভেনশন (১৮৬৪) ও দ্বিতীয় জেনেভা কনভেনশন (১৯০৬)",
+      "দ্বিতীয় জেনেভা কনভেনশন (১৯০৬) ও তৃতীয় জেনেভা কনভেনশন (১৯২৯)",
+      "প্রথম জেনেভা কনভেনশন (১৮৬৪) ও চতুর্থ জেনেভা কনভেনশন (১৯৪৯)"
+    ],
+    "correctIndex": 0,
+    "explanation": "তৃতীয় জেনেভা কনভেনশন (১৯২৯) যুদ্ধবন্দিদের নিরাপত্তা এবং চতুর্থ জেনেভা কনভেনশন (১৯৪৯) যুদ্ধকালীন বেসামরিক লোকদের রক্ষাকবচ সংক্রান্ত।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_119dd17f303b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৪৪ সালের ৬ জুন ফ্রান্সের নরম্যান্ডিতে মিত্রবাহিনীর অবতরণ অভিযানের নাম কী ছিল?",
+    "options": [
+      "অপারেশন বারবারোসা",
+      "অপারেশন সি লায়ন",
+      "অপারেশন ওভারলর্ড",
+      "অপারেশন ডেজার্ট স্টর্ম"
+    ],
+    "correctIndex": 2,
+    "explanation": "নরম্যান্ডিতে মিত্রবাহিনীর অবতরণের (D-Day) সামরিক অভিযানটির নাম ছিল ‘অপারেশন ওভারলর্ড’।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_11ee47b4cecb",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "নিচের কোন দেশটিতে কোনো নিজস্ব সেনাবাহিনী নেই?",
+    "options": [
+      "কোস্টারিকা, মালদ্বীপ ও ভ্যাটিকান সিটি",
+      "সুইজারল্যান্ড, নেপাল ও ভুটান",
+      "সিঙ্গাপুর, কাতার ও ব্রুনাই",
+      "ফিজি, কিউবা ও মঙ্গোলিয়া"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোস্টারিকা, নাউরু, পালাউ, টুভ্যালু, ভ্যাটিকান সিটি, মরিশাস ও মালদ্বীপে কোনো সেনাবাহিনী নেই।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_126277508354",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "জাতিসংঘ সাধারণ পরিষদে ‘মানবাধিকারের সার্বজনীন ঘোষণা’ (UDHR) কবে ও কোথায় গৃহীত হয় এবং এতে কয়টি ধারা আছে?",
+    "options": [
+      "২৪ অক্টোবর ১৯৪৫, সানফ্রান্সিসকোতে; ২৫টি ধারা",
+      "১৬ ডিসেম্বর ১৯৬৬, নিউইয়র্কে; ৩০টি ধারা",
+      "১২ আগস্ট ১৯৪৯, জেনেভায়; ৪টি ধারা",
+      "১০ ডিসেম্বর ১৯৪৮, প্যারিসে; ৩০টি ধারা"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৯৪৮ সালের ১০ ডিসেম্বর ফ্রান্সের প্যারিসে অনুষ্ঠিত জাতিসংঘ সাধারণ পরিষদে ৩০টি ধারা সংবলিত Universal Declaration of Human Rights ঘোষিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_13e420d73335",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "নাৎসি জার্মান যুদ্ধবন্দিদের বিচারের জন্য অনুষ্ঠিত ‘ন্যুরেমবার্গ ট্রায়াল’-এর সময়কাল কোনটি?",
+    "options": [
+      "৮ মে ১৯৪৫ – ২ সেপ্টেম্বর ১৯৪৫",
+      "১ সেপ্টেম্বর ১৯৩৯ – ২ সেপ্টেম্বর ১৯৪৫",
+      "১০ ডিসেম্বর ১৯৪৮ – ১ অক্টোবর ১৯৪৯",
+      "২১ নভেম্বর ১৯৪৫ – ১ অক্টোবর ১৯৪৬"
+    ],
+    "correctIndex": 3,
+    "explanation": "জার্মানির ন্যুরেমবার্গে নাৎসি যুদ্ধবন্দিদের যুদ্ধপরবর্তী বিচার ২১ নভেম্বর ১৯৪৫ হতে ১ অক্টোবর ১৯৪৬ পর্যন্ত অনুষ্ঠিত হয়।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_159262c2d655",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৯৪ সালে আফগানিস্তানে তালেবান প্রতিষ্ঠা করেন কে এবং বর্তমান শীর্ষ নেতা কে?",
+    "options": [
+      "প্রতিষ্ঠাতা ওসামা বিন লাদেন; বর্তমান নেতা আইমান আল জাওয়াহিরি",
+      "প্রতিষ্ঠাতা গুলবুদ্দিন হেকমতিয়ার; বর্তমান নেতা মোল্লা বারাদার",
+      "প্রতিষ্ঠাতা মোল্লা ওমর; বর্তমান শীর্ষ নেতা হাইবাতুল্লাহ আখুন্দজাদা",
+      "প্রতিষ্ঠাতা আহমদ শাহ মাসুদ; বর্তমান নেতা সিরাজউদ্দিন হাক্কানি"
+    ],
+    "correctIndex": 2,
+    "explanation": "১৯৯৪ সালে মোল্লা ওমর তালেবান প্রতিষ্ঠা করেন। ১৫ আগস্ট ২০২১ তারা পুনরায় ক্ষমতায় আসে এবং বর্তমান শীর্ষ নেতা হাইবাতুল্লাহ আখুন্দজাদা।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_16474720b64c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "যুক্তরাষ্ট্রকে স্বাধীনতা প্রদানকারী ‘প্রথম ভার্সাই চুক্তি’ এবং ১ম বিশ্বযুদ্ধের পর জার্মানির সাথে ‘দ্বিতীয় ভার্সাই চুক্তি’ যথাক্রমে কত সালে স্বাক্ষরিত হয়?",
+    "options": [
+      "১৭৭৬ সালে এবং ১৯১৮ সালে",
+      "১৭৮৯ সালে এবং ১৯২০ সালে",
+      "১৭৮৩ সালে এবং ১৯১৯ সালে (২৮ জুন)",
+      "১৭৮৩ সালে এবং ১৯৪৫ সালে"
+    ],
+    "correctIndex": 2,
+    "explanation": "১৭৮৩ সালে প্রথম ভার্সাই চুক্তির মাধ্যমে ব্রিটেন যুক্তরাষ্ট্রকে স্বাধীনতা দেয় এবং ২৮ জুন ১৯১৯ সালে দ্বিতীয় ভার্সাই চুক্তির মাধ্যমে মিত্রশক্তি জার্মানিকে ক্ষতিপূরণ দানে বাধ্য করে।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_189da7788f98",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "২০১১ সালের ২ মে পাকিস্তানের অ্যাবোটাবাদে আল-কায়েদা নেতা ওসামা বিন লাদেনকে হত্যার জন্য পরিচালিত মার্কিন গোপন অভিযানের নাম কী?",
+    "options": [
+      "অপারেশন এনডিউরিং ফ্রিডম",
+      "অপারেশন অ্যানাকোন্ডা",
+      "অপারেশন নেপচুন স্পিয়ার",
+      "অপারেশন ওডিসি ডন"
+    ],
+    "correctIndex": 2,
+    "explanation": "২ মে ২০১১ পাকিস্তানের অ্যাবোটাবাদে ওসামা বিন লাদেনকে খুঁজে বের করে হত্যা করার মার্কিন গোপন সামরিক অভিযানের নাম ছিল ‘অপারেশন নেপচুন স্পিয়ার’।",
+    "topic": "আলোচিত সামরিক অপারেশন",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_1c29e78d250b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "MSS, FSB এবং D.G.S.E যথাক্রমে কোন কোন দেশের গোয়েন্দা সংস্থা?",
+    "options": [
+      "চীন, রাশিয়া ও ফ্রান্স",
+      "যুক্তরাজ্য, রাশিয়া ও জার্মানি",
+      "চীন, যুক্তরাষ্ট্র ও ফ্রান্স",
+      "ভারত, রাশিয়া ও ইতালি"
+    ],
+    "correctIndex": 0,
+    "explanation": "MSS চীনের, FSB রাশিয়ার, D.G.S.E ফ্রান্সের, MI-5/MI-6/SIS যুক্তরাজ্যের এবং RAW/CBI ভারতের গোয়েন্দা সংস্থা।",
+    "topic": "পারমাণবিক দুর্ঘটনা ও গোয়েন্দা সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_1d0b2bca80dc",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘বোকো হারাম’ ও ‘আল শাবাব’ যথাক্রমে কোন দুটি দেশভিত্তিক গেরিলা সংগঠন?",
+    "options": [
+      "সোমালিয়া ও কেনিয়া",
+      "মালি ও সুদান",
+      "নাইজেরিয়া ও সোমালিয়া",
+      "নাইজেরিয়া ও ইথিওপিয়া"
+    ],
+    "correctIndex": 2,
+    "explanation": "বোকো হারাম নাইজেরিয়া ভিত্তিক (২০০২ সালে প্রতিষ্ঠিত) এবং আল শাবাব (আল-কায়েদার আফ্রিকান শাখা) সোমালিয়া ভিত্তিক গেরিলা সংগঠন।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_1f69ef3cce5a",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "আরব বসন্তের সূচনাকারী ‘জেসমিন বিপ্লব’ কোন দেশে সংঘটিত হয় এবং এর ফলে কোন স্বৈরশাসকের পতন ঘটে?",
+    "options": [
+      "তিউনিশিয়া; জয়নাল আবেদীন বেন আলী",
+      "মিশর; হোসনি মোবারক",
+      "লিবিয়া; মুয়াম্মার গাদ্দাফি",
+      "ইয়েমেন; আলি আবদুল্লাহ সালেহ"
+    ],
+    "correctIndex": 0,
+    "explanation": "২০১০ সালের ১৭ ডিসেম্বর তিউনিশিয়ান যুবক বোয়াজিজির আত্মহননের মধ্য দিয়ে জেসমিন বিপ্লব শুরু হয় এবং ১৪ জানুয়ারি ২০১১ প্রেসিডেন্ট বেন আলী সৌদি আরব পালিয়ে যান।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_216d40f9c47c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "খ্রিস্টপূর্ব ৪৯০ অব্দে সংঘটিত ‘ম্যারাথন যুদ্ধ’-এ বিবাদমান দুটি পক্ষ কী ছিল এবং জয়লাভ করে কোন দেশ?",
+    "options": [
+      "গ্রিস ও রোম (জয়ী রোম)",
+      "গ্রিস ও পারস্য (জয়ী গ্রিস)",
+      "পারস্য ও রোম (জয়ী পারস্য)",
+      "স্পার্টা ও এথেন্স (জয়ী স্পার্টা)"
+    ],
+    "correctIndex": 1,
+    "explanation": "খ্রিস্টপূর্ব ৪৯০ অব্দে গ্রিস ও পারস্যের মধ্যে ম্যারাথন যুদ্ধ সংঘটিত হয় এবং এতে গ্রিস জয়লাভ করে।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2770c15cc5b0",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘মোসাদ, আমান ও সাভাক’ এবং ‘ভেভাক (VEVAK) ও VAJA’ যথাক্রমে কোন দুটি দেশের গোয়েন্দা সংস্থা?",
+    "options": [
+      "ইরান ও ইসরাইল",
+      "ইসরাইল ও তুরস্ক",
+      "পাকিস্তান ও ইরান",
+      "ইসরাইল ও ইরান"
+    ],
+    "correctIndex": 3,
+    "explanation": "মোসাদ, আমান ও সাভাক ইসরাইলের এবং ভেভাক (VEVAK) ও VAJA ইরানের গোয়েন্দা সংস্থা।",
+    "topic": "পারমাণবিক দুর্ঘটনা ও গোয়েন্দা সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_296e7c0a8ed4",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "যুক্তরাষ্ট্রের ‘তারকাযুদ্ধ’ (Star Wars) নামে পরিচিত কর্মসূচি SDI (১৯৮৩)-এর পূর্ণরূপ কী?",
+    "options": [
+      "Space Defense Institution",
+      "Satellite Defense Initiative",
+      "Strategic Defense Initiative",
+      "Strategic Deterrence Instrument"
+    ],
+    "correctIndex": 2,
+    "explanation": "২৩ মার্চ ১৯৮৩ সালে স্বাক্ষরিত মহাশূন্যভিত্তিক কৌশলগত প্রতিরক্ষা উদ্যোগ SDI-এর পূর্ণরূপ Strategic Defense Initiative।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2b546e26ec7f",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "জাতিসংঘের তত্ত্বাবধানে থাকা ‘শান্তিপল্লী’ নামে পরিচিত নিরপেক্ষ অঞ্চল ‘পানমুনজাম’ কোথায় অবস্থিত?",
+    "options": [
+      "চীন ও ভারতের সীমান্তে",
+      "ইসরাইল ও সিরিয়ার সীমান্তে",
+      "রাশিয়া ও ইউক্রেনের সীমান্তে",
+      "উত্তর কোরিয়া ও দক্ষিণ কোরিয়ার সীমান্তে"
+    ],
+    "correctIndex": 3,
+    "explanation": "পানমুনজাম উত্তর কোরিয়া ও দক্ষিণ কোরিয়ার মধ্যকার নিরপেক্ষ সীমান্ত অঞ্চল, যা ‘শান্তিপল্লী’ নামে পরিচিত।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2e9280c90982",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "২০২৫ সালের জুনে ইরানের পরমাণুকেন্দ্রে ইসরায়েলের হামলা, ইরানের পাল্টা হামলা এবং বি-২ স্টেলথ বোমারু বিমান দিয়ে যুক্তরাষ্ট্রের হামলার নাম যথাক্রমে কী?",
+    "options": [
+      "অপারেশন ব্রেকিং ডন, অপারেশন গ্ল্যাড টাইডিংস ও অপারেশন ডেজার্ট ফক্স",
+      "অপারেশন অলিভ ব্রাঞ্চ, অপারেশন পিস স্প্রিং ও অপারেশন মিডনাইট হ্যামার",
+      "অপারেশন রাইজিং লায়ন, অপারেশন ডিসিসিভ স্টর্ম ও অপারেশন নেপচুন স্পিয়ার",
+      "অপারেশন রাইজিং লায়ন, অপারেশন ট্রু প্রমিজ-৩ ও অপারেশন মিডনাইট হ্যামার"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৩ জুন ২০২৫ ইসরায়েলের হামলার নাম ‘অপারেশন রাইজিং লায়ন’, ইরানের পাল্টা হামলার নাম ‘অপারেশন ট্রু প্রমিজ-৩’ এবং ২২ জুন ২০২৫ যুক্তরাষ্ট্রের B-2 Spirit বোমারু বিমানের হামলার নাম ‘অপারেশন মিডনাইট হ্যামার’।",
+    "topic": "আলোচিত সামরিক অপারেশন",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2f83cd21f21d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "বঙ্গোপসাগরের হাড়িয়াভাঙ্গা নদীর মোহনায় অবস্থিত ‘দক্ষিণ তালপট্টি’ বা ‘পূর্বাশা’ দ্বীপের অপর নাম কী?",
+    "options": [
+      "সেন্ট মার্টিন",
+      "নিউ মুর",
+      "ছেঁড়াদ্বীপ",
+      "নিঝুম দ্বীপ"
+    ],
+    "correctIndex": 1,
+    "explanation": "বাংলাদেশ ও ভারতের মধ্যকার বিরোধপূর্ণ দক্ষিণ তালপট্টি বা পূর্বাশা দ্বীপের অপর নাম নিউ মুর (বর্তমানে ভারতের মালিকানাধীন)।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2fc1e0c40ada",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ইসলামের ইতিহাসে ‘বদরের যুদ্ধ’ ও ‘উহুদের যুদ্ধ’ যথাক্রমে কত খ্রিস্টাব্দে সংঘটিত হয়?",
+    "options": [
+      "৬২২ খ্রিস্টাব্দে ও ৬২৪ খ্রিস্টাব্দে",
+      "৬২৫ খ্রিস্টাব্দে ও ৬২৭ খ্রিস্টাব্দে",
+      "৬২৭ খ্রিস্টাব্দে ও ৬২৮ খ্রিস্টাব্দে",
+      "৬২৪ খ্রিস্টাব্দে ও ৬২৫ খ্রিস্টাব্দে"
+    ],
+    "correctIndex": 3,
+    "explanation": "বদরের যুদ্ধ ৬২৪ খ্রিস্টাব্দে (দ্বিতীয় হিজরি) এবং উহুদের যুদ্ধ ৬২৫ খ্রিস্টাব্দে (তৃতীয় হিজরি) সংঘটিত হয়।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_2fd5736812ef",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "স্নায়ুযুদ্ধকালে সমাজতান্ত্রিক দেশগুলোর সামরিক জোট ‘Warsaw Pact’ কবে প্রতিষ্ঠিত এবং কবে বিলুপ্ত হয়?",
+    "options": [
+      "প্রতিষ্ঠা ১৪ মে ১৯৫৫; বিলুপ্তি ১৯৯১ সালে",
+      "প্রতিষ্ঠা ৪ এপ্রিল ১৯৪৯; বিলুপ্তি ১৯৮৯ সালে",
+      "প্রতিষ্ঠা ৮ সেপ্টেম্বর ১৯৫৪; বিলুপ্তি ১৯৭৭ সালে",
+      "প্রতিষ্ঠা ১৯৫৫ সালে; বিলুপ্তি ১৯৭৯ সালে"
+    ],
+    "correctIndex": 0,
+    "explanation": "৮টি সমাজতান্ত্রিক দেশ নিয়ে ১৪ মে ১৯৫৫ সালে ওয়ারশ জোট (Warsaw Pact) গঠিত হয় এবং ১৯৯১ সালে এটি বিলুপ্ত হয়।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_31219b623768",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ফিলিস্তিনের স্বাধীনতাকামী সংগঠন ‘হামাস’ কত সালে প্রতিষ্ঠিত হয় এবং এর প্রতিষ্ঠাতা কে?",
+    "options": [
+      "১৯৮১ সালে; ইয়াসির আরাফাত",
+      "১৯৮৭ সালে; শেখ আহমেদ ইয়াসিন",
+      "১৯৮৮ সালে; মোল্লা ওমর",
+      "১৯৭৮ সালে; আবদুল্লাহ ওচালান"
+    ],
+    "correctIndex": 1,
+    "explanation": "ফিলিস্তিনের স্বাধীনতাকামী সংগঠন হামাস ১৯৮৭ সালে প্রতিষ্ঠিত হয় এবং এর প্রতিষ্ঠাতা শেখ আহমেদ ইয়াসিন।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_34e538fa17fe",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ফিলিপাইনের মিন্দানাও অঞ্চলের জন্য স্বাধীনতা আন্দোলনরত গেরিলা সংগঠনের নাম কী?",
+    "options": [
+      "আবু সায়াফ",
+      "শাইনিং পাথ",
+      "টুপাক আমারু",
+      "গডস আর্মি"
+    ],
+    "correctIndex": 0,
+    "explanation": "ফিলিপাইনের মিন্দানাও অঞ্চলের স্বাধীনতার জন্য আন্দোলনরত গেরিলা সংগঠন হলো ‘আবু সায়াফ’।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_35670ac51a20",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘ফ্লোরেন্স নাইটিঙ্গেল’ নামটি কোন যুদ্ধের সঙ্গে জড়িত এবং এ যুদ্ধের সময়কাল কত?",
+    "options": [
+      "সপ্তবর্ষব্যাপী যুদ্ধ (১৭৫৬–১৭৬৩)",
+      "প্রথম বিশ্বযুদ্ধ (১৯১৪–১৯১৮)",
+      "ক্রিমিয়ার যুদ্ধ (অক্টোবর ১৮৫৩ – এপ্রিল ১৮৫৬)",
+      "ওয়াটারলু যুদ্ধ (১৮১৫)"
+    ],
+    "correctIndex": 2,
+    "explanation": "অক্টোবর ১৮৫৩ থেকে এপ্রিল ১৮৫৬ সাল পর্যন্ত সংঘটিত ক্রিমিয়ার যুদ্ধের সঙ্গে ‘ফ্লোরেন্স নাইটিঙ্গেল’ নামটি জড়িত।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_3c90ed9bafdd",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "প্রশান্ত মহাসাগরে অবস্থিত ‘সুবিক বে’ (পূর্বে মার্কিন সামরিক ঘাঁটি ছিল) কোন দেশের অন্তর্গত?",
+    "options": [
+      "জাপান",
+      "ইন্দোনেশিয়া",
+      "তাইওয়ান",
+      "ফিলিপাইন"
+    ],
+    "correctIndex": 3,
+    "explanation": "সুবিক বে প্রশান্ত মহাসাগরে ফিলিপাইনের অন্তর্গত, যা পূর্বে যুক্তরাষ্ট্রের সামরিক ঘাঁটি ছিল।",
+    "topic": "সামরিক ঘাঁটি",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_40cb61ae3039",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "দ্বিতীয় বিশ্বযুদ্ধে জাপান আনুষ্ঠানিকভাবে কবে আত্মসমর্পণ করে?",
+    "options": [
+      "২ সেপ্টেম্বর ১৯৪৫",
+      "১৪ আগস্ট ১৯৪৫",
+      "৬ আগস্ট ১৯৪৫",
+      "৯ আগস্ট ১৯৪৫"
+    ],
+    "correctIndex": 0,
+    "explanation": "জাপান ১৪ আগস্ট ১৯৪৫ আত্মসমর্পণের ঘোষণা দেয় এবং ১৯৪৫ সালের ২রা সেপ্টেম্বর আনুষ্ঠানিকভাবে আত্মসমর্পণ করে।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_449dcc443242",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "অ্যাডলফ হিটলার কবে আত্মহত্যা করেন?",
+    "options": [
+      "৮ মে ১৯৪৫",
+      "২১ নভেম্বর ১৯৪৫",
+      "৩০ এপ্রিল ১৯৪৫",
+      "২ সেপ্টেম্বর ১৯৪৫"
+    ],
+    "correctIndex": 2,
+    "explanation": "জার্মানির পরাজয়ের প্রাক্কালে হিটলার ৩০ এপ্রিল ১৯৪৫ সালে আত্মহত্যা করেন।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_51d9f0677a72",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ব্রিটিশ শাসনতন্ত্রের বাইবেল হিসেবে পরিচিত ‘ম্যাগনাকার্টা’ (Magna Carta) কত খ্রিস্টাব্দে এবং কোন রাজার আমলে স্বাক্ষরিত হয়?",
+    "options": [
+      "১২১৫ খ্রিস্টাব্দে; রাজা জন",
+      "১৬২৮ খ্রিস্টাব্দে; রাজা প্রথম চার্লস",
+      "১৬৮৯ খ্রিস্টাব্দে; রাজা তৃতীয় উইলিয়াম",
+      "১৭৮৩ খ্রিস্টাব্দে; রাজা তৃতীয় জর্জ"
+    ],
+    "correctIndex": 0,
+    "explanation": "১২১৫ খ্রিস্টাব্দে ইংল্যান্ডের রাজা জন ও জনগণের মধ্যে রানিমেড দ্বীপে রাজার ক্ষমতা সীমিত করার উদ্দেশ্যে ‘ম্যাগনাকার্টা’ (মহাসনদ) স্বাক্ষরিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_51f88f8028cc",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "পৃথিবীর সর্ববৃহৎ সামরিক জোট NATO কবে প্রতিষ্ঠিত হয় এবং এর বর্তমান সদর দপ্তর কোথায়?",
+    "options": [
+      "১৪ মে ১৯৫৫; প্যারিস (ফ্রান্স)",
+      "১ সেপ্টেম্বর ১৯৫১; ওয়াশিংটন ডিসি",
+      "৮ সেপ্টেম্বর ১৯৫৪; লন্ডন",
+      "৪ এপ্রিল ১৯৪৯; ব্রাসেলস (বেলজিয়াম)"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৯৪৯ সালের ৪ এপ্রিল ১২টি প্রতিষ্ঠাতা সদস্য নিয়ে NATO প্রতিষ্ঠিত হয়। ১৯৬৬ সাল পর্যন্ত সদর দপ্তর প্যারিসে ছিল, বর্তমান সদর দপ্তর ব্রাসেলস (বেলজিয়াম)।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_520a4e94fc6c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘কালাপানি, লিপুলেখ ও লিম্পিয়াধুরা’ অঞ্চল তিনটি নিয়ে কোন দুটি দেশের মধ্যে সীমান্ত বিরোধ রয়েছে?",
+    "options": [
+      "ভারত ও নেপাল",
+      "ভারত ও চীন",
+      "ভারত ও ভুটান",
+      "চীন ও নেপাল"
+    ],
+    "correctIndex": 0,
+    "explanation": "২০২০ সালে নেপাল নতুন মানচিত্রে ভারতের সাথে বিরোধপূর্ণ কালাপানি, লিপুলেখ ও লিম্পিয়াধুরা অঞ্চল নিজেদের ভূখণ্ড হিসেবে অন্তর্ভুক্ত করে।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_56e1a2603c92",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "৬৩৭ খ্রিস্টাব্দে সংঘটিত কোন যুদ্ধে মুসলিম বাহিনীর নিকট পরাজিত হয়ে রোমান সম্রাট হিরাক্লিয়াস পলায়ন করেন?",
+    "options": [
+      "ইয়ারমুকের যুদ্ধ",
+      "খায়বারের যুদ্ধ",
+      "খন্দকের যুদ্ধ",
+      "মুতার যুদ্ধ"
+    ],
+    "correctIndex": 0,
+    "explanation": "৬৩৭ খ্রিস্টাব্দে ইয়ারমুকের যুদ্ধে মুসলিম বাহিনী বিজয়ী হয় এবং পরাজিত রোমান সম্রাট হিরাক্লিয়াস যুদ্ধক্ষেত্র থেকে পলায়ন করেন।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_5856ef97effc",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "এশিয়া ও ইউরোপকে পৃথককারী ‘বসফরাস প্রণালী’ এবং ‘দার্দানেলিস প্রণালী’ যথাক্রমে কোন সাগরগুলোকে সংযুক্ত করেছে?",
+    "options": [
+      "বসফরাস: ইজিয়ান ও মর্মর সাগর; দার্দানেলিস: মর্মর ও কৃষ্ণ সাগর",
+      "বসফরাস: লোহিত ও আরব সাগর; দার্দানেলিস: ভূমধ্য ও কৃষ্ণ সাগর",
+      "বসফরাস: মর্মর ও কৃষ্ণ সাগর; দার্দানেলিস: ইজিয়ান ও মর্মর সাগর",
+      "বসফরাস: কাস্পিয়ান ও কৃষ্ণ সাগর; দার্দানেলিস: আটলান্টিক ও ভূমধ্যসাগর"
+    ],
+    "correctIndex": 2,
+    "explanation": "বসফরাস প্রণালী মর্মর সাগর ও কৃষ্ণ সাগরকে সংযুক্ত করেছে এবং দার্দানেলিস প্রণালী ইজিয়ান সাগর ও মর্মর সাগরকে সংযুক্ত করেছে।",
+    "topic": "প্রণালী",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_59ef6eaa6698",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "সমন্বিত পারমাণবিক পরীক্ষা নিষিদ্ধকরণ চুক্তি (CTBT) কত সালে স্বাক্ষরিত হয় এবং বাংলাদেশ কততম দেশ হিসেবে এটি অনুমোদন করে?",
+    "options": [
+      "১৯৯৬ সালে; বাংলাদেশ ২৮তম দেশ হিসেবে অনুমোদন করে (স্বাক্ষর ১২৯তম)",
+      "১৯৬৮ সালে; বাংলাদেশ ১০ম দেশ হিসেবে অনুমোদন করে",
+      "১৯৯১ সালে; বাংলাদেশ ৫০তম দেশ হিসেবে অনুমোদন করে",
+      "২০১৭ সালে; বাংলাদেশ ৫৯তম দেশ হিসেবে অনুমোদন করে"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৯৬ সালে CTBT স্বাক্ষরিত হয়। বাংলাদেশ ২৪ অক্টোবর ১৯৯৬ সালে ১২৯তম দেশ হিসেবে স্বাক্ষর এবং ৮ মার্চ ২০০০ সালে ২৮তম দেশ হিসেবে অনুমোদন করে।",
+    "topic": "অস্ত্র নিয়ন্ত্রণ ও নিরস্ত্রীকরণ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_5d4aad72b7f4",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "আধুনিক জার্মানি ও কেন্দ্রীয় ইউরোপের মধ্যকার ‘Thirty Years War’ (১৬১৮–১৬৪৮)-এর অবসান ঘটে কোন শান্তিচুক্তির মাধ্যমে?",
+    "options": [
+      "প্রথম ভার্সাই চুক্তি (১৭৮৩)",
+      "ওয়েস্টফেলিয়া শান্তিচুক্তি (১৬৪৮)",
+      "দ্বিতীয় ভার্সাই চুক্তি (১৯১৯)",
+      "প্যারিস শান্তি চুক্তি (১৯৭৩)"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৬৪৮ সালে ওয়েস্টফেলিয়া শান্তিচুক্তির মাধ্যমে ইউরোপের ত্রিশ বছরব্যাপী যুদ্ধের (১৬১৮–১৬৪৮) অবসান ঘটে।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_61c76718f5cd",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "দ্বিতীয় বিশ্বযুদ্ধে জাপান কবে যুক্তরাষ্ট্রের পার্ল হারবার আক্রমণ করে?",
+    "options": [
+      "৭ ডিসেম্বর ১৯৪১",
+      "১ সেপ্টেম্বর ১৯৩৯",
+      "৬ জুন ১৯৪৪",
+      "৬ আগস্ট ১৯৪৫"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৪১ সালের ৭ ডিসেম্বর জাপান যুক্তরাষ্ট্রের হাওয়াই দ্বীপের পার্ল হারবার নৌ-ঘাঁটিতে আক্রমণ করে।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_61da8c9d32db",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ভারত মহাসাগরে অবস্থিত মার্কিন সামরিক ঘাঁটি ‘দিয়াগো গার্সিয়া’ দ্বীপটির মালিকানা কোন দেশের?",
+    "options": [
+      "যুক্তরাষ্ট্র",
+      "ফ্রান্স",
+      "ভারত",
+      "যুক্তরাজ্য"
+    ],
+    "correctIndex": 3,
+    "explanation": "ভারত মহাসাগরে অবস্থিত দিয়াগো গার্সিয়া দ্বীপের মালিকানা যুক্তরাজ্যের, তবে ১৯৬৮ সাল থেকে এটি মার্কিন সামরিক (নৌ-সেনা) ঘাঁটি হিসেবে ব্যবহৃত হচ্ছে।",
+    "topic": "সামরিক ঘাঁটি",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_68f918825a01",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ভারতের আসামভিত্তিক গেরিলা সংগঠন ‘উলফা’ (ULFA)-এর প্রধান কে?",
+    "options": [
+      "চারু মজুমদার",
+      "কানু সান্যাল",
+      "ভূপেন হাজারিকা",
+      "অনুপ চেটিয়া"
+    ],
+    "correctIndex": 3,
+    "explanation": "আসাম (ভারত) ভিত্তিক গেরিলা সংগঠন উলফা-এর প্রধান অনুপ চেটিয়া।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_695bab73966b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "পাকিস্তান ও আফগানিস্তানের মধ্যকার সীমারেখা এবং চীন ও ভারতের মধ্যকার সীমানা নির্দেশক লাইনের নাম যথাক্রমে কী?",
+    "options": [
+      "র্যাডক্লিফ লাইন ও লাইন অব কন্ট্রোল",
+      "ডুরান্ড লাইন ও ম্যাকমোহন লাইন (বা লাইন অব একচুয়াল কন্ট্রোল)",
+      "ম্যাকমোহন লাইন ও ডুরান্ড লাইন",
+      "হিন্ডারবার্গ লাইন ও কার্জন লাইন"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৮৯৩ সালে চিহ্নিত ডুরান্ড লাইন পাকিস্তান ও আফগানিস্তানের সীমারেখা এবং ম্যাকমোহন লাইন ও লাইন অব একচুয়াল কন্ট্রোল (LAC) ভারত ও চীনের সীমারেখা।",
+    "topic": "বিখ্যাত সীমারেখা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_6d475c8ad8fc",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘লিটল কর্পোরাল’ ও ‘ফরাসি বিপ্লবের শিশু’ নামে পরিচিত নেপোলিয়ন বোনাপার্ট কোথায় জন্মগ্রহণ ও মৃত্যুবরণ করেন?",
+    "options": [
+      "জন্ম এলবা দ্বীপে, মৃত্যু কর্সিকা দ্বীপে",
+      "জন্ম প্যারিসে, মৃত্যু এলবা দ্বীপে",
+      "জন্ম কর্সিকা দ্বীপে, মৃত্যু সেন্ট হেলেনা দ্বীপে",
+      "জন্ম সেন্ট হেলেনা দ্বীপে, মৃত্যু ওয়াটারলুতে"
+    ],
+    "correctIndex": 2,
+    "explanation": "নেপোলিয়ন জন্মগ্রহণ করেন কর্সিকা দ্বীপে। ওয়াটারলু যুদ্ধে ডিউক অব ওয়েলিংটনের কাছে পরাজিত হয়ে প্রথমে এলবা দ্বীপে এবং পরে সেন্ট হেলেনা দ্বীপে নির্বাসিত হন ও সেখানেই মৃত্যুবরণ করেন।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_6ec528651a45",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "মাও সেতুং-এর নেতৃত্বে চীনে সমাজতান্ত্রিক বিপ্লব কবে সংঘটিত হয় এবং সাংস্কৃতিক বিপ্লবের সময়কাল কত?",
+    "options": [
+      "সমাজতান্ত্রিক বিপ্লব ১ অক্টোবর ১৯৪৯; সাংস্কৃতিক বিপ্লব ১৯৬৬–১৯৭৬",
+      "সমাজতান্ত্রিক বিপ্লব ১৯১৭; সাংস্কৃতিক বিপ্লব ১৯৪৯–১৯৫৯",
+      "সমাজতান্ত্রিক বিপ্লব ১৯৪৫; সাংস্কৃতিক বিপ্লব ১৯৬০–১৯৭০",
+      "সমাজতান্ত্রিক বিপ্লব ১৯৫০; সাংস্কৃতিক বিপ্লব ১৯৭০–১৯৭৬"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৪৯ সালের ১ অক্টোবর চীনে সমাজতান্ত্রিক বিপ্লবের মাধ্যমে গণচীন প্রতিষ্ঠিত হয় এবং ১৯৬৬–১৯৭৬ সাল পর্যন্ত চীনের সাংস্কৃতিক বিপ্লব চলে।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_70dd2374417c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "দ্বিতীয় বিশ্বযুদ্ধের সময় ‘বিগ থ্রি’ (Big Three) নামে কারা পরিচিত ছিলেন?",
+    "options": [
+      "রুজভেল্ট, স্ট্যালিন ও চার্চিল",
+      "ট্রুম্যান, স্ট্যালিন ও চার্চিল",
+      "রুজভেল্ট, হিটলার ও মুসোলিনি",
+      "চার্চিল, দ্য গল ও স্ট্যালিন"
+    ],
+    "correctIndex": 0,
+    "explanation": "দ্বিতীয় বিশ্বযুদ্ধে মিত্রশক্তির তিন শীর্ষ নেতা ফ্রাঙ্কলিন ডি. রুজভেল্ট (USA), যোসেফ স্ট্যালিন (USSR) ও উইনস্টন চার্চিল (UK) একত্রে ‘বিগ থ্রি’ নামে পরিচিত ছিলেন।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_72c3bf3f8f23",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "NATO চুক্তির কোন ধারায় বলা হয়েছে যে, কোনো একটি সদস্যরাষ্ট্র আক্রান্ত হলে তা সব সদস্যরাষ্ট্রের ওপর আক্রমণ বলে বিবেচিত হবে (Collective Defense)?",
+    "options": [
+      "ধারা-৪",
+      "ধারা-৬",
+      "ধারা-৫",
+      "ধারা-৭"
+    ],
+    "correctIndex": 2,
+    "explanation": "NATO সনদের ধারা-৫ অনুযায়ী, কোনো সদস্যরাষ্ট্র বহিঃশক্তির দ্বারা আক্রান্ত হলে তা সব সদস্যের ওপর হামলা বলে গণ্য হবে। ধারা-৪ জরুরি আলোচনা এবং ধারা-৬ ভৌগোলিক সীমানা নির্ধারণ করে।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_76fc6e482f7d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "রাশিয়ার বিরুদ্ধে ইউক্রেন কোন দেশের তৈরি ‘বায়রাক্তার টিবি-২’ (Bayraktar TB2) ড্রোন ব্যবহার করেছে এবং ‘বায়রাক্তার’ শব্দের অর্থ কী?",
+    "options": [
+      "যুক্তরাষ্ট্র; অর্থ ‘বজ্রপাত’",
+      "তুরস্ক; অর্থ ‘পতাকাবাহী’",
+      "ইসরাইল; অর্থ ‘লৌহ বর্ম’",
+      "ফ্রান্স; অর্থ ‘ঝড়’"
+    ],
+    "correctIndex": 1,
+    "explanation": "ইউক্রেন তুরস্কের তৈরি বায়রাক্তার টিবি-২ ড্রোন ব্যবহার করেছে। ‘বায়রাক্তার’ শব্দের অর্থ পতাকাবাহী। এছাড়া ‘আকিনচি’ ও তুরস্কের তৈরি ড্রোন।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_7dc2c0a85744",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "আন্তর্জাতিক পুলিশ সংস্থা INTERPOL কবে প্রতিষ্ঠিত হয়, এর সদর দপ্তর কোথায় এবং বাংলাদেশ কবে এর সদস্যপদ লাভ করে?",
+    "options": [
+      "প্রতিষ্ঠা ১৯৪৫, সদর দপ্তর জেনেভা, বাংলাদেশের সদস্যপদ লাভ ১৯৭৪ সালে",
+      "প্রতিষ্ঠা ১৯২৩, সদর দপ্তর লিঁও (ফ্রান্স), বাংলাদেশের সদস্যপদ লাভ ১৯৭৬ সালে",
+      "প্রতিষ্ঠা ১৯২৩, সদর দপ্তর ভিয়েনা, বাংলাদেশের সদস্যপদ লাভ ১৯৭২ সালে",
+      "প্রতিষ্ঠা ১৯৫১, সদর দপ্তর ব্রাসেলস, বাংলাদেশের সদস্যপদ লাভ ১৯৮০ সালে"
+    ],
+    "correctIndex": 1,
+    "explanation": "INTERPOL ১৯২৩ সালে প্রতিষ্ঠিত হয়, সদর দপ্তর ফ্রান্সের লিঁও (প্যারিস)-তে, বর্তমান সদস্য ১৯৬টি (সর্বশেষ মাইক্রোনেশিয়া) এবং বাংলাদেশ ১৯৭৬ সালে সদস্যপদ লাভ করে।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_7dec378961ed",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "এশিয়া ও আমেরিকাকে পৃথক করেছে এবং চুকচি সাগর ও বেরিং সাগরকে সংযুক্ত করেছে কোন প্রণালী?",
+    "options": [
+      "বেরিং প্রণালী",
+      "জিব্রাল্টার প্রণালী",
+      "বসফরাস প্রণালী",
+      "পক প্রণালী"
+    ],
+    "correctIndex": 0,
+    "explanation": "বেরিং প্রণালী এশিয়া ও আমেরিকাকে পৃথক করেছে এবং চুকচি সাগর ও বেরিং সাগরকে সংযুক্ত করেছে।",
+    "topic": "প্রণালী",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_800c840c74fa",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৭৮ সালে কার মধ্যস্থতায় মিশর ও ইসরাইলের মধ্যে ‘ক্যাম্প ডেভিড চুক্তি’ স্বাক্ষরিত হয়?",
+    "options": [
+      "হেনরি কিসিঞ্জার",
+      "মার্কিন প্রেসিডেন্ট জিমি কার্টার",
+      "বিল ক্লিনটন",
+      "রোনাল্ড রিগ্যান"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৭৮ সালে মার্কিন প্রেসিডেন্ট জিমি কার্টারের মধ্যস্থতায় মিশরের প্রেসিডেন্ট আনোয়ার আল সাদাত ও ইসরাইলের প্রধানমন্ত্রী মেনাহেম বেগিনের মধ্যে ক্যাম্প ডেভিড চুক্তি স্বাক্ষরিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_8099f9b25500",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ইউরোপে ভিসামুক্ত চলাচল সংক্রান্ত ‘শেনজেন চুক্তি’ এবং অভিন্ন ইউরো মুদ্রা প্রচলন সংক্রান্ত ‘ম্যাস্ট্রিক্ট চুক্তি’ যথাক্রমে কত সালে স্বাক্ষরিত হয়?",
+    "options": [
+      "১৯৯২ সালে (শেনজেন) এবং ১৯৯৫ সালে (ম্যাস্ট্রিক্ট)",
+      "১৯৮০ সালে (শেনজেন) এবং ১৯৯০ সালে (ম্যাস্ট্রিক্ট)",
+      "১৯৮৫ সালে (শেনজেন) এবং ১৯৯২ সালে (ম্যাস্ট্রিক্ট)",
+      "১৯৯৫ সালে (শেনজেন) এবং ১৯৯৯ সালে (ম্যাস্ট্রিক্ট)"
+    ],
+    "correctIndex": 2,
+    "explanation": "১৪ জুন ১৯৮৫ লুক্সেমবার্গের শেনজেনে শেনজেন চুক্তি (কার্যকর ২৬ মার্চ ১৯৯৫) এবং ১৯৯২ সালে নেদারল্যান্ডসের ম্যাস্ট্রিক্টে ম্যাস্ট্রিক্ট চুক্তি (কার্যকর ১ নভেম্বর ১৯৯৩) স্বাক্ষরিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_81d1400fb904",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "২০২১ সালের ১৫ সেপ্টেম্বর গঠিত ত্রিপক্ষীয় সামরিক জোট ‘AUKUS’ এবং ২০০৭ সালে গঠিত ‘QUAD’-এর সদস্য কারা?",
+    "options": [
+      "AUKUS: অস্ট্রেলিয়া, নিউজিল্যান্ড ও যুক্তরাষ্ট্র; QUAD: যুক্তরাষ্ট্র, যুক্তরাজ্য, কানাডা ও ভারত",
+      "AUKUS: অস্ট্রেলিয়া, জাপান ও যুক্তরাষ্ট্র; QUAD: চীন, রাশিয়া, ভারত ও ব্রাজিল",
+      "AUKUS: অস্ট্রেলিয়া, ফ্রান্স ও যুক্তরাজ্য; QUAD: যুক্তরাষ্ট্র, দক্ষিণ কোরিয়া, জাপান ও ভারত",
+      "AUKUS: অস্ট্রেলিয়া, যুক্তরাজ্য ও যুক্তরাষ্ট্র; QUAD: যুক্তরাষ্ট্র, জাপান, অস্ট্রেলিয়া ও ভারত"
+    ],
+    "correctIndex": 3,
+    "explanation": "AUKUS-এর সদস্য ৩টি (Australia, UK, US) এবং QUAD (Quadrilateral Security Dialogue)-এর সদস্য ৪টি (যুক্তরাষ্ট্র, জাপান, অস্ট্রেলিয়া ও ভারত)।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_85480f86872f",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৮৯ সালে কোন কনফারেন্সের মাধ্যমে প্রেসিডেন্ট জর্জ বুশ ও মিখাইল গর্বাচেভ স্নায়ুযুদ্ধের সমাপ্তি ঘোষণা দেন?",
+    "options": [
+      "মাল্টা কনফারেন্স",
+      "ইয়াল্টা কনফারেন্স",
+      "পটসডাম কনফারেন্স",
+      "তেহরান কনফারেন্স"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৮৯ সালের মাল্টা কনফারেন্সের মাধ্যমে স্নায়ুযুদ্ধের সমাপ্তির ঘোষণা দেওয়া হয় এবং কার্যকরভাবে ১৯৯১ সালে তা সমাপ্ত হয়।",
+    "topic": "স্নায়ুযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_8b49fc1975f8",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৮৩৭ সালে ‘শিল্প বিপ্লব’ কথাটি প্রথম ব্যবহার করেন কে এবং ১৮৮১ সালে বক্তৃতামালায় কে এটি জনপ্রিয় করেন?",
+    "options": [
+      "কার্ল মার্কস ও ফ্রেডরিক এঙ্গেলস",
+      "অ্যাডাম স্মিথ ও ডেভিড রিকার্ডো",
+      "রুশো ও ভলতেয়ার",
+      "জেরোমি ব্ল্যাংকি ও আর্নল্ড টয়েনবি"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৮৩৭ সালে ফরাসি সমাজতান্ত্রিক লেখক জেরোমি ব্ল্যাংকি প্রথম ‘শিল্প বিপ্লব’ কথাটি ব্যবহার করেন এবং ১৮৮১ সালে ব্রিটিশ ঐতিহাসিক আর্নল্ড টয়েনবি Industrial Revolution শব্দটি ব্যবহারের মাধ্যমে তা জনপ্রিয় করেন।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_8f8cf981dcb9",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "বিশ্বের সর্বোচ্চ রণাঙ্গন ‘সিয়াচেন হিমবাহ’ কোন দুটি দেশের মধ্যে অবস্থিত?",
+    "options": [
+      "ভারত ও চীন",
+      "চীন ও পাকিস্তান",
+      "ভারত ও পাকিস্তান",
+      "ভারত ও নেপাল"
+    ],
+    "correctIndex": 2,
+    "explanation": "কাশ্মীরে অবস্থিত বিশ্বের সর্বোচ্চ রণাঙ্গন সিয়াচেন হিমবাহ ভারত ও পাকিস্তানের মধ্যে অবস্থিত।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_9011a7adfa0f",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "যুক্তরাষ্ট্র ও রাশিয়ার মধ্যে স্বাক্ষরিত ‘New START’ চুক্তি কত সালে স্বাক্ষরিত ও কার্যকর হয়?",
+    "options": [
+      "স্বাক্ষর ১৯৯১ সালে, কার্যকর ১৯৯৩ সালে",
+      "স্বাক্ষর ২০১০ সালে, কার্যকর ২০১১ সালে",
+      "স্বাক্ষর ১৯৭২ সালে, কার্যকর ১৯৭৯ সালে",
+      "স্বাক্ষর ২০১৭ সালে, কার্যকর ২০২১ সালে"
+    ],
+    "correctIndex": 1,
+    "explanation": "২০১০ সালে স্বাক্ষরিত এবং ২০১১ সালে কার্যকর হওয়া New START চুক্তির মাধ্যমে উভয় দেশ মোতায়েনকৃত পারমাণবিক অস্ত্র ১৫৫০টি এবং ICBM ৮০০টিতে নামিয়ে আনতে সম্মত হয়।",
+    "topic": "অস্ত্র নিয়ন্ত্রণ ও নিরস্ত্রীকরণ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_941a88f9676e",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "মিয়ানমারের সশস্ত্র সংগঠন ‘ARSA’-এর পূর্ণরূপ কী?",
+    "options": [
+      "Arakan Revolutionary Security Army",
+      "Asian Rohingya Solidarity Alliance",
+      "Armed Rohingya State Army",
+      "Arakan Rohingya Salvation Army"
+    ],
+    "correctIndex": 3,
+    "explanation": "ARSA-এর পূর্ণরূপ আরাকান রোহিঙ্গা স্যালভেশন আর্মি (মিয়ানমার), যাদের লক্ষ্য রোহিঙ্গাদের নাগরিকত্ব প্রদান ও আরাকানের স্বাধীনতা।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_96015528f32d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "কৃষ্ণসাগরে নেপচুন ক্রুজ মিসাইলের হামলায় ডুবে যাওয়া রাশিয়ার সবচেয়ে বড় যুদ্ধজাহাজটির নাম কী?",
+    "options": [
+      "নানগালা ৪০২",
+      "তুগরিল",
+      "বিক্রান্ত",
+      "মাস্কভা (Moskva)"
+    ],
+    "correctIndex": 3,
+    "explanation": "রাশিয়ার সবচেয়ে বড় যুদ্ধজাহাজ ‘মাস্কভা’ ইউক্রেনের নেপচুন ক্রুজ মিসাইলের হামলায় কৃষ্ণসাগরে ডুবে যায়।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_998f0ce22e48",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "চীনের পারমাণবিক পরীক্ষার স্থান ‘লুপ নার’ এবং রাশিয়ার পারমাণবিক পরীক্ষার স্থান কোনটি?",
+    "options": [
+      "মারালিঙ্গ ও এমু ফিল্ড",
+      "নেভেদা ও মার্শাল দ্বীপপুঞ্জ",
+      "হাওয়াদিরি ও পাঙ্গাইরি",
+      "সেমিপালটিনস্ক ও নাভইয়া জেমলিয়া"
+    ],
+    "correctIndex": 3,
+    "explanation": "রাশিয়ার (তৎকালীন সোভিয়েত ইউনিয়ন, ১৯৪৯) পারমাণবিক পরীক্ষার স্থান সেমিপালটিনস্ক ও নাভইয়া জেমলিয়া; চীনের (১৯৬৪) লুপ নার এবং উত্তর কোরিয়ার (২০০৬) হাওয়াদিরি ও পাঙ্গাইরি।",
+    "topic": "অস্ত্র নিয়ন্ত্রণ ও নিরস্ত্রীকরণ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_9a745890252c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "দক্ষিণ-পূর্ব এশিয়ার প্রাচীন খেমার হিন্দু মন্দির ‘প্রিয়া বিহার মন্দির’ (Preah Vihear Temple) নিয়ে কোন দুটি দেশের মধ্যে সীমান্ত বিরোধ রয়েছে?",
+    "options": [
+      "মিয়ানমার ও থাইল্যান্ড",
+      "ভিয়েতনাম ও কম্বোডিয়া",
+      "কম্বোডিয়া ও থাইল্যান্ড",
+      "ভারত ও নেপাল"
+    ],
+    "correctIndex": 2,
+    "explanation": "প্রিয়া বিহার মন্দির কম্বোডিয়ার দাংরেক পর্বতমালায় থাইল্যান্ড সীমান্তের কাছে অবস্থিত। ১৯৬২ সালে ICJ এটিকে কম্বোডিয়ার অংশ বলে রায় দিলেও সীমান্তভূমি নিয়ে কম্বোডিয়া ও থাইল্যান্ডের বিরোধ রয়েছে।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_9cf1534ee4ca",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ভারতের তৈরি প্রথম বিমানবাহী রণতরী এবং চীনের তৈরি বিমানবাহী রণতরীর নাম কী?",
+    "options": [
+      "ভারতের INS Arihant এবং চীনের JL-3",
+      "ভারতের Tejas এবং চীনের J-20",
+      "ভারতের INS Vikrant এবং চীনের Type 001A",
+      "ভারতের Trishul এবং চীনের DF-41"
+    ],
+    "correctIndex": 2,
+    "explanation": "INS Vikrant ভারতের তৈরি প্রথম বিমানবাহী রণতরী এবং Type 001A চীনের তৈরি বিমানবাহী রণতরী।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_a0c02e421ab3",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "২০২৬ সালের ৩ জানুয়ারি ভেনেজুয়েলার রাষ্ট্রপতি নিকোলাস মাদুরোকে আটক করার জন্য যুক্তরাষ্ট্র কর্তৃক পরিচালিত সামরিক অভিযানের নাম কী?",
+    "options": [
+      "অপারেশন অ্যাবসোলিউট রিসলভ (Operation Absolute Resolve)",
+      "অপারেশন জাস্ট কজ (Operation Just Cause)",
+      "অপারেশন মিডনাইট হ্যামার (Operation Midnight Hammer)",
+      "অপারেশন ওডিসি ডন (Operation Odyssey Dawn)"
+    ],
+    "correctIndex": 0,
+    "explanation": "২০২৬ সালের ৩ জানুয়ারি ভোররাতে ভেনেজুয়েলার রাষ্ট্রপতি নিকোলাস মাদুরো ও তাঁর স্ত্রী সিলিয়া ফ্লোরেসকে আটক করতে মার্কিন যুক্তরাষ্ট্র ‘অপারেশন অ্যাবসোলিউট রিসলভ’ পরিচালনা করে।",
+    "topic": "আলোচিত সামরিক অপারেশন",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_a4e3b25644de",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ভূমধ্যসাগরের প্রবেশমুখে অবস্থিত ব্রিটিশ ওভারসিজ টেরিটরি ‘জিব্রাল্টার’ নিয়ে কোন দুটি দেশের বিরোধ রয়েছে?",
+    "options": [
+      "যুক্তরাজ্য ও ফ্রান্স",
+      "স্পেন ও মরক্কো",
+      "ইতালি ও ফ্রান্স",
+      "যুক্তরাজ্য ও স্পেন"
+    ],
+    "correctIndex": 3,
+    "explanation": "জিব্রাল্টার স্পেনের দক্ষিণ প্রান্তের সঙ্গে সংযুক্ত একটি ব্রিটিশ ওভারসিজ টেরিটরি, যা নিয়ে যুক্তরাজ্য ও স্পেনের মধ্যে বিরোধ রয়েছে।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_a59b267cf699",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "দ্বিতীয় বিশ্বযুদ্ধে মিত্রবাহিনী কবে ফ্রান্সের নরম্যান্ডিতে অবতরণ করে (D-Day)?",
+    "options": [
+      "৮ মে ১৯৪৫",
+      "৬ জুন ১৯৪৪",
+      "১ সেপ্টেম্বর ১৯৩৯",
+      "৭ ডিসেম্বর ১৯৪১"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৪৪ সালের ৬ জুন ইউরোপের মূল ভূ-খণ্ডকে জার্মান দখলমুক্ত করতে মিত্রবাহিনী ফ্রান্সের নরম্যান্ডিতে অবতরণ করে, যা D-Day (Dawn Day) নামে পরিচিত।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_a5bec53f2e98",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "রাফাল (Rafale), জে-২০ (J-20) এবং কেএফ-২১ (KF-21) যথাক্রমে কোন কোন দেশের যুদ্ধবিমান?",
+    "options": [
+      "যুক্তরাষ্ট্র, চীন ও জাপান",
+      "ফ্রান্স, চীন ও দক্ষিণ কোরিয়া",
+      "রাশিয়া, ফ্রান্স ও উত্তর কোরিয়া",
+      "ফ্রান্স, রাশিয়া ও দক্ষিণ কোরিয়া"
+    ],
+    "correctIndex": 1,
+    "explanation": "রাফাল ফ্রান্সের, নিঃশব্দে হামলা চালাতে সক্ষম জে-২০ চীনের এবং কেএফ-২১ দক্ষিণ কোরিয়ার যুদ্ধবিমান।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_aa577d4d55bc",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "রোজ বিপ্লব (২০০৩), অরেঞ্জ বিপ্লব (২০০৪) এবং টিউলিপ বিপ্লব (২০০৫) যথাক্রমে কোন কোন দেশে সংঘটিত হয়?",
+    "options": [
+      "ইউক্রেন, জর্জিয়া ও তিউনিশিয়া",
+      "কিরগিজস্তান, চেকোস্লোভাকিয়া ও জর্জিয়া",
+      "বেলারুশ, ইউক্রেন ও কাজাখস্তান",
+      "জর্জিয়া, ইউক্রেন ও কিরগিজস্তান"
+    ],
+    "correctIndex": 3,
+    "explanation": "রোজ বিপ্লব (২০০৩) জর্জিয়ায়, অরেঞ্জ বিপ্লব (২০০৪) ইউক্রেনে (ভিক্টর ইউচেনকো বিজয়ী হন) এবং টিউলিপ বিপ্লব (২০০৫) কিরগিজস্তানে (প্রেসিডেন্ট আকায়েভের পতন) সংঘটিত হয়।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_ac0ab77289f2",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "হিটলারের সেনাবাহিনী দ্বিতীয় বিশ্বযুদ্ধের প্রথম নয় মাসে কোন রণনীতির কারণে চমকপ্রদ বিজয় লাভ করে?",
+    "options": [
+      "স্কর্চড আর্থ রণনীতি",
+      "ব্লিৎসক্রিগ রণনীতি",
+      "গেরিলা রণনীতি",
+      "ট্রেঞ্চ রণনীতি"
+    ],
+    "correctIndex": 1,
+    "explanation": "হিটলারের সেনাবাহিনী ‘ব্লিৎসক্রিগ’ (Blitzkrieg বা ঝটিকা আক্রমণ) রণনীতির মাধ্যমে দ্বিতীয় বিশ্বযুদ্ধের প্রথম নয় মাসে নিজেদের অবস্থান দৃঢ় করে।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_adebc9b42878",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৫২ সাল থেকে মার্কিন ৭ম নৌবহরের কেন্দ্র ‘ইউকোসুকা’ এবং ‘ওকিনাওয়া’ সামরিক ঘাঁটি কোন দেশে অবস্থিত?",
+    "options": [
+      "জাপান",
+      "দক্ষিণ কোরিয়া",
+      "ফিলিপাইন",
+      "যুক্তরাজ্য"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রশান্ত মহাসাগরে জাপানের ইউকোসুকা (৭ম নৌবহরের কেন্দ্র) এবং ওকিনাওয়ায় মার্কিন নৌ-ঘাঁটি অবস্থিত।",
+    "topic": "সামরিক ঘাঁটি",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_b68ce86577e5",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘হাতফ, ঘুরি, বাবুর-৩ ও শাহিন’ এবং ‘ব্রহ্ম, পৃথ্বি, অগ্নি ও ত্রিশুল’ যথাক্রমে কোন দুটি দেশের ক্ষেপণাস্ত্র?",
+    "options": [
+      "পাকিস্তান ও ভারত",
+      "ভারত ও পাকিস্তান",
+      "ইরান ও ভারত",
+      "পাকিস্তান ও তুরস্ক"
+    ],
+    "correctIndex": 0,
+    "explanation": "হাতফ, ঘুরি, বাবুর-৩ ও শাহিন পাকিস্তানের এবং ব্রহ্ম, পৃথ্বি, অগ্নি ও ত্রিশুল ভারতের ক্ষেপণাস্ত্র।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_b74e795b8d16",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘আকসাই চীন’ ও ‘গালওয়ান ভ্যালি’ কোন দুটি দেশের মধ্যকার বিরোধপূর্ণ অঞ্চল?",
+    "options": [
+      "ভারত ও চীন",
+      "ভারত ও পাকিস্তান",
+      "চীন ও মিয়ানমার",
+      "চীন ও রাশিয়া"
+    ],
+    "correctIndex": 0,
+    "explanation": "আকসাই চীন (যেখানে Line of Actual Control অবস্থিত) এবং গালওয়ান ভ্যালি ভারত ও চীনের মধ্যকার সংঘাতপূর্ণ অঞ্চল।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_b9484a299164",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ইউফ্রেটিস ও টাইগ্রিস নদীর মিলিত প্রবাহ ‘শাত-ইল-আরব’ জলপথের অধিকার নিয়ে ১৯৮০–১৯৮৮ পর্যন্ত কোন দুটি দেশের যুদ্ধ হয়?",
+    "options": [
+      "ইরাক ও কুয়েত",
+      "ইরাক ও ইরান",
+      "ইরান ও সৌদি আরব",
+      "সিরিয়া ও তুরস্ক"
+    ],
+    "correctIndex": 1,
+    "explanation": "পারস্য উপসাগরে পতিত শাত-ইল-আরব জলধারার অধিকার নিয়ে ১৯৮০–১৯৮৮ সাল পর্যন্ত ইরাক ও ইরানের মধ্যে যুদ্ধ সংঘটিত হয়।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_b9971cb868c7",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৯১ সালের ঘূর্ণিঝড়ে বাংলাদেশে মার্কিন টাস্কফোর্সের সাহায্য অভিযান এবং ২০১৬ সালে গুলশানের হলি আর্টিসানে জঙ্গি দমন অভিযানের নাম কী ছিল?",
+    "options": [
+      "অপারেশন ডেজার্ট স্টর্ম (১৯৯১) ও অপারেশন স্ট্রাইকিং ফোর্স (২০১৬)",
+      "অপারেশন সি অ্যাঞ্জেল (১৯৯১) ও অপারেশন থান্ডার বোল্ট (২০১৬)",
+      "অপারেশন মান্না (১৯৯১) ও অপারেশন ক্লোজডোর (২০১৬)",
+      "অপারেশন জ্যাকপট (১৯৯১) ও অপারেশন টোয়াইলাইট (২০১৬)"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৯১ সালের ঘূর্ণিঝড়ে মার্কিন সাহায্য অভিযানের নাম ‘অপারেশন সি অ্যাঞ্জেল’ এবং ২ জুলাই ২০১৬ হলি আর্টিসানে পরিচালিত অভিযানের নাম ‘অপারেশন থান্ডার বোল্ট’।",
+    "topic": "আলোচিত সামরিক অপারেশন",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_bb362f4cf66e",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "জার্মান আক্রমণ থেকে রক্ষা পেতে জার্মান-ফ্রান্স সীমান্তে ফ্রান্স কর্তৃক নির্মিত এবং জার্মানি কর্তৃক নির্মিত সুরক্ষিত সীমারেখা দুটির নাম কী?",
+    "options": [
+      "ফ্রান্সের সিগফ্রিড লাইন এবং জার্মানির ম্যাজিনো লাইন",
+      "ফ্রান্সের হিন্ডারবার্গ লাইন এবং জার্মানির ওডের-নিস লাইন",
+      "ফ্রান্সের ম্যাজিনো লাইন এবং জার্মানির সিগফ্রিড লাইন",
+      "ফ্রান্সের বারলেভ লাইন এবং জার্মানির কার্জন লাইন"
+    ],
+    "correctIndex": 2,
+    "explanation": "জার্মান-ফ্রান্স সীমান্তে ফ্রান্স নির্মাণ করে ‘ম্যাজিনো লাইন’ এবং জার্মানি নির্মাণ করে ‘সিগফ্রিড লাইন’। অপরদিকে জার্মানি ও পোল্যান্ডের সীমারেখা হলো হিন্ডারবার্গ লাইন ও ওডের-নিস লাইন।",
+    "topic": "বিখ্যাত সীমারেখা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_bd705e8e615d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৭৯ সালে ইরানে সংঘটিত ইসলামি বিপ্লবের নায়ক কে ছিলেন এবং ইরানের শেষ রাজা কে ছিলেন?",
+    "options": [
+      "আলি খামেনি; শেষ রাজা রেজা শাহ",
+      "ইমাম আয়াতুল্লাহ রুহুল্লাহ খোমেনী; শেষ রাজা শাহ মোহাম্মদ রেজা পাহলাবি",
+      "মাহমুদ আহমাদিনেজাদ; শেষ রাজা ফারুক",
+      "মোহাম্মদ মোসাদ্দেক; শেষ রাজা আব্বাস"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৭৯ সালে ইমাম আয়াতুল্লাহ রুহুল্লাহ খোমেনীর নেতৃত্বে ইরানে ইসলামি বিপ্লব সংঘটিত হয়। ইরানের শেষ রাজা ছিলেন শাহ মোহাম্মদ রেজা পাহলাবি।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_bf686037e04e",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৯৭ সালে স্থলমাইন নিষিদ্ধকরণ বিষয়ক কোন চুক্তি স্বাক্ষরিত হয় এবং উত্তর আয়ারল্যান্ডের শান্তি চুক্তির নাম কী?",
+    "options": [
+      "অটোয়া চুক্তি (১৯৯৭) এবং বেলফাস্ট চুক্তি / Good Friday Agreement (১৯৯৮)",
+      "ডেটন চুক্তি (১৯৯৫) এবং অসলো চুক্তি (১৯৯৩)",
+      "ক্যাম্প ডেভিড চুক্তি (১৯৭৮) এবং ওয়াই রিভার চুক্তি (১৯৯৮)",
+      "ম্যাস্ট্রিক্ট চুক্তি (১৯৯২) এবং শেনজেন চুক্তি (১৯৮৫)"
+    ],
+    "correctIndex": 0,
+    "explanation": "কানাডার অটোয়াতে ১৯৯৭ সালে স্থলমাইন নিষিদ্ধকরণ চুক্তি এবং ১৯৯৮ সালের ১১ এপ্রিল উত্তর আয়ারল্যান্ডের শান্তির জন্য বেলফাস্ট চুক্তি (Good Friday Agreement) স্বাক্ষরিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_c0aa16ce9544",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "যুক্তরাষ্ট্র জাপানের হিরোসিমা ও নাগাসাকিতে কবে পারমাণবিক বোমা (লিটল বয় ও ফ্যাট ম্যান) নিক্ষেপ করে?",
+    "options": [
+      "১৪ ও ১৫ আগস্ট ১৯৪৫",
+      "৬ ও ৯ আগস্ট ১৯৪৫",
+      "৮ ও ৯ মে ১৯৪৫",
+      "১ ও ২ সেপ্টেম্বর ১৯৪৫"
+    ],
+    "correctIndex": 1,
+    "explanation": "যুক্তরাষ্ট্র ১৯৪৫ সালের ৬ আগস্ট হিরোসিমায় (লিটল বয়) এবং ৯ আগস্ট নাগাসাকিতে (ফ্যাট ম্যান) পারমাণবিক বোমা নিক্ষেপ করে।",
+    "topic": "২য় বিশ্বযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_c1d53569312b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "এশিয়া ও আফ্রিকাকে পৃথককারী ‘বাব আল মান্দেব প্রণালী’ এবং ইরান ও সংযুক্ত আরব আমিরাতকে পৃথককারী ‘হরমুজ প্রণালী’ কোন জলরাশিকে সংযুক্ত করেছে?",
+    "options": [
+      "বাব আল মান্দেব: পারস্য ও ওমান উপসাগর; হরমুজ: এডেন ও লোহিত সাগর",
+      "বাব আল মান্দেব: ভূমধ্যসাগর ও লোহিত সাগর; হরমুজ: আরব সাগর ও ভারত মহাসাগর",
+      "বাব আল মান্দেব: বঙ্গোপসাগর ও জাভা সাগর; হরমুজ: জাপান সাগর ও ওখটস্ক সাগর",
+      "বাব আল মান্দেব: এডেন ও লোহিত সাগর; হরমুজ: পারস্য উপসাগর ও ওমান উপসাগর"
+    ],
+    "correctIndex": 3,
+    "explanation": "বাব আল মান্দেব প্রণালী এডেন ও লোহিত সাগরকে এবং হরমুজ প্রণালী পারস্য উপসাগর ও ওমান উপসাগরকে সংযুক্ত করেছে।",
+    "topic": "প্রণালী",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_c43b03207404",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "২০১৫ সালে প্রকাশিত ‘The Fourth Industrial Revolution’ গ্রন্থে প্রথম ‘চতুর্থ শিল্প বিপ্লব’ শব্দটি ব্যবহৃত হয় কোন আর্টিকেলে?",
+    "options": [
+      "The Economist",
+      "Foreign Affairs",
+      "Time Magazine",
+      "Harvard Business Review"
+    ],
+    "correctIndex": 1,
+    "explanation": "২০১৫ সালে ‘Foreign Affairs’ আর্টিকেলে এবং ‘The Fourth Industrial Revolution’ গ্রন্থে চতুর্থ শিল্প বিপ্লব শব্দটি প্রথম ব্যবহৃত হয়।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_c5960c9ac275",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৭৫ সালের ১৩ জুন শাত-ইল-আরব নিয়ে ইরাক ও ইরানের বিরোধ নিষ্পত্তির জন্য কোন চুক্তি স্বাক্ষরিত হয়?",
+    "options": [
+      "সিমলা চুক্তি",
+      "আলজিয়ার্স চুক্তি",
+      "তাসখন্দ চুক্তি",
+      "ওয়াই রিভার চুক্তি"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৯৭৫ সালের ১৩ জুন শাত-ইল-আরব নিয়ে ইরাক ও ইরানের বিরোধ নিষ্পত্তিতে আলজিয়ার্স চুক্তি স্বাক্ষরিত হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_cd0b552b0c6d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯৮৯ সালে চেকোস্লোভাকিয়ায় একদলীয় কমিউনিস্ট শাসনের অবসান ঘটানো বিপ্লবটির নাম কী?",
+    "options": [
+      "রোজ বিপ্লব",
+      "অরেঞ্জ বিপ্লব",
+      "ভেলভেট বিপ্লব (Gentle Revolution)",
+      "টিউলিপ বিপ্লব"
+    ],
+    "correctIndex": 2,
+    "explanation": "১৯৮৯ সালে চেকোস্লোভাকিয়ায় চেক ও স্লোভাকদের মধ্যে সংঘটিত ‘ভেলভেট বিপ্লব’ (Gentle Revolution)-এর মাধ্যমে একদলীয় কমিউনিস্ট শাসনের অবসান ঘটে।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_d398d3ecb5e2",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "১৯১৭ সালে রাশিয়ার পেট্রোগ্রাদে সংঘটিত বলশেভিক বিপ্লবের (অক্টোবর/নভেম্বর বিপ্লব) নেতৃত্ব দেন কে?",
+    "options": [
+      "যোসেফ স্ট্যালিন",
+      "লিও ট্রটস্কি",
+      "মিখাইল গর্বাচেভ",
+      "ভ্লাদিমির ইলিচ উলিয়ানভ লেনিন"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৯১৭ সালে রাশিয়ার পেট্রোগ্রাদে ভ্লাদিমির ইলিচ উলিয়ানভ লেনিনের নেতৃত্বে রুশ বা বলশেভিক বিপ্লব সংঘটিত হয়।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_d4819d966a61",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘শাইনিং পাথ’ (মাওবাদী) ও ‘টুপাক আমারু’ (বামপন্থী) কোন দেশের গেরিলা সংগঠন?",
+    "options": [
+      "কলম্বিয়া",
+      "পেরু",
+      "নিকারাগুয়া",
+      "বলিভিয়া"
+    ],
+    "correctIndex": 1,
+    "explanation": "শাইনিং পাথ এবং টুপাক আমারু উভয়ই পেরুর গেরিলা সংগঠন।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_d532286c21d8",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "৫২ বছরের গৃহযুদ্ধের অবসান ঘটিয়ে ২০১৬ সালে শান্তি চুক্তি স্বাক্ষরকারী মার্কসবাদী গেরিলা সংগঠন ‘FARC’ এবং ‘M-19’ কোন দেশের সংগঠন?",
+    "options": [
+      "পেরু",
+      "নিকারাগুয়া",
+      "কলম্বিয়া",
+      "ভেনেজুয়েলা"
+    ],
+    "correctIndex": 2,
+    "explanation": "FARC এবং M-19 কলম্বিয়ার গেরিলা সংগঠন। অপরদিকে ‘কন্ট্রা’ নিকারাগুয়ার বিদ্রোহী সংগঠন।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_d6505c5b98b7",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "মানব সভ্যতার ইতিহাসে ভয়াবহ ‘চেরনোবিল পারমাণবিক বিপর্যয়’ (ইউক্রেন) এবং ‘ফুকুশিমা পারমাণবিক বিপর্যয়’ (জাপান) যথাক্রমে কবে ঘটে?",
+    "options": [
+      "১২ মার্চ ১৯৮৬ এবং ২৬ এপ্রিল ২০১১",
+      "৬ আগস্ট ১৯৮৫ এবং ১১ মার্চ ২০১০",
+      "২৬ এপ্রিল ১৯৮৬ এবং ১২ মার্চ ২০১১",
+      "২৬ এপ্রিল ১৯৭৯ এবং ১১ মার্চ ২০১২"
+    ],
+    "correctIndex": 2,
+    "explanation": "২৬ এপ্রিল ১৯৮৬ সালে ইউক্রেনের চেরনোবিলে এবং ১১ মার্চ ২০১১-এর সুনামির পর ১২ মার্চ ২০১১ জাপানের ফুকুশিমা দাইচি-১ কেন্দ্রে পারমাণবিক বিস্ফোরণ ঘটে।",
+    "topic": "পারমাণবিক দুর্ঘটনা ও গোয়েন্দা সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_de731365d00d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ইয়েমেনের শিয়াপন্থী বিদ্রোহী গোষ্ঠী কোনটি এবং তাদের দমনে সৌদি আরব ২০১৫ সাল থেকে কোন অভিযান পরিচালনা করছে?",
+    "options": [
+      "হুথি (Houthi); অপারেশন ডিসিসিভ স্টর্ম",
+      "হিজবুল্লাহ; অপারেশন পিস স্প্রিং",
+      "আল শাবাব; অপারেশন অলিভ ব্রাঞ্চ",
+      "পিআইজে; অপারেশন ব্রেকিং ডন"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইয়েমেনের উত্তরাঞ্চলে স্বায়ত্তশাসনকামী শিয়াপন্থী বিদ্রোহী গোষ্ঠী হলো ‘হুথি’। তাদের দমনে সৌদি আরব ২০১৫ সাল থেকে ‘অপারেশন ডিসিসিভ স্টর্ম’ পরিচালনা করছে।",
+    "topic": "সশস্ত্র ও বিদ্রোহী সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e06081a81cf8",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ব্রিটিশ পার্লামেন্টে বিতর্কিত ‘চা আইন’ পাসের প্রতিবাদে কত সালে আমেরিকানরা ‘বোস্টন চা পার্টি’ পালন করে?",
+    "options": [
+      "১৭৭৩ সালে",
+      "১৭৭৬ সালে",
+      "১৭৮৩ সালে",
+      "১৭৮৯ সালে"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৭৭৩ সালে বিতর্কিত ‘চা আইন’ পাসের প্রতিবাদস্বরূপ আমেরিকানরা আটলান্টিক মহাসাগরে জাহাজভর্তি চা পাতা ফেলে ‘বোস্টন চা পার্টি’ পালন করে। এর ৩ বছর পর ৪ জুলাই ১৭৭৬ আমেরিকার ১৩টি অঙ্গরাজ্য স্বাধীনতা ঘোষণা করে।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e197c35535c7",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘RS-১৮ সারমাত’, ‘কিনঝাল’, ‘এভানগার্ড’ ও ‘জিরকন’ কোন দেশের তৈরি শক্তিশালী ক্ষেপণাস্ত্র?",
+    "options": [
+      "যুক্তরাষ্ট্র",
+      "চীন",
+      "রাশিয়া",
+      "উত্তর কোরিয়া"
+    ],
+    "correctIndex": 2,
+    "explanation": "RS-১৮ সারমাত, হাইপারসনিক ক্ষেপণাস্ত্র কিনঝাল ও এভানগার্ড এবং পরমাণু শক্তিচালিত ক্রুজ ক্ষেপণাস্ত্র জিরকন রাশিয়ার তৈরি।",
+    "topic": "মারণাস্ত্র ও প্রতিরক্ষা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e26e57e38389",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "বসনিয়া ও হার্জেগোভিনার যুদ্ধ নিরসনে ১৯৯৫ সালে কোন চুক্তি স্বাক্ষরিত হয়?",
+    "options": [
+      "অসলো চুক্তি",
+      "বেলফাস্ট চুক্তি",
+      "অটোয়া চুক্তি",
+      "ডেটন চুক্তি"
+    ],
+    "correctIndex": 3,
+    "explanation": "১৯৯৫ সালের নভেম্বরে যুক্তরাষ্ট্রের ওহিও রাজ্যের ডেটনে মতৈক্য এবং ফ্রান্সের প্যারিসে স্বাক্ষরিত ‘ডেটন চুক্তি’র মাধ্যমে বসনিয়া ও হার্জেগোভিনার যুদ্ধ নিরসন হয়।",
+    "topic": "আন্তর্জাতিক চুক্তি ও সনদ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e2c5736fd08e",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "খ্রিস্টান অধ্যুষিত ছিটমহল ‘নাগোর্নো কারাবাখ’ নিয়ে কোন দুটি দেশের বিরোধ ছিল এবং ২০২৩ সাল থেকে এটি কার নিয়ন্ত্রণে?",
+    "options": [
+      "রাশিয়া ও জর্জিয়া (রাশিয়ার নিয়ন্ত্রণে)",
+      "তুরস্ক ও আর্মেনিয়া (তুরস্কের নিয়ন্ত্রণে)",
+      "আজারবাইজান ও আর্মেনিয়া (আজারবাইজানের নিয়ন্ত্রণে)",
+      "ইরান ও আজারবাইজান (ইরানের নিয়ন্ত্রণে)"
+    ],
+    "correctIndex": 2,
+    "explanation": "নাগোর্নো কারাবাখ আজারবাইজান ও আর্মেনিয়ার মধ্যকার বিরোধপূর্ণ অঞ্চল, যা ২০২৩ সাল থেকে আজারবাইজান সম্পূর্ণ নিয়ন্ত্রণ করছে।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e48e921e391b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "আফ্রিকা ও ইউরোপকে পৃথককারী ‘জিব্রাল্টার প্রণালী’ কোন দুটি জলরাশিকে সংযুক্ত করেছে?",
+    "options": [
+      "মর্মর সাগর ও কৃষ্ণ সাগর",
+      "উত্তর আটলান্টিক ও ভূমধ্যসাগর",
+      "এডেন উপসাগর ও লোহিত সাগর",
+      "পারস্য উপসাগর ও ওমান উপসাগর"
+    ],
+    "correctIndex": 1,
+    "explanation": "জিব্রাল্টার প্রণালী আফ্রিকা ও ইউরোপকে পৃথক করেছে এবং উত্তর আটলান্টিক মহাসাগর ও ভূমধ্যসাগরকে সংযুক্ত করেছে।",
+    "topic": "প্রণালী",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e724684b6ae0",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ভারতের ‘পোখরান’ এবং পাকিস্তানের ‘রাসকহ পাহাড় (চাগাই)’ কীসের জন্য পরিচিত?",
+    "options": [
+      "কৃত্রিম উপগ্রহ উৎক্ষেপণ কেন্দ্র",
+      "নৌ-সেনা ঘাঁটি",
+      "পারমাণবিক পরীক্ষার স্থান",
+      "বিরোধপূর্ণ সীমান্ত গিরিপথ"
+    ],
+    "correctIndex": 2,
+    "explanation": "ভারত ১৯৭৪ সালে পোখরানে এবং পাকিস্তান ১৯৯৮ সালে চাগাইয়ের রাসকহ পাহাড় ও খারান মরুভূমিতে প্রথম পারমাণবিক পরীক্ষা চালায়।",
+    "topic": "অস্ত্র নিয়ন্ত্রণ ও নিরস্ত্রীকরণ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_e8da65e8b2c1",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "সম্রাট অশোক কবে কলিঙ্গ রাজ্য আক্রমণ করেন, যার ভয়াবহতা দেখে তিনি বৌদ্ধ ধর্ম গ্রহণ করেন?",
+    "options": [
+      "৪৯০ খ্রিস্টপূর্বাব্দে",
+      "৩২৬ খ্রিস্টপূর্বাব্দে",
+      "২৬১ খ্রিস্টপূর্বাব্দে",
+      "১০০ খ্রিস্টপূর্বাব্দে"
+    ],
+    "correctIndex": 2,
+    "explanation": "সম্রাট অশোক ২৬১ খ্রিস্টপূর্বাব্দে কলিঙ্গ রাজ্য আক্রমণ করেন (কলিঙ্গের যুদ্ধ)। এ যুদ্ধের ভয়াবহতা দেখে তিনি যুদ্ধ ত্যাগ করে বৌদ্ধ ধর্ম গ্রহণ করেন।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_eb937f51a00f",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "মুসলিম সংখ্যাগরিষ্ঠ দেশ হয়েও কোন দুটি দেশ NATO-এর সদস্য এবং NATO-এর বর্তমান মহাসচিব কে?",
+    "options": [
+      "তুরস্ক ও কসোভো; মহাসচিব জেনস স্টলটেনবার্গ",
+      "তুরস্ক ও আলবেনিয়া; মহাসচিব মার্ক রুটে (নেদারল্যান্ডস)",
+      "আলবেনিয়া ও বসনিয়া; মহাসচিব মার্ক রুটে",
+      "তুরস্ক ও আজারবাইজান; মহাসচিব আন্দ্রেস ফগ রাসমুসেন"
+    ],
+    "correctIndex": 1,
+    "explanation": "মুসলিম দেশ হয়েও তুরস্ক ও আলবেনিয়া NATO-এর সদস্য। ২০২৪ সাল থেকে NATO-এর মহাসচিব হিসেবে দায়িত্ব পালন করছেন নেদারল্যান্ডসের মার্ক রুটে।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_ee57ee3afcc5",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘স্নায়ুযুদ্ধ’ বা ‘Cold War’ শব্দটি সর্বপ্রথম কে ব্যবহার করেন?",
+    "options": [
+      "উইনস্টন চার্চিল",
+      "হ্যারি এস ট্রুম্যান",
+      "ওয়াল্টার লিপম্যান",
+      "জর্জ মার্শাল"
+    ],
+    "correctIndex": 2,
+    "explanation": "মার্কিন সাংবাদিক ওয়াল্টার লিপম্যান তাঁর ‘The Cold War’ গ্রন্থে সর্বপ্রথম স্নায়ুযুদ্ধ বা Cold War শব্দটি ব্যবহার করেন।",
+    "topic": "স্নায়ুযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_eeab4e7078f0",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "পৃথিবীর সবচেয়ে বড় (বৃহত্তম) প্রণালী এবং দীর্ঘতম প্রণালী যথাক্রমে কোনটি?",
+    "options": [
+      "বৃহত্তম মোজাম্বিক প্রণালী এবং দীর্ঘতম তাতার প্রণালী",
+      "বৃহত্তম মালাক্কা প্রণালী এবং দীর্ঘতম বেরিং প্রণালী",
+      "বৃহত্তম তাতার প্রণালী এবং দীর্ঘতম মোজাম্বিক প্রণালী",
+      "বৃহত্তম ফরমোজা প্রণালী এবং দীর্ঘতম পক প্রণালী"
+    ],
+    "correctIndex": 0,
+    "explanation": "সবচেয়ে বড় (বৃহত্তম) প্রণালী হলো মোজাম্বিক প্রণালী এবং দীর্ঘতম প্রণালী হলো তাতার প্রণালী (রাশিয়া ও শাখালিনকে পৃথক করেছে)।",
+    "topic": "প্রণালী",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_ef6346b0858b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "‘ডোকলাম’ মালভূমি কোন তিনটি দেশের সীমান্তে অবস্থিত?",
+    "options": [
+      "ভারত, নেপাল ও চীন",
+      "ভারত, মিয়ানমার ও চীন",
+      "চীন, পাকিস্তান ও ভারত",
+      "ভারত, ভুটান ও চীন"
+    ],
+    "correctIndex": 3,
+    "explanation": "ডোকলাম মালভূমি ভারত, চীন ও ভুটান সীমান্তে অবস্থিত একটি বিরোধপূর্ণ মালভূমি।",
+    "topic": "বিরোধপূর্ণ অঞ্চল",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_f2fc52233618",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "ফরাসি বিপ্লবের স্লোগান ‘স্বাধীনতা, সাম্য ও ভ্রাতৃত্ব’-এর রচয়িতা কে এবং বাস্তিল দুর্গের পতন কবে ঘটে?",
+    "options": [
+      "ভলতেয়ার; ৪ জুলাই ১৭৭৬",
+      "জ্যা জ্যাক রুশো; ১৪ জুলাই ১৭৮৯",
+      "মন্টেস্কু; ২১ জানুয়ারি ১৭৯৩",
+      "নেপোলিয়ন বোনাপার্ট; ৯ নভেম্বর ১৭৯৯"
+    ],
+    "correctIndex": 1,
+    "explanation": "প্যারিসের বাস্তিল দুর্গ পতনের মাধ্যমে ১৭৮৯ সালের ১৪ জুলাই ফরাসি বিপ্লবের সূত্রপাত হয়। এর স্লোগান ‘স্বাধীনতা, সাম্য ও ভ্রাতৃত্ব’-এর রচয়িতা ফরাসি দার্শনিক জ্যা জ্যাক রুশো।",
+    "topic": "আলোচিত বিপ্লব",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_f49c6a073ebe",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "সপ্তবর্ষব্যাপী যুদ্ধ (১৭৫৬–৬৩ খ্রিস্টাব্দ)-এর মূল প্রতিদ্বন্দ্বী কারা ছিলেন?",
+    "options": [
+      "ফ্রান্সের নেপোলিয়ন ও ব্রিটেনের ডিউক অব ওয়েলিংটন",
+      "প্রুশিয়ার ফ্রেডরিক দ্য গ্রেট ও অস্ট্রিয়ার রানি মেরিয়া টেরাসা",
+      "ইংল্যান্ডের রাজা জন ও ফ্রান্সের ষোড়শ লুই",
+      "রাশিয়ার পিটার দ্য গ্রেট ও সুইডেনের চার্লস"
+    ],
+    "correctIndex": 1,
+    "explanation": "১৭৫৬–৬৩ খ্রিস্টাব্দে সংঘটিত সপ্তবর্ষব্যাপী যুদ্ধের মূল প্রতিদ্বন্দ্বী ছিলেন প্রুশিয়ার ফ্রেডরিক দ্য গ্রেট এবং অস্ট্রিয়ার রানি মেরিয়া টেরাসা।",
+    "topic": "গুরুত্বপূর্ণ যুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_f7cd8f02d9e2",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "NATO-এর বর্তমান সদস্য দেশ কয়টি এবং সর্বশেষ (৩২তম) সদস্য হিসেবে কোন দেশ যোগ দেয়?",
+    "options": [
+      "৩২টি; সুইডেন (৭ মার্চ ২০২৪)",
+      "৩১টি; ফিনল্যান্ড (৪ এপ্রিল ২০২৩)",
+      "৩০টি; উত্তর মেসিডোনিয়া",
+      "৩২টি; ইউক্রেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "৭ মার্চ ২০২৪ সালে সুইডেন যোগদানের মাধ্যমে NATO-এর বর্তমান সদস্য সংখ্যা দাঁড়িয়েছে ৩২টিতে।",
+    "topic": "সামরিক জোট ও সংস্থা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_f9ba36178d86",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "লেবানন ও ইসরাইলের সীমান্তবর্তী রেখা এবং মেক্সিকো ও যুক্তরাষ্ট্রকে বিভক্তকারী সীমারেখার নাম যথাক্রমে কী?",
+    "options": [
+      "গ্রিন লাইন ও ম্যাকনামারা লাইন",
+      "পার্পল লাইন ও কার্জন লাইন",
+      "বারলেভ লাইন ও নর্দার্ন লিমিট লাইন",
+      "ব্লু লাইন ও সনোরা লাইন"
+    ],
+    "correctIndex": 3,
+    "explanation": "লেবানন ও ইসরাইলের সীমান্তবর্তী রেখা ‘ব্লু লাইন’ এবং মেক্সিকো ও যুক্তরাষ্ট্রকে বিভক্তকারী সীমারেখা ‘সনোরা লাইন’।",
+    "topic": "বিখ্যাত সীমারেখা",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_fa477de90879",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Genesis 51st Special BCS Digest (pp. 459-468)",
+    "question": "কোন নীতির মাধ্যমে আনুষ্ঠানিকভাবে স্নায়ুযুদ্ধের ঘোষণা দেওয়া হয়?",
+    "options": [
+      "মার্শাল প্ল্যান (১৯৪৮)",
+      "মাল্টা কনফারেন্স (১৯৮৯)",
+      "মনরো ডকট্রিন (১৮২৩)",
+      "ট্রুম্যান ডকট্রিন (১৯৪৭)"
+    ],
+    "correctIndex": 3,
+    "explanation": "মূলত ট্রুম্যান ডকট্রিন (১৯৪৭)-এর নীতির মাধ্যমে আনুষ্ঠানিকভাবে স্নায়ুযুদ্ধের সূচনা বা ঘোষণা দেওয়া হয়।",
+    "topic": "স্নায়ুযুদ্ধ",
+    "customPack": "Custom Questions Part 1"
+  },
+  {
+    "id": "q_226719e6e263",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "How many permanent members are there in the UN Security Council?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "7"
+    ],
+    "correctIndex": 0,
+    "explanation": "USA, UK, France, Russia and China hold veto power; there are 10 non-permanent members."
+  },
+  {
+    "id": "q_25958af92bb2",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of the World Health Organization (WHO) is in:",
+    "options": [
+      "New York",
+      "Paris",
+      "Geneva",
+      "Vienna"
+    ],
+    "correctIndex": 2,
+    "explanation": "WHO was established on 7 April 1948, now observed as World Health Day."
+  },
+  {
+    "id": "q_2e32dcab10d1",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The United Nations was formally established on:",
+    "options": [
+      "26 June 1945",
+      "24 October 1945",
+      "10 December 1948",
+      "1 January 1942"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Charter was signed on 26 June 1945 in San Francisco and came into force on 24 October 1945 (UN Day)."
+  },
+  {
+    "id": "q_3633c4840f57",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of OPEC is located in:",
+    "options": [
+      "Riyadh",
+      "Vienna",
+      "Kuwait City",
+      "Geneva"
+    ],
+    "correctIndex": 1,
+    "explanation": "OPEC was founded in Baghdad in 1960 and moved its headquarters to Vienna in 1965."
+  },
+  {
+    "id": "q_3dc4bbeecb86",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The International Court of Justice is located in:",
+    "options": [
+      "The Hague",
+      "Geneva",
+      "Brussels",
+      "Strasbourg"
+    ],
+    "correctIndex": 0,
+    "explanation": "It sits in the Peace Palace in The Hague, Netherlands."
+  },
+  {
+    "id": "q_416c650c896b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Kyoto Protocol is related to:",
+    "options": [
+      "Nuclear non-proliferation",
+      "Reduction of greenhouse gas emissions",
+      "Protection of the ozone layer",
+      "International trade"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ozone layer is addressed by the Montreal Protocol (1987)."
+  },
+  {
+    "id": "q_59e6ca35623b",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Strait of Malacca separates:",
+    "options": [
+      "Malay Peninsula and Sumatra",
+      "India and Sri Lanka",
+      "Java and Borneo",
+      "Korea and Japan"
+    ],
+    "correctIndex": 0,
+    "explanation": "India and Sri Lanka are separated by the Palk Strait."
+  },
+  {
+    "id": "q_70511860c0ef",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Durand Line is the boundary between:",
+    "options": [
+      "India and Pakistan",
+      "Afghanistan and Pakistan",
+      "India and China",
+      "India and Nepal"
+    ],
+    "correctIndex": 1,
+    "explanation": "The McMahon Line separates India and China (Tibet); the Radcliffe Line separates India from Pakistan and Bangladesh."
+  },
+  {
+    "id": "q_83234cc48dc4",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "SAARC was established in 1985 in:",
+    "options": [
+      "Kathmandu",
+      "Dhaka",
+      "New Delhi",
+      "Colombo"
+    ],
+    "correctIndex": 1,
+    "explanation": "SAARC was founded at the Dhaka summit on 8 December 1985; its secretariat is in Kathmandu."
+  },
+  {
+    "id": "q_860d6d27e134",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "NATO was established in:",
+    "options": [
+      "1945",
+      "1949",
+      "1955",
+      "1961"
+    ],
+    "correctIndex": 1,
+    "explanation": "The North Atlantic Treaty was signed in Washington on 4 April 1949; NATO's headquarters is in Brussels."
+  },
+  {
+    "id": "q_98458e0882e2",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of ASEAN is located in:",
+    "options": [
+      "Bangkok",
+      "Kuala Lumpur",
+      "Manila",
+      "Jakarta"
+    ],
+    "correctIndex": 3,
+    "explanation": "ASEAN was founded in Bangkok in 1967; its secretariat is in Jakarta."
+  },
+  {
+    "id": "q_a6d86679de2a",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of the International Monetary Fund (IMF) is in:",
+    "options": [
+      "New York",
+      "Washington, D.C.",
+      "London",
+      "Geneva"
+    ],
+    "correctIndex": 1,
+    "explanation": "The IMF and the World Bank, both Bretton Woods institutions, are headquartered in Washington, D.C."
+  },
+  {
+    "id": "q_bf157f2bc826",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Paris Agreement on climate change was adopted in:",
+    "options": [
+      "2009",
+      "2012",
+      "2015",
+      "2019"
+    ],
+    "correctIndex": 2,
+    "explanation": "Adopted at COP21, it aims to keep warming well below 2°C and pursue efforts toward 1.5°C."
+  },
+  {
+    "id": "q_cc52ca169fb6",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The Berlin Wall fell in:",
+    "options": [
+      "1987",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "explanation": "It fell on 9 November 1989; Germany reunified on 3 October 1990."
+  },
+  {
+    "id": "q_ce4f90af942d",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The largest country in the world by area is:",
+    "options": [
+      "Canada",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "q_e631ac99d348",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of UNESCO is located in:",
+    "options": [
+      "Paris",
+      "Rome",
+      "New York",
+      "Nairobi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rome hosts the FAO; Nairobi hosts UNEP."
+  },
+  {
+    "id": "q_e65215f30c20",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Which country filed the Rohingya genocide case against Myanmar at the ICJ in 2019?",
+    "options": [
+      "Bangladesh",
+      "Malaysia",
+      "The Gambia",
+      "Turkey"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Gambia filed the case on behalf of the OIC in November 2019."
+  },
+  {
+    "id": "q_e7353075776c",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The headquarters of INTERPOL is located in:",
+    "options": [
+      "Brussels",
+      "The Hague",
+      "Lyon",
+      "Vienna"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "q_e79e3e536471",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Euro banknotes and coins entered circulation in:",
+    "options": [
+      "1992",
+      "1999",
+      "2002",
+      "2004"
+    ],
+    "correctIndex": 2,
+    "explanation": "The euro was introduced as an accounting currency in 1999 and as cash on 1 January 2002."
+  },
+  {
+    "id": "q_f1382f7d7621",
+    "part": "General",
+    "subject": "International Affairs",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The largest ocean in the world is the:",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctIndex": 3,
+    "explanation": ""
+  },
+  {
+    "id": "q_039845478914",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The value of √0.0081 is:",
+    "options": [
+      "0.009",
+      "0.09",
+      "0.9",
+      "0.0009"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.09 × 0.09 = 0.0081."
+  },
+  {
+    "id": "q_040ea3efd89b",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The value of log₁₀ 1000 is:",
+    "options": [
+      "2",
+      "3",
+      "10",
+      "100"
+    ],
+    "correctIndex": 1,
+    "explanation": "10³ = 1000."
+  },
+  {
+    "id": "q_0502c66d6dff",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The LCM of 12 and 18 is:",
+    "options": [
+      "6",
+      "36",
+      "72",
+      "216"
+    ],
+    "correctIndex": 1,
+    "explanation": "12 = 2²×3 and 18 = 2×3²; LCM = 2²×3² = 36."
+  },
+  {
+    "id": "q_0a8c488baf6c",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The simple interest on Tk 5,000 at 10% per annum for 3 years is:",
+    "options": [
+      "Tk 500",
+      "Tk 1,000",
+      "Tk 1,500",
+      "Tk 1,655"
+    ],
+    "correctIndex": 2,
+    "explanation": "I = P × r × t = 5000 × 0.10 × 3 = 1500 (Tk 1,655 is the compound interest)."
+  },
+  {
+    "id": "q_1885a21b446b",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The average of the first 10 natural numbers is:",
+    "options": [
+      "5",
+      "5.5",
+      "10",
+      "55"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 10 × 11 / 2 = 55; average = 55/10 = 5.5."
+  },
+  {
+    "id": "q_1d77f2842be8",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "If 2x + 3 = 11, then x = ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 1,
+    "explanation": "2x = 8, so x = 4."
+  },
+  {
+    "id": "q_346cb42a1194",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "If 20% of a number is 50, the number is:",
+    "options": [
+      "100",
+      "200",
+      "250",
+      "500"
+    ],
+    "correctIndex": 2,
+    "explanation": "x × 20/100 = 50, so x = 250."
+  },
+  {
+    "id": "q_72b99eb0031d",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The roots of x² − 5x + 6 = 0 are:",
+    "options": [
+      "1 and 6",
+      "−2 and −3",
+      "2 and 3",
+      "−1 and 6"
+    ],
+    "correctIndex": 2,
+    "explanation": "x² − 5x + 6 = (x − 2)(x − 3)."
+  },
+  {
+    "id": "q_b63662ada484",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The sum of the interior angles of a hexagon is:",
+    "options": [
+      "540°",
+      "720°",
+      "900°",
+      "1080°"
+    ],
+    "correctIndex": 1,
+    "explanation": "(n − 2) × 180° = 4 × 180° = 720°."
+  },
+  {
+    "id": "q_cc61fe08b05b",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "A shopkeeper buys an article for Tk 80 and sells it for Tk 100. The profit percentage is:",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "80%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Profit = 20 on cost 80; 20/80 × 100 = 25%."
+  },
+  {
+    "id": "q_d6fa87d094a0",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Tk 64 is divided between two persons in the ratio 3 : 5. The larger share is:",
+    "options": [
+      "Tk 24",
+      "Tk 32",
+      "Tk 40",
+      "Tk 48"
+    ],
+    "correctIndex": 2,
+    "explanation": "64 × 5/8 = 40."
+  },
+  {
+    "id": "q_ea69563293dd",
+    "part": "General",
+    "subject": "Mathematical Reasoning",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "The area of a circle of radius 7 cm (π = 22/7) is:",
+    "options": [
+      "44 sq cm",
+      "144 sq cm",
+      "154 sq cm",
+      "308 sq cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "πr² = 22/7 × 49 = 154 sq cm; 44 cm is the circumference."
+  },
+  {
+    "id": "q_149deafae9c5",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "What is the angle between the hour hand and the minute hand of a clock at 3:00?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each hour mark is 30° apart; 3 × 30° = 90°."
+  },
+  {
+    "id": "q_2568023f84e2",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "A is the brother of B, and B is the mother of C. How is A related to C?",
+    "options": [
+      "Father",
+      "Maternal uncle",
+      "Grandfather",
+      "Cousin"
+    ],
+    "correctIndex": 1,
+    "explanation": "A is the brother of C's mother."
+  },
+  {
+    "id": "q_2c67203faa23",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
+    "correctIndex": 2,
+    "explanation": "Differences are 4, 6, 8, 10, 12 (or n(n+1)): 30 + 12 = 42."
+  },
+  {
+    "id": "q_42db6d9214cc",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Find the next number: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "Squares of natural numbers: 5² = 25."
+  },
+  {
+    "id": "q_6ffb99a37e71",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Find the odd one out:",
+    "options": [
+      "Apple",
+      "Mango",
+      "Potato",
+      "Banana"
+    ],
+    "correctIndex": 2,
+    "explanation": "Potato is a vegetable (tuber); the others are fruits."
+  },
+  {
+    "id": "q_8255b849976b",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Which number does NOT belong to the group: 3, 5, 7, 9, 11?",
+    "options": [
+      "3",
+      "7",
+      "9",
+      "11"
+    ],
+    "correctIndex": 2,
+    "explanation": "All others are prime numbers; 9 = 3 × 3."
+  },
+  {
+    "id": "q_849e8853d77c",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "If today is Monday, what day will it be after 61 days?",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correctIndex": 2,
+    "explanation": "61 = 8 weeks + 5 days; Monday + 5 days = Saturday."
+  },
+  {
+    "id": "q_8bacb71e68b7",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "A man faces north, turns 90° clockwise and then another 90° clockwise. Which direction is he facing now?",
+    "options": [
+      "East",
+      "West",
+      "South",
+      "North"
+    ],
+    "correctIndex": 2,
+    "explanation": "North → East → South."
+  },
+  {
+    "id": "q_99b23239939d",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "If 5 workers can complete a job in 12 days, how many days will 10 workers take (working at the same rate)?",
+    "options": [
+      "6",
+      "10",
+      "24",
+      "60"
+    ],
+    "correctIndex": 0,
+    "explanation": "Work = 5 × 12 = 60 worker-days; 60/10 = 6 days."
+  },
+  {
+    "id": "q_c11c1d065858",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Find the next letter in the series: A, C, F, J, O, ?",
+    "options": [
+      "S",
+      "T",
+      "U",
+      "V"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gaps are +2, +3, +4, +5, +6: O (15) + 6 = U (21)."
+  },
+  {
+    "id": "q_c88974557193",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "If CAT is coded as DBU, how is DOG coded?",
+    "options": [
+      "EPH",
+      "EPI",
+      "CNF",
+      "FQI"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each letter is moved one step forward: D→E, O→P, G→H."
+  },
+  {
+    "id": "q_eb5c0c3d2673",
+    "part": "General",
+    "subject": "Mental Ability",
+    "sourceExam": "Practice Seed — General (original practice MCQs)",
+    "question": "Book : Author :: Painting : ?",
+    "options": [
+      "Canvas",
+      "Painter",
+      "Colour",
+      "Gallery"
+    ],
+    "correctIndex": 1,
+    "explanation": "A book is created by an author; a painting is created by a painter."
+  }
+]

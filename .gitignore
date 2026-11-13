@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.venv/
+__pycache__/
+public/data/questions.json
+raw_questions/_web_cache/
+# Copyrighted source PDFs you downloaded yourself — keep them out of git
+raw_questions/**/*.pdf
+.env*
+.vercel
+
+

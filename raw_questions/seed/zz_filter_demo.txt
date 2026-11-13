@@ -1,0 +1,34 @@
+Source: Filter Demo (these MUST end up in data/excluded_non_mbbs.json, never in the bank)
+
+Dental Anatomy
+1. The number of permanent teeth in an adult human is:
+a) 20
+b) 28
+c) 32
+d) 36
+Answer: c
+
+Prosthodontics
+2. Which impression material is most commonly used for complete denture final impressions?
+a) Zinc oxide eugenol
+b) Plaster of Paris
+c) Alginate
+d) Agar
+Answer: a
+
+General Science
+3. The chemical formula of common salt is:
+a) NaCl
+b) KCl
+c) CaCO3
+d) NaHCO3
+Answer: a
+
+Computer & ICT
+4. RAM stands for:
+a) Random Access Memory
+b) Read Access Memory
+c) Rapid Action Memory
+d) Run Access Memory
+Answer: a
+
