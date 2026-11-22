@@ -42,15 +42,7 @@ export function FloatingTutorDrawer() {
             className="relative flex h-[82vh] w-full max-w-xl flex-col overflow-hidden rounded-2xl bg-white shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
-            <button
-              type="button"
-              onClick={() => setOpen(false)}
-              aria-label="Close Ask BCS Tutor"
-              className="absolute right-3 top-3 z-10 inline-flex h-8 w-8 items-center justify-center rounded-lg border border-slate-200 bg-white text-slate-600 hover:bg-slate-100"
-            >
-              ✕
-            </button>
-            <AskTutor compact />
+            <AskTutor compact onClose={() => setOpen(false)} />
           </div>
         </div>
       )}

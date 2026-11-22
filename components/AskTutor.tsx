@@ -12,6 +12,7 @@ export interface TutorMessage {
 interface AskTutorProps {
   assessmentContext?: string;
   compact?: boolean;
+  onClose?: () => void;
 }
 
 const DEFAULT_STARTERS = [
@@ -74,7 +75,7 @@ function renderFormattedText(text: string) {
   );
 }
 
-export function AskTutor({ assessmentContext, compact = false }: AskTutorProps) {
+export function AskTutor({ assessmentContext, compact = false, onClose }: AskTutorProps) {
   const [messages, setMessages] = useState<TutorMessage[]>([]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -200,6 +201,16 @@ export function AskTutor({ assessmentContext, compact = false }: AskTutorProps) 
               className="rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-semibold text-slate-600 transition hover:bg-slate-50 disabled:opacity-50"
             >
               New Chat
+            </button>
+          )}
+          {onClose && (
+            <button
+              type="button"
+              onClick={onClose}
+              aria-label="Close Ask BCS Tutor"
+              className="inline-flex h-8 w-8 items-center justify-center rounded-lg border border-slate-200 bg-white text-slate-600 transition hover:bg-slate-100"
+            >
+              ✕
             </button>
           )}
         </div>
