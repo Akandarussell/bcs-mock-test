@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Static export -> ./out (upload to Puter Hosting, Vercel, GitHub Pages, Netlify ...)
-  output: 'export',
-  // Emit /history/index.html etc. so plain static hosts resolve routes without rewrites
+  // Deployed to Vercel (supports server-side /api/tutor route for Gemini AI while
+  // keeping @heyputer/puter.js auth & KV strictly client-side).
   trailingSlash: true,
   images: { unoptimized: true },
   reactStrictMode: true,

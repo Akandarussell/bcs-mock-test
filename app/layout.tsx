@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { FloatingTutorDrawer } from '@/components/FloatingTutorDrawer';
 import { Footer } from '@/components/Footer';
 import { Navbar } from '@/components/Navbar';
 import { PuterProvider } from '@/components/PuterProvider';
@@ -24,6 +25,7 @@ export default function RootLayout({
             {children}
           </main>
           <Footer />
+          <FloatingTutorDrawer />
         </PuterProvider>
       </body>
     </html>

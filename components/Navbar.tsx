@@ -8,10 +8,11 @@ import { useAppContext } from './PuterProvider';
 const NAV_LINKS = [
   { href: '/', label: 'Dashboard' },
   { href: '/exam/', label: 'Mock Exam' },
-  { href: '/custom-part-1/', label: 'Custom Questions Part 1' },
-  { href: '/history/', label: 'History & Review' },
-  { href: '/compare/', label: 'Compare Attempts' },
-  { href: '/bank/', label: 'Question Bank' },
+  { href: '/self-assessment/', label: 'Self Assessment' },
+  { href: '/custom-part-1/', label: 'Custom Part 1' },
+  { href: '/history/', label: 'History' },
+  { href: '/compare/', label: 'Compare' },
+  { href: '/bank/', label: 'Bank' },
 ];
 
 function isActivePath(pathname: string, href: string): boolean {
