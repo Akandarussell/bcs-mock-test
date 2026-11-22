@@ -23,13 +23,13 @@ export function FloatingTutorDrawer() {
         <button
           type="button"
           onClick={() => setOpen(true)}
-          aria-label="Open Ask BCS Tutor"
+          aria-label="Open Ask Russell"
           className="fixed bottom-5 right-5 z-40 inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-emerald-600 to-teal-600 px-4 py-3 text-xs font-bold text-white shadow-lg transition hover:from-emerald-700 hover:to-teal-700 sm:text-sm"
         >
           <span className="flex h-5 w-5 items-center justify-center rounded-full bg-white/20 text-[11px] font-extrabold">
-            AI
+            R
           </span>
-          <span>Ask BCS Tutor</span>
+          <span>Ask Russell</span>
         </button>
       )}
 

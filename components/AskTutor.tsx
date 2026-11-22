@@ -195,7 +195,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
           error?: string;
         };
         if (!data.reply) {
-          throw new Error(data.error || 'Empty response from BCS Tutor.');
+          throw new Error(data.error || 'Empty response from Russell.');
         }
         setInteractionId(data.interactionId);
         setActiveModel(data.model);
@@ -212,7 +212,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
       if (err instanceof DOMException && err.name === 'AbortError') {
         setError('Request timed out after 25s. Please try asking again.');
       } else {
-        setError(err instanceof Error ? err.message : 'Unable to contact BCS Tutor.');
+        setError(err instanceof Error ? err.message : 'Unable to contact Russell.');
       }
     } finally {
       window.clearTimeout(timeoutId);
@@ -241,13 +241,13 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
       {/* Header */}
       <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 bg-gradient-to-r from-emerald-50/70 via-white to-teal-50/60 px-4 py-3 sm:px-5">
         <div className="flex items-center gap-2.5">
-          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-emerald-600 to-teal-600 text-xs font-extrabold text-white shadow-xs">
-            AI
+          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-emerald-600 to-teal-600 text-sm font-extrabold text-white shadow-xs">
+            R
           </span>
           <div>
-            <h3 className="text-sm font-bold text-slate-900">Ask BCS Tutor (Gemini AI)</h3>
+            <h3 className="text-sm font-bold text-slate-900">Ask Russell</h3>
             <p className="text-[11px] text-slate-500">
-              51st Special BCS MBBS &amp; General Tutor · English &amp; বাংলা
+              51st Special BCS Preparation &amp; Answer Solving · English &amp; বাংলা
               {assessmentContext ? ' · Connected to your Self-Assessment' : ''}
             </p>
           </div>
@@ -273,7 +273,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
             <button
               type="button"
               onClick={onClose}
-              aria-label="Close Ask BCS Tutor"
+              aria-label="Close Ask Russell"
               className="inline-flex h-8 w-8 items-center justify-center rounded-lg border border-slate-200 bg-white text-slate-600 transition hover:bg-slate-100"
             >
               ✕
@@ -292,9 +292,10 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
         {messages.length === 0 ? (
           <div className="space-y-3">
             <div className="rounded-xl border border-emerald-100 bg-emerald-50/40 p-3.5 text-xs leading-relaxed text-slate-700">
-              Ask me anything about <strong>51st Special BCS (Assistant Surgeon — MBBS)</strong>:
-              clinical medicine, surgery, pharmacology mnemonics, Bangla/English grammar, Bangladesh
-              &amp; International Affairs, math shortcuts, or a personalized study roadmap.
+              Hi! I&apos;m <strong>Russell</strong> — ask me anything about{' '}
+              <strong>51st Special BCS (Assistant Surgeon — MBBS)</strong> preparation or paste any
+              MCQ/question to solve step by step: clinical medicine, surgery, pharmacology
+              mnemonics, Bangla/English grammar, GK, math shortcuts, or a personalized study plan.
             </div>
             <div className="grid gap-2 sm:grid-cols-2">
               {starters.map((prompt) => (
@@ -337,7 +338,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
           <div className="flex justify-start">
             <div className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-2.5 text-xs font-medium text-slate-600">
               <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-500" />
-              BCS Tutor is thinking…
+              Russell is thinking…
             </div>
           </div>
         )}
@@ -365,7 +366,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
                 void sendMessage(input);
               }
             }}
-            placeholder="Ask BCS Tutor anything (English or বাংলা)… Press Enter to send"
+            placeholder="Ask Russell about BCS preparation or paste any question to solve (English or বাংলা)…"
             disabled={loading}
             className="min-h-[48px] flex-1 resize-none rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-sm text-slate-900 placeholder:text-slate-400 focus:border-emerald-500 focus:outline-none focus:ring-2 focus:ring-emerald-500/20 disabled:opacity-60"
           />
@@ -374,7 +375,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
             disabled={loading || !input.trim()}
             className="inline-flex min-h-[46px] shrink-0 items-center justify-center rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 px-5 py-2.5 text-sm font-bold text-white shadow-xs transition hover:from-emerald-700 hover:to-teal-700 disabled:cursor-not-allowed disabled:opacity-50"
           >
-            {loading ? 'Sending…' : 'Ask Tutor'}
+            {loading ? 'Sending…' : 'Ask Russell'}
           </button>
         </div>
       </form>

@@ -314,7 +314,7 @@ export default function SelfAssessmentPage() {
           Rate your current confidence across all <strong>12 MBBS Medical Science</strong> and{' '}
           <strong>6 General</strong> subjects below. Your readiness score automatically blends with
           your completed mock exam results to generate a step-by-step study completion roadmap — and
-          connects directly to your <strong>Gemini BCS Tutor</strong>.
+          connects directly to <strong>Russell</strong> for BCS preparation &amp; answer solving.
         </p>
 
         {/* Readiness Summary KPIs */}
