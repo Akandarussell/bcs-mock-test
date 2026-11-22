@@ -104,6 +104,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
       role: 'user',
       text: cleaned,
     };
+    const assistantId = `a_${Date.now() + 1}`;
     setMessages((prev) => [...prev, userMsg]);
     setLoading(true);
 
@@ -111,10 +112,14 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
       listRef.current?.scrollTo({ top: listRef.current.scrollHeight, behavior: 'smooth' });
     });
 
+    const controller = new AbortController();
+    const timeoutId = window.setTimeout(() => controller.abort(), 25000);
+
     try {
       const res = await fetch('/api/tutor/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        signal: controller.signal,
         body: JSON.stringify({
           message: cleaned,
           previousInteractionId: interactionId,
@@ -122,34 +127,95 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
           assessmentContext,
         }),
       });
-      const data = (await res.json()) as {
-        reply?: string;
-        interactionId?: string;
-        model?: string;
-        error?: string;
-      };
 
-      if (!res.ok || !data.reply) {
-        throw new Error(data.error || `Request failed (${res.status})`);
+      const contentType = res.headers.get('content-type') || '';
+
+      if (!res.ok) {
+        const errData = (await res.json().catch(() => ({}))) as { error?: string };
+        throw new Error(errData.error || `Request failed (${res.status})`);
       }
 
-      setInteractionId(data.interactionId);
-      setActiveModel(data.model);
-      setMessages((prev) => [
-        ...prev,
-        {
-          id: `a_${Date.now()}`,
-          role: 'assistant',
-          text: data.reply!,
-          model: data.model,
-        },
-      ]);
+      if (contentType.includes('application/x-ndjson') && res.body) {
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = '';
+        let accumulated = '';
+        let addedBubble = false;
+
+        while (true) {
+          const { value, done } = await reader.read();
+          if (done) break;
+          buffer += decoder.decode(value, { stream: true });
+          const lines = buffer.split('\n');
+          buffer = lines.pop() ?? '';
+
+          for (const line of lines) {
+            if (!line.trim()) continue;
+            const evt = JSON.parse(line) as {
+              type?: string;
+              text?: string;
+              interactionId?: string;
+              model?: string;
+              error?: string;
+            };
+            if (evt.type === 'delta' && evt.text) {
+              accumulated += evt.text;
+              if (!addedBubble) {
+                addedBubble = true;
+                setMessages((prev) => [
+                  ...prev,
+                  { id: assistantId, role: 'assistant', text: accumulated },
+                ]);
+              } else {
+                setMessages((prev) =>
+                  prev.map((m) => (m.id === assistantId ? { ...m, text: accumulated } : m))
+                );
+              }
+              requestAnimationFrame(() => {
+                listRef.current?.scrollTo({ top: listRef.current.scrollHeight });
+              });
+            } else if (evt.type === 'done') {
+              if (evt.interactionId) setInteractionId(evt.interactionId);
+              if (evt.model) {
+                setActiveModel(evt.model);
+                setMessages((prev) =>
+                  prev.map((m) => (m.id === assistantId ? { ...m, model: evt.model } : m))
+                );
+              }
+            } else if (evt.type === 'error') {
+              throw new Error(evt.error || 'Tutor stream error.');
+            }
+          }
+        }
+      } else {
+        const data = (await res.json()) as {
+          reply?: string;
+          interactionId?: string;
+          model?: string;
+          error?: string;
+        };
+        if (!data.reply) {
+          throw new Error(data.error || 'Empty response from BCS Tutor.');
+        }
+        setInteractionId(data.interactionId);
+        setActiveModel(data.model);
+        setMessages((prev) => [
+          ...prev,
+          { id: assistantId, role: 'assistant', text: data.reply!, model: data.model },
+        ]);
+      }
+
       requestAnimationFrame(() => {
         listRef.current?.scrollTo({ top: listRef.current.scrollHeight, behavior: 'smooth' });
       });
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Unable to contact BCS Tutor.');
+      if (err instanceof DOMException && err.name === 'AbortError') {
+        setError('Request timed out after 25s. Please try asking again.');
+      } else {
+        setError(err instanceof Error ? err.message : 'Unable to contact BCS Tutor.');
+      }
     } finally {
+      window.clearTimeout(timeoutId);
       setLoading(false);
     }
   };
@@ -267,7 +333,7 @@ export function AskTutor({ assessmentContext, compact = false, onClose }: AskTut
           ))
         )}
 
-        {loading && (
+        {loading && (messages.length === 0 || messages[messages.length - 1].role === 'user') && (
           <div className="flex justify-start">
             <div className="inline-flex items-center gap-2 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-2.5 text-xs font-medium text-slate-600">
               <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-500" />

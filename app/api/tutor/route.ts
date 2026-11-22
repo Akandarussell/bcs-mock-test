@@ -1,7 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenAI } from '@google/genai';
 
-const MODEL_PRIORITY = ['gemini-3.8-flash', 'gemini-3.5-flash-lite'] as const;
+export const maxDuration = 30;
+
+// Fast, high-throughput models with minimal thinking for instant chat replies.
+const MODEL_PRIORITY = ['gemini-3.5-flash-lite', 'gemini-3.1-flash-lite'] as const;
 
 const BASE_SYSTEM_INSTRUCTION = `You are Shamima's dedicated AI Tutor for the 51st Special BCS (Health Cadre — Assistant Surgeon, MBBS) examination in Bangladesh.
 
@@ -31,7 +34,8 @@ function isTransientCapacityError(err: unknown): boolean {
     msg.includes('503') ||
     msg.includes('429') ||
     msg.toLowerCase().includes('high demand') ||
-    msg.toLowerCase().includes('overloaded')
+    msg.toLowerCase().includes('overloaded') ||
+    msg.toLowerCase().includes('timeout')
   );
 }
 
@@ -56,7 +60,10 @@ export async function POST(req: NextRequest) {
 
   const message = body.message?.trim();
   if (!message) {
-    return NextResponse.json({ error: 'Please enter a question for the BCS Tutor.' }, { status: 400 });
+    return NextResponse.json(
+      { error: 'Please enter a question for the BCS Tutor.' },
+      { status: 400 }
+    );
   }
 
   const systemInstruction = body.assessmentContext?.trim()
@@ -64,7 +71,6 @@ export async function POST(req: NextRequest) {
     : BASE_SYSTEM_INSTRUCTION;
 
   const ai = new GoogleGenAI({ apiKey });
-  let lastError: unknown = null;
 
   const orderedModels =
     body.preferredModel &&
@@ -75,35 +81,82 @@ export async function POST(req: NextRequest) {
         ]
       : [...MODEL_PRIORITY];
 
+  let lastError: unknown = null;
+
   for (const model of orderedModels) {
     const canReuseInteraction =
       Boolean(body.previousInteractionId) &&
       (!body.preferredModel || model === body.preferredModel);
+
     try {
-      const interaction = await ai.interactions.create({
+      const stream = await ai.interactions.create({
         model,
         input: message,
         system_instruction: systemInstruction,
+        stream: true,
         ...(canReuseInteraction
           ? { previous_interaction_id: body.previousInteractionId }
           : {}),
         generation_config: {
-          max_output_tokens: 1500,
+          max_output_tokens: 1200,
+          thinking_level: 'minimal',
         },
       });
 
-      const reply = interaction.output_text?.trim();
-      if (!reply) {
-        return NextResponse.json(
-          { error: 'The tutor returned an empty response. Please try asking again.' },
-          { status: 502 }
-        );
-      }
+      const encoder = new TextEncoder();
+      const readable = new ReadableStream({
+        async start(controller) {
+          let interactionId: string | undefined;
+          let sentAnyText = false;
+          const sendEvent = (payload: Record<string, unknown>) => {
+            controller.enqueue(encoder.encode(`${JSON.stringify(payload)}\n`));
+          };
 
-      return NextResponse.json({
-        reply,
-        interactionId: interaction.id,
-        model,
+          try {
+            for await (const event of stream) {
+              if (
+                event.event_type === 'interaction.created' ||
+                event.event_type === 'interaction.completed'
+              ) {
+                if (event.interaction?.id) {
+                  interactionId = event.interaction.id;
+                }
+              } else if (event.event_type === 'step.delta') {
+                if (event.delta?.type === 'text' && event.delta.text) {
+                  sentAnyText = true;
+                  sendEvent({ type: 'delta', text: event.delta.text });
+                }
+              } else if (event.event_type === 'error') {
+                const msg =
+                  event.error?.message || 'Gemini stream returned an error.';
+                sendEvent({ type: 'error', error: msg });
+                return;
+              }
+            }
+
+            if (!sentAnyText) {
+              sendEvent({
+                type: 'error',
+                error: 'The tutor returned an empty response. Please try again.',
+              });
+            } else {
+              sendEvent({ type: 'done', interactionId, model });
+            }
+          } catch (streamErr) {
+            const msg =
+              streamErr instanceof Error ? streamErr.message : 'Stream interrupted.';
+            sendEvent({ type: 'error', error: msg });
+          } finally {
+            controller.close();
+          }
+        },
+      });
+
+      return new Response(readable, {
+        headers: {
+          'Content-Type': 'application/x-ndjson; charset=utf-8',
+          'Cache-Control': 'no-cache, no-transform',
+        },
       });
     } catch (err) {
       lastError = err;
